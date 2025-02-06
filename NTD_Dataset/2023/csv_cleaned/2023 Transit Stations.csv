@@ -1,0 +1,1122 @@
+NTD ID,Agency Name,Reporter Type,Group Plan Sponsor NTD ID,Group Plan Sponsor Name,Reporting Module,Mode,TOS,ADA Accessible Stations,Non-ADA Accessible Stations,Total Stations,Escalators,Elevators
+1,King County,Full Reporter: Operating,,,Urban,FB,DO,1,2,3,0,0
+1,King County,Full Reporter: Operating,,,Urban,MB,DO,16,0,16,0,13
+1,King County,Full Reporter: Operating,,,Urban,MB,PT,0,0,0,0,0
+1,King County,Full Reporter: Operating,,,Urban,SR,DO,25,0,25,0,0
+1,King County,Full Reporter: Operating,,,Urban,TB,DO,0,0,0,0,0
+2,Spokane Transit Authority,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,1,2
+3,Pierce County Transportation Benefit Area Authority,Full Reporter: Operating,,,Urban,MB,DO,8,0,8,0,5
+4,Confederated Tribes of the Colville Indian Reservation,Small Systems Reporter,,,Tribe,FB,DO,0,2,2,0,0
+4,Confederated Tribes of the Colville Indian Reservation,Small Systems Reporter,,,Tribe,MB,DO,0,0,0,0,0
+5,City of Everett,Full Reporter: Operating,,,Urban,MB,DO,3,0,3,0,0
+6,City of Yakima,Full Reporter: Operating,,,Urban,CB,PT,0,0,0,0,0
+6,City of Yakima,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,0
+7,Lane Transit District,Full Reporter: Operating,0R02,Oregon Department of Transportation ,Urban,MB,DO,3,0,3,0,0
+7,Lane Transit District,Full Reporter: Operating,0R02,Oregon Department of Transportation ,Urban,MB,PT,0,0,0,0,0
+7,Lane Transit District,Full Reporter: Operating,0R02,Oregon Department of Transportation ,Urban,RB,DO,2,0,2,0,0
+8,Tri-County Metropolitan Transportation District of Oregon,Full Reporter: Operating,,,Urban,LR,DO,95,0,95,0,16
+8,Tri-County Metropolitan Transportation District of Oregon,Full Reporter: Operating,,,Urban,MB,DO,3,0,3,0,0
+8,Tri-County Metropolitan Transportation District of Oregon,Full Reporter: Operating,,,Urban,YR,PT,5,0,5,0,0
+9,Kalispel Tribe of Indians,Small Systems Reporter,,,Tribe,MB,DO,0,0,0,0,0
+10,Klamath Tribes,Small Systems Reporter,0R02,Oregon Department of Transportation ,Tribe,CB,DO,0,0,0,0,0
+11,Valley Regional Transit,Full Reporter: Operating,A0004,Valley Regional Transit,Urban,MB,PT,1,0,1,0,1
+12,Municipality of Anchorage,Full Reporter: Operating,,,Urban,MB,DO,2,0,2,0,0
+14,Sitka Tribe of Alaska,Small Systems Reporter,0R04,Alaska Department of Transportation,Tribe,MB,DO,0,0,0,0,0
+16,City of Longview,Full Reporter: Operating,,,Urban,CB,DO,0,0,0,0,0
+16,City of Longview,Full Reporter: Operating,,,Urban,MB,DO,2,0,2,0,0
+18,Ben Franklin Transit,Full Reporter: Operating,,,Urban,MB,DO,2,2,4,0,0
+19,Intercity Transit,Full Reporter: Operating,,,Urban,CB,DO,2,0,2,0,0
+19,Intercity Transit,Full Reporter: Operating,,,Urban,MB,DO,2,0,2,0,0
+20,Kitsap County Public Transportation Benefit Area Authority,Full Reporter: Operating,,,Urban,FB,DO,6,0,6,0,1
+20,Kitsap County Public Transportation Benefit Area Authority,Full Reporter: Operating,,,Urban,MB,DO,7,0,7,0,1
+21,Whatcom Transportation Authority,Full Reporter: Operating,,,Urban,MB,DO,4,0,4,0,0
+22,City of Pocatello,Small Systems Reporter,0R01,Idaho Transportation Department,Urban,MB,DO,1,0,1,0,0
+23,City of Seattle,Full Reporter: Operating,,,Urban,MG,PT,2,0,2,0,1
+24,Clark County Public Transportation Benefit Area Authority,Full Reporter: Operating,,,Urban,MB,DO,4,0,4,0,0
+25,Salem Area Mass Transit District,Full Reporter: Operating,,,Urban,MB,DO,2,0,2,0,0
+25,Salem Area Mass Transit District,Full Reporter: Operating,,,Urban,MB,PT,0,0,0,0,0
+28,County of Pierce,Full Reporter: Operating,,,Urban,FB,PT,2,0,2,0,0
+29,Snohomish County Public Transportation Benefit Area Corporation,Full Reporter: Operating,,,Urban,CB,DO,12,0,12,5,8
+29,Snohomish County Public Transportation Benefit Area Corporation,Full Reporter: Operating,,,Urban,CB,PT,7,0,7,0,4
+29,Snohomish County Public Transportation Benefit Area Corporation,Full Reporter: Operating,,,Urban,MB,DO,80,0,80,0,6
+31,Shoshone-Bannock Tribes ,Small Systems Reporter,,,Tribe,MB,DO,0,0,0,0,0
+33,Senior Services of Snohomish County,Small Systems Reporter,,,Urban,MB,DO,0,0,0,0,0
+34,Rogue Valley Transportation District,Full Reporter: Operating/Building,0R02,Oregon Department of Transportation ,Urban,MB,DO,1,0,1,0,0
+35,Washington State Ferries,Full Reporter: Operating,,,Urban,FB,DO,19,0,19,0,0
+36,Makah Tribal Council,Small Systems Reporter,,,Tribe,MB,DO,0,0,0,0,0
+40,Central Puget Sound Regional Transit Authority,Full Reporter: Operating,,,Urban,CB,DO,18,0,18,0,12
+40,Central Puget Sound Regional Transit Authority,Full Reporter: Operating,,,Urban,CB,PT,7,0,7,0,6
+40,Central Puget Sound Regional Transit Authority,Full Reporter: Operating,,,Urban,CR,PT,14,0,14,0,19
+40,Central Puget Sound Regional Transit Authority,Full Reporter: Operating,,,Urban,LR,DO,21,0,21,92,55
+40,Central Puget Sound Regional Transit Authority,Full Reporter: Operating,,,Urban,SR,DO,12,0,12,0,0
+41,Alaska Railroad Corporation,Full Reporter: Operating,,,Urban,AR,DO,8,0,8,1,2
+43,Chelan Douglas PTBA ,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,1
+44,Skagit Transit,Full Reporter: Operating,,,Urban,CB,DO,3,0,3,0,2
+44,Skagit Transit,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,0
+45,Fairbanks North Star Borough ,Small Systems Reporter,,,Urban,MB,DO,1,0,1,0,0
+46,City of Wilsonville,Full Reporter: Operating,0R02,Oregon Department of Transportation ,Urban,MB,DO,1,0,1,0,0
+47,City of Corvallis,Small Systems Reporter,0R02,Oregon Department of Transportation ,Urban,MB,PT,1,0,1,0,0
+48,City of Lewiston,Small Systems Reporter,0R01,Idaho Transportation Department,Urban,MB,DO,0,0,0,0,0
+51,Asotin County Public Transportation Benefit Area,Small Systems Reporter,,,Urban,MB,DO,0,0,0,0,0
+53,Coeur d'Alene Tribe,Small Systems Reporter,0R01,Idaho Transportation Department,Tribe,MB,DO,0,0,0,0,0
+57,Central Oregon Intergovernmental Council,Full Reporter: Operating,0R02,Oregon Department of Transportation ,Urban,CB,DO,1,0,1,0,0
+57,Central Oregon Intergovernmental Council,Full Reporter: Operating,0R02,Oregon Department of Transportation ,Urban,MB,DO,0,0,0,0,0
+57,Central Oregon Intergovernmental Council,Full Reporter: Operating,0R02,Oregon Department of Transportation ,Urban,MB,PT,1,0,1,0,0
+58,City of Portland,Full Reporter: Operating,,,Urban,SR,PT,66,0,66,0,0
+58,City of Portland,Full Reporter: Operating,,,Urban,TR,PT,2,0,2,0,1
+59,Josephine County,Small Systems Reporter,0R02,Oregon Department of Transportation ,Urban,CB,DO,0,0,0,0,0
+59,Josephine County,Small Systems Reporter,0R02,Oregon Department of Transportation ,Urban,MB,DO,0,0,0,0,0
+60,The Tulalip Tribes of Washington,Small Systems Reporter,,,Tribe,MB,DO,0,0,0,0,0
+61,City of Albany,Small Systems Reporter,0R02,Oregon Department of Transportation ,Urban,MB,DO,1,0,1,0,0
+64,Valley Transit,Small Systems Reporter,,,Urban,MB,DO,1,0,1,0,0
+65,Benton County,Small Systems Reporter,0R02,Oregon Department of Transportation ,Urban,CB,PT,0,0,0,0,0
+85,Gulkana Village Council,Small Systems Reporter,0R04,Alaska Department of Transportation,Tribe,MB,DO,0,0,0,0,0
+95,Lummi Nation,Small Systems Reporter,,,Tribe,MB,DO,0,0,0,0,0
+103,Squaxin Island Tribe,Small Systems Reporter,,,Tribe,MB,DO,0,0,0,0,0
+111,Confederated Tribes and Bands of The Yakama Nation,Small Systems Reporter,,,Tribe,MB,DO,0,0,0,0,0
+119,Confederated Tribes of the Umatilla Indian Reservation,Small Systems Reporter,0R02,Oregon Department of Transportation ,Tribe,CB,DO,0,0,0,0,0
+119,Confederated Tribes of the Umatilla Indian Reservation,Small Systems Reporter,0R02,Oregon Department of Transportation ,Tribe,MB,DO,0,0,0,0,0
+135,Nez Perce Tribe,Small Systems Reporter,0R01,Idaho Transportation Department,Tribe,MB,DO,0,0,0,0,0
+199,Seldovia Village Tribe,Small Systems Reporter,,,Tribe,FB,DO,2,0,2,0,0
+207,Spokane Tribe of Indians,Small Systems Reporter,,,Tribe,MB,DO,0,0,0,0,0
+297,People for People Yakima,Small Systems Reporter,,,Urban,CB,DO,0,0,0,0,0
+297,People for People Yakima,Small Systems Reporter,,,Urban,MB,DO,0,0,0,0,0
+327,Valley Transit,Small Systems Reporter,,,Urban,MB,DO,0,0,0,0,0
+330,City of Canby,Small Systems Reporter,0R02,Oregon Department of Transportation ,Urban,MB,PT,1,0,1,0,0
+363,Clackamas County ,Small Systems Reporter,0R02,Oregon Department of Transportation ,Urban,CB,PT,0,0,0,0,0
+363,Clackamas County ,Small Systems Reporter,0R02,Oregon Department of Transportation ,Urban,MB,PT,0,0,0,0,0
+373,Treasure Valley Transit,Small Systems Reporter,0R01,Idaho Transportation Department,Urban,MB,DO,1,0,1,0,0
+376,"Ride Connection, Inc.",Full Reporter: Operating,0R02,Oregon Department of Transportation ,Urban,MB,DO,0,0,0,0,0
+400,Gwichyaa Zhee Tribal Transit Service,Small Systems Reporter,,,Tribe,MB,DO,0,0,0,0,0
+401,Lower Elwha Klallam Tribe,Small Systems Reporter,,,Tribe,MB,DO,0,0,0,0,0
+407,Muckleshoot Indian Tribe,Small Systems Reporter,,,Tribe,MB,DO,1,0,1,0,0
+414,Ninilchik Village,Small Systems Reporter,,,Tribe,MB,DO,1,0,1,0,0
+416,Boise State University,Small Systems Reporter,A0004,Valley Regional Transit,Urban,MB,DO,1,0,1,0,0
+460,Craig Tribal Association,Small Systems Reporter,,,Tribe,MB,DO,0,0,0,0,0
+10001,Rhode Island Public Transit Authority,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,0
+10002,Manchester Transit Authority,Small Systems Reporter,,,Urban,MB,DO,0,0,0,0,0
+10003,Massachusetts Bay Transportation Authority,Full Reporter: Operating,,,Urban,CR,PT,111,27,138,51,48
+10003,Massachusetts Bay Transportation Authority,Full Reporter: Operating,,,Urban,FB,PT,9,0,9,0,0
+10003,Massachusetts Bay Transportation Authority,Full Reporter: Operating,,,Urban,HR,DO,51,1,52,151,148
+10003,Massachusetts Bay Transportation Authority,Full Reporter: Operating,,,Urban,LR,DO,47,31,78,29,49
+10003,Massachusetts Bay Transportation Authority,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,0
+10003,Massachusetts Bay Transportation Authority,Full Reporter: Operating,,,Urban,MB,PT,0,0,0,0,0
+10003,Massachusetts Bay Transportation Authority,Full Reporter: Operating,,,Urban,RB,DO,6,0,6,11,7
+10004,Brockton Area Transit Authority,Full Reporter: Operating,,,Urban,MB,PT,1,0,1,0,0
+10005,Lowell Regional Transit Authority,Full Reporter: Operating,,,Urban,MB,PT,1,0,1,0,2
+10006,Southeastern Regional Transit Authority,Full Reporter: Operating,,,Urban,MB,PT,2,0,2,0,2
+10007,Berkshire Regional Transit Authority,Full Reporter: Operating,,,Urban,MB,PT,1,0,1,0,2
+10008,Pioneer Valley Transit Authority,Full Reporter: Operating,,,Urban,MB,PT,3,0,3,0,0
+10013,Merrimack Valley Regional Transit Authority,Full Reporter: Operating,,,Urban,CB,PT,1,0,1,0,2
+10013,Merrimack Valley Regional Transit Authority,Full Reporter: Operating,,,Urban,MB,PT,1,0,1,0,2
+10014,Worcester Regional Transit Authority,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,0
+10015,Lewiston-Auburn Transit Committee,Small Systems Reporter,,,Urban,MB,PT,2,0,2,0,0
+10016,Greater Portland Transit District,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,0
+10040,Southeast Area Transit District,Full Reporter: Operating,1R01,Connecticut Department of Transportation,Urban,MB,DO,1,0,1,0,0
+10045,Connecticut Department of Transportation - CTTransit New Britain -Dattco.,Full Reporter: Operating,,,Urban,CB,PT,0,0,0,0,0
+10045,Connecticut Department of Transportation - CTTransit New Britain -Dattco.,Full Reporter: Operating,,,Urban,MB,PT,0,0,0,0,0
+10048,Connecticut Department of Transportation - CTTRANSIT - Hartford Division,Full Reporter: Operating,,,Urban,MB,DO,0,0,0,0,0
+10048,Connecticut Department of Transportation - CTTRANSIT - Hartford Division,Full Reporter: Operating,,,Urban,RB,DO,1,0,1,0,0
+10050,Greater Bridgeport Transit Authority,Full Reporter: Operating,1R01,Connecticut Department of Transportation,Urban,MB,DO,1,0,1,0,1
+10051,Housatonic Area Regional Transit ,Full Reporter: Operating,1R01,Connecticut Department of Transportation,Urban,MB,DO,1,0,1,0,0
+10053,Cape Ann Transportation Authority,Full Reporter: Operating,,,Urban,MB,PT,0,0,0,0,0
+10055,Connecticut Department of Transportation - CTTRANSIT New Haven Division,Full Reporter: Operating,,,Urban,MB,DO,0,0,0,0,0
+10056,Connecticut Department of Transportation - CTTRANSIT Stamford Division,Full Reporter: Operating,,,Urban,MB,DO,0,0,0,0,0
+10057,Norwalk Transit District,Full Reporter: Operating,1R01,Connecticut Department of Transportation,Urban,MB,DO,0,0,0,0,0
+10061,Montachusett Regional Transit Authority,Full Reporter: Operating,,,Urban,MB,PT,1,0,1,0,3
+10064,Greater Attleboro-Taunton Regional Transit Authority,Full Reporter: Operating,,,Urban,MB,PT,3,0,3,0,0
+10066,Green Mountain Transit Authority,Full Reporter: Operating,,,Urban,CB,DO,2,0,2,0,0
+10066,Green Mountain Transit Authority,Full Reporter: Operating,,,Urban,MB,DO,2,0,2,0,0
+10086,Cooperative Alliance for Seacoast Transportation,Full Reporter: Operating,,,Urban,MB,DO,3,0,3,0,0
+10087,City of Nashua,Full Reporter: Operating,,,Urban,MB,PT,1,0,1,0,0
+10088,Casco Bay Island Transit District,Full Reporter: Operating,,,Urban,FB,DO,1,0,1,0,1
+10096,City of Bangor,Small Systems Reporter,,,Urban,MB,DO,1,0,1,0,0
+10098,"Western Maine Transportation Services, Inc.",Full Reporter: Operating,1R03,Maine Department of Transportation,Urban,CB,DO,0,0,0,0,0
+10098,"Western Maine Transportation Services, Inc.",Full Reporter: Operating,1R03,Maine Department of Transportation,Urban,MB,DO,0,0,0,0,0
+10102,Connecticut Department of Transportation,Full Reporter: Operating,,,Urban,CB,PT,0,0,0,0,0
+10102,Connecticut Department of Transportation,Full Reporter: Operating,,,Urban,CR,PT,8,1,9,1,8
+10105,Cape Cod Regional Transit Authority,Full Reporter: Operating,,,Urban,MB,PT,1,0,1,0,1
+10107,Milford Transit District,Full Reporter: Operating,1R01,Connecticut Department of Transportation,Urban,MB,DO,0,0,0,0,0
+10112,City of South Portland,Small Systems Reporter,,,Urban,MB,DO,1,0,1,0,0
+10114,Biddeford-Saco-Old Orchard Beach Transit Committee Shuttle Bus,Small Systems Reporter,,,Urban,MB,DO,0,0,0,0,0
+10115,Northern New England Passenger Rail Authority,Full Reporter: Operating,,,Urban,CR,PT,12,0,12,0,2
+10118,MetroWest Regional Transit Authority,Full Reporter: Operating,,,Urban,MB,PT,1,0,1,0,1
+10119,University Of New Hampshire,Small Systems Reporter,,,Urban,MB,DO,0,0,0,0,0
+10122,"Jalbert Leasing, Inc. ",Small Systems Reporter,1R04,New Hampshire Department of Transportation,Urban,CB,DO,3,0,3,0,0
+10128,Connecticut Department of Transportation- CTTransit Waterbury- NET,Full Reporter: Operating,,,Urban,MB,DO,0,0,0,0,0
+10130,Connecticut Department of Transportation -CTTRANSIT New Britain ,Full Reporter: Operating,,,Urban,MB,PT,0,0,0,0,0
+10133,"Boston Express Bus, Inc.",Small Systems Reporter,1R04,New Hampshire Department of Transportation,Urban,CB,DO,4,0,4,0,0
+10140,Estuary Transit District,Small Systems Reporter,1R01,Connecticut Department of Transportation,Urban,MB,DO,1,0,1,0,0
+10149,Windham Region Transit District,Small Systems Reporter,1R01,Connecticut Department of Transportation,Urban,CB,DO,0,0,0,0,0
+10149,Windham Region Transit District,Small Systems Reporter,1R01,Connecticut Department of Transportation,Urban,MB,DO,0,0,0,0,0
+10178,Town of Bedford,Small Systems Reporter,,,Urban,MB,DO,0,0,0,0,0
+10179,City of Beverly,Small Systems Reporter,,,Urban,MB,PT,0,0,0,0,0
+10181,Town of Lexington,Small Systems Reporter,,,Urban,MB,PT,0,0,0,0,0
+10182,"Mission Hill Link, Inc.",Small Systems Reporter,,,Urban,MB,PT,0,0,0,0,0
+10183,"Woods Hole, Martha's Vineyard and Nantucket Steamship Authority",Full Reporter: Operating,,,Urban,FB,DO,5,0,5,0,7
+10183,"Woods Hole, Martha's Vineyard and Nantucket Steamship Authority",Full Reporter: Operating,,,Urban,MB,DO,2,0,2,0,0
+11147,Rhode Island Department of Transportation,Full Reporter: Operating,,,Urban,FB,PT,2,0,2,0,0
+11152,Mashantucket Pequot Tribal Nation,Small Systems Reporter,1R01,Connecticut Department of Transportation,Tribe,MB,DO,0,0,0,0,0
+11160,Peter Pan Bus Lines,Small Systems Reporter,,,Urban,CB,DO,5,0,5,1,2
+11239,"Hyannis Harbor Tours, Inc. ",Full Reporter: Operating,,,Urban,FB,DO,3,0,3,0,0
+20002,Capital District Transportation Authority,Full Reporter: Operating,,,Urban,CB,PT,0,0,0,0,0
+20002,Capital District Transportation Authority,Full Reporter: Operating,,,Urban,MB,DO,2,0,2,1,1
+20003,Broome County,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,1
+20004,Niagara Frontier Transportation Authority,Full Reporter: Operating,,,Urban,LR,DO,19,0,19,24,19
+20004,Niagara Frontier Transportation Authority,Full Reporter: Operating,,,Urban,MB,DO,9,0,9,0,0
+20005,Chemung County,Small Systems Reporter,2R02,New York Department of Transportation,Urban,MB,PT,1,0,1,0,0
+20006,City of Long Beach,Full Reporter: Operating,2R02,New York Department of Transportation,Urban,MB,DO,1,0,1,0,0
+20008,MTA New York City Transit,Full Reporter: Operating,,,Urban,CB,DO,0,0,0,0,0
+20008,MTA New York City Transit,Full Reporter: Operating,,,Urban,HR,DO,141,331,472,279,368
+20008,MTA New York City Transit,Full Reporter: Operating,,,Urban,MB,DO,2,0,2,0,0
+20008,MTA New York City Transit,Full Reporter: Operating,,,Urban,RB,DO,0,0,0,0,0
+20010,Dutchess County,Full Reporter: Operating,2R02,New York Department of Transportation,Urban,MB,DO,0,0,0,0,0
+20018,Central New York Regional Transportation Authority,Full Reporter: Operating,,,Urban,MB,DO,4,0,4,0,1
+20071,Town of Huntington,Full Reporter: Operating,2R02,New York Department of Transportation,Urban,MB,DO,0,0,0,0,0
+20072,Suffolk County ,Full Reporter: Operating,,,Urban,MB,PT,0,0,0,0,0
+20075,Port Authority Transit Corporation,Full Reporter: Operating,,,Urban,HR,DO,13,0,13,14,19
+20076,Westchester County,Full Reporter: Operating,,,Urban,MB,PT,2,0,2,0,0
+20078,"Metro-North Commuter Railroad Company, dba: MTA Metro-North Railroad",Full Reporter: Operating,,,Urban,CR,DO,51,61,112,32,146
+20078,"Metro-North Commuter Railroad Company, dba: MTA Metro-North Railroad",Full Reporter: Operating,,,Urban,FB,PT,2,0,2,0,5
+20078,"Metro-North Commuter Railroad Company, dba: MTA Metro-North Railroad",Full Reporter: Operating,,,Urban,MB,PT,1,1,2,0,5
+20080,New Jersey Transit Corporation,Full Reporter: Operating,,,Urban,CR,DO,78,88,166,104,75
+20080,New Jersey Transit Corporation,Full Reporter: Operating,,,Urban,LR,DO,13,4,17,2,6
+20080,New Jersey Transit Corporation,Full Reporter: Operating,,,Urban,LR,PT,24,0,24,0,17
+20080,New Jersey Transit Corporation,Full Reporter: Operating,,,Urban,MB,DO,26,0,26,0,7
+20080,New Jersey Transit Corporation,Full Reporter: Operating,,,Urban,MB,PT,0,0,0,0,0
+20080,New Jersey Transit Corporation,Full Reporter: Operating,,,Urban,YR,PT,21,0,21,0,0
+20082,New York City Department of Transportation,Full Reporter: Operating,,,Urban,FB,DO,2,0,2,6,7
+20084,County of Rockland ,Full Reporter: Operating,2R02,New York Department of Transportation,Urban,MB,PT,1,0,1,0,0
+20085,Town of Clarkstown ,Small Systems Reporter,2R02,New York Department of Transportation,Urban,MB,DO,0,0,0,0,0
+20096,Putnam County ,Full Reporter: Operating,2R02,New York Department of Transportation,Urban,MB,PT,0,0,0,0,0
+20098,Port Authority Trans-Hudson Corporation,Full Reporter: Operating,,,Urban,HR,DO,9,4,13,41,26
+20099,Staten Island Rapid Transit Operating Authority,Full Reporter: Operating,,,Urban,HR,DO,6,15,21,0,2
+20100,MTA Long Island Rail Road,Full Reporter: Operating,,,Urban,CR,DO,110,16,126,75,79
+20113,Regional Transit Service,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,0
+20120,City of Glens Falls ,Small Systems Reporter,,,Urban,MB,DO,0,0,0,0,0
+20122,"Academy Lines, Inc.",Full Reporter: Operating,,,Urban,CB,DO,2,0,2,0,2
+20126,"Hudson Transit Lines, Inc.",Full Reporter: Operating,,,Urban,CB,DO,4,0,4,0,12
+20128,Suburban Transit Corporation,Full Reporter: Operating,,,Urban,CB,DO,2,0,2,0,2
+20135,Monsey New Square Trails Corporation,Full Reporter: Operating,,,Urban,CB,DO,0,0,0,0,0
+20145,Tompkins Consolidated Area Transit,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,0
+20148,Newburgh Beacon Bus Corporation,Small Systems Reporter,A0023,Orange County,Urban,MB,DO,0,0,0,0,0
+20149,"Rockland Coaches, Inc.",Full Reporter: Operating,2R02,New York Department of Transportation,Urban,CB,DO,2,0,2,0,0
+20160,"Community Transit, Inc. ",Small Systems Reporter,,,Urban,CB,DO,1,0,1,0,0
+20163,"Lakeland Bus Lines, Inc.",Full Reporter: Operating,,,Urban,CB,DO,1,0,1,0,0
+20165,"Olympia Trails Bus Company, Inc.",Small Systems Reporter,,,Urban,CB,DO,5,2,7,4,4
+20166,"Orange-Newark-Elizabeth, Inc.",Full Reporter: Operating,,,Urban,MB,DO,1,0,1,1,3
+20169,"Trans-Bridge Lines, Inc. ",Full Reporter: Operating,,,Urban,CB,DO,4,0,4,1,2
+20175,Private Transportation Corporation,Full Reporter: Operating,,,Urban,MB,PT,0,0,0,0,0
+20176,Kaser Bus Service,Small Systems Reporter,,,Urban,CB,PT,0,0,0,0,0
+20177,"Adirondack Transit Lines, Inc.",Full Reporter: Operating,,,Urban,CB,DO,9,0,9,20,7
+20178,Ulster County ,Full Reporter: Operating,2R02,New York Department of Transportation,Urban,MB,DO,0,0,0,0,0
+20179,"Leprechaun Lines, Inc.",Small Systems Reporter,,,Urban,CB,DO,0,0,0,0,0
+20183,Town of Monroe ,Small Systems Reporter,A0023,Orange County,Urban,MB,DO,0,0,0,0,0
+20187,Village of Kiryas Joel,Small Systems Reporter,A0023,Orange County,Urban,MB,DO,0,0,0,0,0
+20188,MTA Bus Company,Full Reporter: Operating,,,Urban,MB,DO,1,1,2,0,0
+20190,Port Imperial Ferry Corporation,Full Reporter: Operating,,,Urban,FB,DO,11,0,11,0,0
+20190,Port Imperial Ferry Corporation,Full Reporter: Operating,,,Urban,MB,DO,3,0,3,0,0
+20192,Bergen County,Full Reporter: Operating,2R01,NJ Transit,Urban,MB,DO,0,0,0,0,0
+20195,Gloucester County,Small Systems Reporter,2R01,NJ Transit,Urban,MB,PT,0,0,0,0,0
+20199,County of Atlantic,Full Reporter: Operating,2R01,NJ Transit,Urban,MB,PT,0,0,0,0,0
+20200,South Jersey Transportation Authority,Small Systems Reporter,2R01,NJ Transit,Urban,MB,DO,0,0,0,0,0
+20201,County of Cumberland,Small Systems Reporter,2R01,NJ Transit,Urban,MB,DO,0,0,0,0,0
+20206,County of Nassau,Full Reporter: Operating,,,Urban,MB,PT,1,0,1,0,0
+20208,County of Burlington,Small Systems Reporter,2R01,NJ Transit,Urban,MB,PT,0,0,0,0,0
+20209,Somerset County,Full Reporter: Operating,2R01,NJ Transit,Urban,MB,DO,0,0,0,0,0
+20212,County of Hunterdon,Small Systems Reporter,2R01,NJ Transit,Urban,MB,PT,0,0,0,0,0
+20214,Town of Warwick ,Small Systems Reporter,A0023,Orange County,Urban,MB,DO,0,0,0,0,0
+20215,City of Watertown NY,Small Systems Reporter,2R02,New York Department of Transportation,Urban,MB,DO,1,0,1,0,0
+20216,Orange County,Small Systems Reporter,A0023,Orange County,Urban,MB,PT,0,0,0,0,0
+20217,"Hampton Jitney, Inc.",Full Reporter: Operating,,,Urban,CB,DO,2,0,2,0,1
+20220,Broadway Bus Corporation,Small Systems Reporter,,,Urban,MB,DO,0,0,0,0,0
+20223,Cape May Lewes Ferry,Full Reporter: Operating,,,Urban,FB,DO,2,0,2,0,4
+20226,"SeaStreak, LLC",Full Reporter: Operating,,,Urban,FB,DO,11,0,11,0,1
+20230,Barnegat Bay Decoy & Baymen's Museum,Full Reporter: Operating,,,Urban,FB,DO,1,0,1,0,0
+22929,Seneca Nation of Indians,Small Systems Reporter,,,Tribe,MB,PT,0,0,0,0,0
+22930,New York City Economic Development Corporation,Full Reporter: Operating,,,Urban,FB,PT,23,2,25,0,0
+22930,New York City Economic Development Corporation,Full Reporter: Operating,,,Urban,MB,PT,0,0,0,0,0
+30001,Kanawha Valley Regional Transportation Authority,Full Reporter: Operating,3R05,West Virginia Department of Transportation,Urban,MB,DO,2,0,2,0,1
+30002,The Tri-State Transit Authority,Full Reporter: Operating,3R05,West Virginia Department of Transportation,Urban,MB,DO,1,0,1,0,0
+30003,Mid-Ohio Valley Transit Authority,Small Systems Reporter,3R05,West Virginia Department of Transportation,Urban,MB,DO,1,0,1,0,1
+30006,Greater Richmond Transit Company,Full Reporter: Operating/Building,,,Urban,MB,DO,0,0,0,0,0
+30006,Greater Richmond Transit Company,Full Reporter: Operating/Building,,,Urban,RB,DO,26,0,26,0,0
+30007,Greater Roanoke Transit Company,Full Reporter: Operating,3R06,Virginia Department of Rail and Public Transportation,Urban,MB,DO,1,0,1,0,1
+30008,Greater Lynchburg Transit Company,Full Reporter: Operating,3R06,Virginia Department of Rail and Public Transportation,Urban,MB,DO,1,0,1,0,1
+30009,City of Petersburg ,Small Systems Reporter,3R06,Virginia Department of Rail and Public Transportation,Urban,MB,DO,0,0,0,0,0
+30010,Lehigh and Northampton Transportation Authority,Full Reporter: Operating,3R04,Pennsylvania Department of Transportation,Urban,MB,DO,3,0,3,0,4
+30010,Lehigh and Northampton Transportation Authority,Full Reporter: Operating,3R04,Pennsylvania Department of Transportation,Urban,MB,PT,0,0,0,0,0
+30011,Altoona Metro Transit,Full Reporter: Operating,3R04,Pennsylvania Department of Transportation,Urban,MB,DO,1,0,1,0,0
+30012,Cambria County Transit Authority,Full Reporter: Operating,,,Urban,IP,DO,2,0,2,0,2
+30012,Cambria County Transit Authority,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,0
+30013,Erie Metropolitan Transit Authority,Full Reporter: Operating,3R04,Pennsylvania Department of Transportation,Urban,MB,DO,2,0,2,0,1
+30015,Luzerne County Transportation Authority,Full Reporter: Operating,3R04,Pennsylvania Department of Transportation,Urban,MB,DO,1,0,1,0,0
+30019,Southeastern Pennsylvania Transportation Authority,Full Reporter: Operating,,,Urban,CR,DO,76,80,156,22,44
+30019,Southeastern Pennsylvania Transportation Authority,Full Reporter: Operating,,,Urban,HR,DO,42,33,75,36,89
+30019,Southeastern Pennsylvania Transportation Authority,Full Reporter: Operating,,,Urban,MB,DO,18,3,21,0,0
+30019,Southeastern Pennsylvania Transportation Authority,Full Reporter: Operating,,,Urban,MB,PT,0,0,0,0,0
+30019,Southeastern Pennsylvania Transportation Authority,Full Reporter: Operating,,,Urban,SR,DO,2,57,59,1,4
+30019,Southeastern Pennsylvania Transportation Authority,Full Reporter: Operating,,,Urban,TB,DO,0,0,0,0,0
+30022,Pittsburgh Regional Transit,Full Reporter: Operating,,,Urban,IP,DO,2,0,2,0,0
+30022,Pittsburgh Regional Transit,Full Reporter: Operating,,,Urban,LR,DO,50,38,88,19,17
+30022,Pittsburgh Regional Transit,Full Reporter: Operating,,,Urban,MB,DO,63,9,72,0,0
+30023,Beaver County Transit Authority,Full Reporter: Operating,3R04,Pennsylvania Department of Transportation,Urban,MB,DO,2,0,2,0,2
+30025,County of Lackawanna Transit System,Full Reporter: Operating,3R04,Pennsylvania Department of Transportation,Urban,MB,DO,1,0,1,0,0
+30025,County of Lackawanna Transit System,Full Reporter: Operating,3R04,Pennsylvania Department of Transportation,Urban,MB,PT,0,0,0,0,0
+30026,River Valley Transit Authority,Full Reporter: Operating,3R04,Pennsylvania Department of Transportation,Urban,MB,DO,2,0,2,0,0
+30030,Washington Metropolitan Area Transit Authority,Full Reporter: Operating,,,Urban,HR,DO,98,0,98,647,363
+30030,Washington Metropolitan Area Transit Authority,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,0
+30034,Maryland Transit Administration,Full Reporter: Operating,,,Urban,CB,PT,0,0,0,0,0
+30034,Maryland Transit Administration,Full Reporter: Operating,,,Urban,CR,PT,26,16,42,8,19
+30034,Maryland Transit Administration,Full Reporter: Operating,,,Urban,HR,DO,14,0,14,81,27
+30034,Maryland Transit Administration,Full Reporter: Operating,,,Urban,LR,DO,33,0,33,0,0
+30034,Maryland Transit Administration,Full Reporter: Operating,,,Urban,MB,DO,2,0,2,0,0
+30035,Ohio Valley Regional Transportation Authority,Full Reporter: Operating,3R05,West Virginia Department of Transportation,Urban,MB,DO,1,0,1,0,2
+30036,City of Charlottesville,Small Systems Reporter,3R06,Virginia Department of Rail and Public Transportation,Urban,MB,DO,1,0,1,0,1
+30040,City of Annapolis,Small Systems Reporter,3R03,Maryland Department of Transportation,Urban,MB,DO,0,0,0,0,0
+30042,Washington County ,Small Systems Reporter,3R03,Maryland Department of Transportation,Urban,MB,DO,1,0,1,0,0
+30044,Westmoreland County Transit Authority,Full Reporter: Operating,3R04,Pennsylvania Department of Transportation,Urban,MB,DO,1,0,1,0,0
+30045,"JAUNT, Inc.",Full Reporter: Operating,3R06,Virginia Department of Rail and Public Transportation,Urban,CB,DO,0,0,0,0,0
+30051,"Montgomery County, Maryland",Full Reporter: Operating,,,Urban,MB,DO,2,0,2,0,2
+30053,City of Bristol Virginia,Small Systems Reporter,3R06,Virginia Department of Rail and Public Transportation,Urban,MB,DO,0,0,0,0,0
+30054,Centre Area Transportation Authority,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,0
+30055,Mercer County Regional Council of Governments,Small Systems Reporter,3R04,Pennsylvania Department of Transportation,Urban,MB,DO,0,0,0,0,0
+30057,Pennsylvania Department of Transportation,Full Reporter: Operating,,,Urban,CR,PT,8,4,12,2,17
+30058,City of Fairfax,Full Reporter: Operating,,,Urban,MB,DO,0,0,0,0,0
+30061,Mid Mon Valley Transit Authority,Full Reporter: Operating,3R04,Pennsylvania Department of Transportation,Urban,MB,PT,1,0,1,0,0
+30068,"Fairfax County, VA",Full Reporter: Operating/Building,,,Urban,MB,PT,8,0,8,2,13
+30070,Potomac and Rappahannock Transportation Commission,Full Reporter: Operating/Building,,,Urban,CB,PT,0,0,0,0,0
+30070,Potomac and Rappahannock Transportation Commission,Full Reporter: Operating/Building,,,Urban,MB,PT,0,0,0,0,0
+30071,City of Alexandria ,Full Reporter: Operating/Building,3R06,Virginia Department of Rail and Public Transportation,Urban,MB,DO,9,0,9,0,0
+30072,"Frederick County, Maryland",Full Reporter: Operating,3R03,Maryland Department of Transportation,Urban,MB,DO,1,0,1,0,0
+30073,Virginia Railway Express,Full Reporter: Operating,,,Urban,CR,PT,19,0,19,6,13
+30074,Harford County Maryland,Small Systems Reporter,3R03,Maryland Department of Transportation,Urban,MB,DO,0,0,0,0,0
+30075,Delaware Transit Corporation,Full Reporter: Operating,,,Urban,MB,DO,3,0,3,1,3
+30075,Delaware Transit Corporation,Full Reporter: Operating,,,Urban,MB,PT,1,0,1,1,2
+30076,Williamsburg Area Transit Authority,Full Reporter: Operating,3R06,Virginia Department of Rail and Public Transportation,Urban,MB,DO,1,0,1,0,0
+30077,Borough of Pottstown,Full Reporter: Operating,3R04,Pennsylvania Department of Transportation,Urban,MB,PT,1,0,1,0,0
+30079,City of Fredericksburg,Small Systems Reporter,3R06,Virginia Department of Rail and Public Transportation,Urban,MB,DO,1,0,1,0,1
+30080,"Arlington County, Virginia",Full Reporter: Operating,3R06,Virginia Department of Rail and Public Transportation,Urban,MB,PT,11,0,11,0,0
+30081,Loudoun County,Full Reporter: Operating,3R06,Virginia Department of Rail and Public Transportation,Urban,CB,PT,0,0,0,0,0
+30081,Loudoun County,Full Reporter: Operating,3R06,Virginia Department of Rail and Public Transportation,Urban,MB,PT,0,0,0,0,0
+30083,Transportation District Commission of Hampton Roads,Full Reporter: Operating,,,Urban,FB,PT,4,0,4,0,0
+30083,Transportation District Commission of Hampton Roads,Full Reporter: Operating,,,Urban,LR,DO,11,0,11,0,2
+30083,Transportation District Commission of Hampton Roads,Full Reporter: Operating,,,Urban,MB,DO,4,0,4,0,0
+30085,"Prince George's County, Maryland",Full Reporter: Operating,,,Urban,MB,PT,0,0,0,0,0
+30087,County of Fayette,Full Reporter: Operating,3R04,Pennsylvania Department of Transportation,Urban,MB,DO,1,0,1,0,1
+30088,"County Commissioners of Charles County, MD",Full Reporter: Operating,3R03,Maryland Department of Transportation,Urban,MB,PT,1,0,1,0,0
+30089,Monongalia County Urban Mass Transit Authority,Small Systems Reporter,3R05,West Virginia Department of Transportation,Urban,MB,DO,1,0,1,0,0
+30090,Eastern Panhandle Transit Authority,Small Systems Reporter,3R05,West Virginia Department of Transportation,Urban,MB,DO,0,0,0,0,0
+30091,Town of Blacksburg,Full Reporter: Operating,3R06,Virginia Department of Rail and Public Transportation,Urban,MB,DO,0,0,0,0,0
+30092,"The County Commissioners of Carroll County, Maryland",Small Systems Reporter,3R03,Maryland Department of Transportation,Urban,MB,PT,0,0,0,0,0
+30093,City of Hazleton,Small Systems Reporter,3R04,Pennsylvania Department of Transportation,Urban,MB,PT,1,0,1,0,0
+30094,City of Harrisonburg,Full Reporter: Operating,3R06,Virginia Department of Rail and Public Transportation,Urban,MB,DO,0,0,0,0,0
+30095,County of Lebanon Transit Authority,Full Reporter: Operating,3R04,Pennsylvania Department of Transportation,Urban,MB,DO,1,0,1,0,0
+30096,The Tri-County Council for the Lower Eastern Shore of Maryland,Full Reporter: Operating,3R03,Maryland Department of Transportation,Urban,MB,DO,1,0,1,0,0
+30099,City of Winchester,Small Systems Reporter,3R06,Virginia Department of Rail and Public Transportation,Urban,MB,DO,0,0,0,0,0
+30107,West Virginia University,Full Reporter: Operating,,,Urban,MG,DO,5,0,5,0,8
+30108,Cecil County Government ,Small Systems Reporter,3R03,Maryland Department of Transportation,Urban,MB,DO,0,0,0,0,0
+30109,St. Mary's County Government ,Small Systems Reporter,3R03,Maryland Department of Transportation,Urban,MB,DO,0,0,0,0,0
+30111,Washington County Transportation Authority,Full Reporter: Operating,3R04,Pennsylvania Department of Transportation,Urban,MB,PT,1,0,1,0,1
+30112,District Department of Transportation,Full Reporter: Operating/Building,,,Urban,MB,PT,0,0,0,0,0
+30112,District Department of Transportation,Full Reporter: Operating/Building,,,Urban,SR,PT,0,0,0,0,0
+30123,District Three Governmental Cooperative,Small Systems Reporter,3R06,Virginia Department of Rail and Public Transportation,Urban,MB,DO,0,0,0,0,0
+30129,Anne Arundel County,Full Reporter: Operating,3R03,Maryland Department of Transportation,Urban,MB,PT,0,0,0,0,0
+30130,Baltimore County Department of Public Works Transportation,Small Systems Reporter,,,Urban,MB,DO,0,0,0,0,0
+30131,"Board of County Commissioners of Calvert County, Maryland",Small Systems Reporter,3R03,Maryland Department of Transportation,Urban,MB,DO,0,0,0,0,0
+30141,Butler Transit Authority,Small Systems Reporter,3R04,Pennsylvania Department of Transportation,Urban,CB,PT,1,0,1,0,0
+30141,Butler Transit Authority,Small Systems Reporter,3R04,Pennsylvania Department of Transportation,Urban,MB,PT,1,0,1,0,0
+30192,Queen Anne's County,Small Systems Reporter,3R03,Maryland Department of Transportation,Urban,MB,DO,0,0,0,0,0
+30198,City of Suffolk,Small Systems Reporter,3R06,Virginia Department of Rail and Public Transportation,Urban,MB,PT,1,0,1,0,0
+30199,New River Transit Authority,Small Systems Reporter,3R05,West Virginia Department of Transportation,Urban,MB,PT,0,0,0,0,0
+30200,City of Radford,Small Systems Reporter,3R06,Virginia Department of Rail and Public Transportation,Urban,MB,PT,0,0,0,0,0
+30201,City of Baltimore,Full Reporter: Operating,3R03,Maryland Department of Transportation,Urban,FB,PT,0,5,5,0,0
+30201,City of Baltimore,Full Reporter: Operating,3R03,Maryland Department of Transportation,Urban,MB,PT,0,0,0,0,0
+30202,South Central Transit Authority,Full Reporter: Operating,,,Urban,MB,DO,2,0,2,0,2
+30203,York County,Small Systems Reporter,3R06,Virginia Department of Rail and Public Transportation,Urban,MB,DO,0,0,0,0,0
+30204,Colonial Williamsburg Foundation,Small Systems Reporter,3R06,Virginia Department of Rail and Public Transportation,Urban,MB,DO,0,0,0,0,0
+30205,"Transit Management of Central Maryland, Inc.",Full Reporter: Operating,3R03,Maryland Department of Transportation,Urban,MB,DO,2,0,2,0,0
+30206,Susquehanna Regional Transportation Authority,Full Reporter: Operating,,,Urban,CB,DO,1,0,1,0,0
+30206,Susquehanna Regional Transportation Authority,Full Reporter: Operating,,,Urban,CB,PT,1,0,1,0,0
+30206,Susquehanna Regional Transportation Authority,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,0
+30206,Susquehanna Regional Transportation Authority,Full Reporter: Operating,,,Urban,MB,PT,1,0,1,0,0
+30989,Central Shenandoah Planning District Commission,Small Systems Reporter,3R06,Virginia Department of Rail and Public Transportation,Urban,MB,PT,0,0,0,0,0
+40001,Chattanooga Area Regional Transportation Authority,Full Reporter: Operating,,,Urban,IP,DO,2,0,2,0,1
+40001,Chattanooga Area Regional Transportation Authority,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,0
+40002,City of Knoxville,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,2,1
+40003,City of Memphis,Full Reporter: Operating,,,Urban,MB,DO,3,0,3,0,1
+40003,City of Memphis,Full Reporter: Operating,,,Urban,SR,DO,7,0,7,0,0
+40004,Metropolitan Transit Authority,Full Reporter: Operating,,,Urban,MB,DO,4,0,4,1,2
+40005,City of Asheville,Full Reporter: Operating,,,Urban,MB,PT,1,0,1,0,0
+40006,Cape Fear Public Transportation Authority,Full Reporter: Operating,,,Urban,MB,PT,2,0,2,0,1
+40007,City of Raleigh,Full Reporter: Operating,,,Urban,MB,PT,1,0,1,0,1
+40008,City of Charlotte North Carolina,Full Reporter: Operating,,,Urban,CB,PT,0,0,0,0,0
+40008,City of Charlotte North Carolina,Full Reporter: Operating,,,Urban,LR,DO,26,0,26,0,21
+40008,City of Charlotte North Carolina,Full Reporter: Operating,,,Urban,MB,PT,3,0,3,0,0
+40008,City of Charlotte North Carolina,Full Reporter: Operating,,,Urban,SR,DO,1,0,1,0,0
+40009,City of Fayetteville,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,1
+40010,City of Gastonia,Small Systems Reporter,4R06,North Carolina Department of Transportation,Urban,MB,DO,1,0,1,0,0
+40011,City of High Point,Small Systems Reporter,,,Urban,MB,DO,1,0,1,0,0
+40012,City of Winston Salem,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,1
+40014,Ms Coast Transportation Authority,Full Reporter: Operating,,,Urban,MB,DO,9,0,9,0,2
+40015,"City of Jackson, MS",Full Reporter: Operating,,,Urban,MB,PT,1,0,1,0,1
+40016,City of Ashland,Small Systems Reporter,,,Urban,MB,DO,1,0,1,0,0
+40017,Lexington Transit Authority,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,1
+40018,Transit Authority of River City,Full Reporter: Operating,,,Urban,MB,DO,2,0,2,0,0
+40018,Transit Authority of River City,Full Reporter: Operating,,,Urban,MB,PT,0,0,0,0,0
+40019,Transit Authority of Northern Kentucky,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,0
+40020,City of Owensboro,Small Systems Reporter,,,Urban,MB,DO,1,0,1,0,0
+40021,City of Albany ,Full Reporter: Operating,4R03,Georgia Department of Transportation,Urban,MB,DO,1,0,1,0,0
+40022,Metropolitan Atlanta Rapid Transit Authority,Full Reporter: Operating,,,Urban,HR,DO,38,0,38,150,115
+40022,Metropolitan Atlanta Rapid Transit Authority,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,0
+40022,Metropolitan Atlanta Rapid Transit Authority,Full Reporter: Operating,,,Urban,SR,DO,12,0,12,0,0
+40023,Augusta Richmond County Transit Department,Full Reporter: Operating,4R03,Georgia Department of Transportation,Urban,MB,PT,1,0,1,0,0
+40024,Columbus Consolidated Government,Small Systems Reporter,4R03,Georgia Department of Transportation,Urban,MB,DO,1,0,1,0,0
+40025,Chatham Area Transit Authority,Full Reporter: Operating,,,Urban,FB,DO,3,0,3,0,0
+40025,Chatham Area Transit Authority,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,0
+40026,Manatee County Board of County Commissioners,Full Reporter: Operating,,,Urban,MB,DO,3,0,3,0,0
+40027,Pinellas Suncoast Transit Authority,Full Reporter: Operating/Building,,,Urban,MB,DO,4,0,4,0,0
+40027,Pinellas Suncoast Transit Authority,Full Reporter: Operating/Building,,,Urban,MB,PT,0,0,0,0,0
+40027,Pinellas Suncoast Transit Authority,Full Reporter: Operating/Building,,,Urban,RB,DO,0,0,0,0,0
+40028,Lee County ,Full Reporter: Operating,,,Urban,MB,DO,5,0,5,0,0
+40029,Broward County Board of County Commissioners,Full Reporter: Operating,,,Urban,MB,DO,4,0,4,0,0
+40029,Broward County Board of County Commissioners,Full Reporter: Operating,,,Urban,MB,PT,0,0,0,0,0
+40030,"City of Gainesville, FL",Full Reporter: Operating/Building,,,Urban,MB,DO,2,0,2,0,0
+40031,Lakeland Area Mass Transit District ,Full Reporter: Operating,,,Urban,MB,DO,2,0,2,0,0
+40031,Lakeland Area Mass Transit District ,Full Reporter: Operating,,,Urban,MB,PT,1,0,1,0,0
+40032,County of Volusia,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,0
+40034,County of Miami-Dade ,Full Reporter: Operating,,,Urban,CB,PT,0,0,0,0,0
+40034,County of Miami-Dade ,Full Reporter: Operating,,,Urban,HR,DO,23,0,23,68,57
+40034,County of Miami-Dade ,Full Reporter: Operating,,,Urban,MB,DO,6,0,6,0,6
+40034,County of Miami-Dade ,Full Reporter: Operating,,,Urban,MB,PT,1,0,1,0,0
+40034,County of Miami-Dade ,Full Reporter: Operating,,,Urban,MG,DO,21,0,21,25,22
+40035,Central Florida Regional Transportation Authority,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,0
+40035,Central Florida Regional Transportation Authority,Full Reporter: Operating,,,Urban,MB,PT,0,0,0,0,0
+40035,Central Florida Regional Transportation Authority,Full Reporter: Operating,,,Urban,RB,DO,1,0,1,0,0
+40036,City of Tallahassee,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,0
+40036,City of Tallahassee,Full Reporter: Operating,,,Urban,MB,PT,0,0,0,0,0
+40037,"Board of County Commissioners, Palm Beach County",Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,1
+40038,"Escambia County Board of County Commissioners, FL",Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,0
+40040,Jacksonville Transportation Authority,Full Reporter: Operating,,,Urban,CB,PT,0,0,0,0,0
+40040,Jacksonville Transportation Authority,Full Reporter: Operating,,,Urban,FB,PT,2,0,2,0,0
+40040,Jacksonville Transportation Authority,Full Reporter: Operating,,,Urban,MB,DO,5,0,5,0,6
+40040,Jacksonville Transportation Authority,Full Reporter: Operating,,,Urban,MB,PT,0,0,0,0,0
+40040,Jacksonville Transportation Authority,Full Reporter: Operating,,,Urban,MG,DO,8,0,8,16,8
+40041,Hillsborough Area Regional Transit Authority,Full Reporter: Operating,,,Urban,MB,DO,7,0,7,0,1
+40041,Hillsborough Area Regional Transit Authority,Full Reporter: Operating,,,Urban,SR,DO,11,0,11,0,0
+40042,Birmingham-Jefferson County Transit Authority,Full Reporter: Operating,,,Urban,MB,DO,4,0,4,0,1
+40042,Birmingham-Jefferson County Transit Authority,Full Reporter: Operating,,,Urban,RB,DO,0,0,0,0,1
+40043,City of Mobile,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,0
+40044,City of Montgomery,Full Reporter: Operating,,,Urban,MB,DO,2,0,2,0,3
+40045,Tuscaloosa County Parking and Transit Authority,Small Systems Reporter,,,Urban,MB,DO,1,0,1,0,1
+40046,Sarasota County ,Full Reporter: Operating,,,Urban,MB,DO,5,0,5,0,0
+40046,Sarasota County ,Full Reporter: Operating,,,Urban,MB,PT,0,0,0,0,0
+40047,Athens-Clarke County Unified Government,Full Reporter: Operating,4R03,Georgia Department of Transportation,Urban,MB,DO,1,0,1,0,2
+40049,City of Gadsden,Small Systems Reporter,,,Urban,MB,DO,0,0,0,0,0
+40051,Town of Chapel Hill,Full Reporter: Operating,,,Urban,MB,DO,0,0,0,0,0
+40053,Greenville Transit Authority,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,0
+40054,City of Johnson City,Small Systems Reporter,,,Urban,MB,DO,1,0,1,0,1
+40055,City of Bristol Tennessee,Small Systems Reporter,,,Urban,MB,DO,1,0,1,0,0
+40056,Pee Dee Regional Transportation Authority,Small Systems Reporter,4R07,South Carolina Department of Transportation,Urban,MB,DO,1,0,1,0,0
+40057,Jackson Transit Authority,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,0
+40058,City of Rome ,Full Reporter: Operating,4R03,Georgia Department of Transportation,Urban,MB,DO,1,0,1,0,0
+40060,City of Hattiesburg,Small Systems Reporter,4R05,Mississippi Department of Transportation,Urban,MB,DO,1,0,1,0,0
+40063,Brevard Board of County Commissioners,Full Reporter: Operating,,,Urban,MB,DO,0,0,0,0,0
+40064,East Alabama Regional Planning and Development Commission,Small Systems Reporter,4R01,Alabama Department of Transportation,Urban,MB,PT,1,0,1,0,0
+40071,"City of Huntsville, Alabama",Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,2
+40073,Lee-Russell Council of Governments,Small Systems Reporter,4R01,Alabama Department of Transportation,Urban,MB,DO,0,0,0,0,0
+40074,Pasco County Board of County Commissioners,Full Reporter: Operating,,,Urban,MB,DO,0,0,0,0,0
+40077,South Florida Regional Transportation Authority,Full Reporter: Operating,,,Urban,CR,PT,18,0,18,4,36
+40077,South Florida Regional Transportation Authority,Full Reporter: Operating,,,Urban,MB,PT,0,0,0,0,0
+40078,Cobb County,Full Reporter: Operating,,,Urban,CB,PT,2,0,2,0,0
+40078,Cobb County,Full Reporter: Operating,,,Urban,MB,PT,2,0,2,0,0
+40080,City of Kingsport,Small Systems Reporter,,,Urban,MB,DO,1,0,1,0,0
+40081,City of Anderson ,Small Systems Reporter,4R07,South Carolina Department of Transportation,Urban,MB,DO,0,0,0,0,0
+40082,County of Douglas,Full Reporter: Operating,A0028,Atlanta-Region Transit Link Authority,Urban,MB,PT,1,0,1,0,0
+40086,Metropolitan Bus Authority,Full Reporter: Operating,4R09,Puerto Rico Highway and Transportation Authority,Urban,MB,DO,9,0,9,0,0
+40087,City of Durham,Full Reporter: Operating,,,Urban,MB,PT,1,0,1,0,1
+40092,City of Clarksville,Small Systems Reporter,,,Urban,MB,DO,1,0,1,0,0
+40093,City of Greensboro ,Full Reporter: Operating,,,Urban,MB,PT,1,0,1,1,1
+40094,Alternativa de Transporte Integrado ,Full Reporter: Operating,,,Urban,HR,PT,16,0,16,51,33
+40094,Alternativa de Transporte Integrado ,Full Reporter: Operating,,,Urban,MB,PT,2,0,2,0,0
+40095,City of Greenville,Small Systems Reporter,4R06,North Carolina Department of Transportation,Urban,MB,DO,1,0,1,0,1
+40096,City of Rocky Mount,Small Systems Reporter,4R06,North Carolina Department of Transportation,Urban,MB,PT,1,0,1,0,1
+40100,Santee Wateree Regional Transportation Authority,Full Reporter: Operating,4R07,South Carolina Department of Transportation,Urban,CB,DO,1,0,1,0,0
+40100,Santee Wateree Regional Transportation Authority,Full Reporter: Operating,4R07,South Carolina Department of Transportation,Urban,MB,DO,1,0,1,0,0
+40101,City of Spartanburg South Carolina ,Small Systems Reporter,4R07,South Carolina Department of Transportation,Urban,MB,DO,1,0,1,0,0
+40102,Waccamaw Regional Transportation Authority,Small Systems Reporter,,,Urban,MB,DO,2,0,2,0,0
+40104,Indian River County,Full Reporter: Operating,,,Urban,MB,PT,1,0,1,0,0
+40108,Research Triangle Regional Public Transportation Authority,Full Reporter: Operating,,,Urban,MB,DO,4,0,4,0,2
+40108,Research Triangle Regional Public Transportation Authority,Full Reporter: Operating,,,Urban,MB,PT,2,0,2,0,0
+40110,Charleston Area Regional Transportation Authority,Full Reporter: Operating,,,Urban,CB,PT,1,0,1,0,0
+40110,Charleston Area Regional Transportation Authority,Full Reporter: Operating,,,Urban,MB,PT,1,0,1,0,0
+40112,City of San Juan,Small Systems Reporter,4R09,Puerto Rico Highway and Transportation Authority,Urban,MB,DO,4,0,4,3,3
+40114,Municipality of Aguada,Small Systems Reporter,4R09,Puerto Rico Highway and Transportation Authority,Urban,MB,DO,1,0,1,0,1
+40115,Municipality of Caguas ,Small Systems Reporter,4R09,Puerto Rico Highway and Transportation Authority,Urban,MB,DO,1,0,1,0,0
+40117,Municipality of Vega Baja,Small Systems Reporter,4R09,Puerto Rico Highway and Transportation Authority,Urban,MB,DO,3,0,3,0,1
+40120,"City of Ocala, Florida",Small Systems Reporter,,,Urban,MB,PT,0,0,0,0,0
+40121,Municipality of Hormigueros,Small Systems Reporter,4R09,Puerto Rico Highway and Transportation Authority,Urban,MB,DO,0,0,0,0,0
+40122,Municipality of Cayey,Small Systems Reporter,4R09,Puerto Rico Highway and Transportation Authority,Urban,MB,DO,2,0,2,0,1
+40123,Municipality of Gurabo,Small Systems Reporter,4R09,Puerto Rico Highway and Transportation Authority,Urban,MB,DO,1,0,1,0,0
+40124,Municipality of Cidra,Small Systems Reporter,4R09,Puerto Rico Highway and Transportation Authority,Urban,MB,DO,1,0,1,0,0
+40125,Municipality of Carolina,Small Systems Reporter,4R09,Puerto Rico Highway and Transportation Authority,Urban,MB,DO,2,0,2,0,0
+40126,Municipality of Humacao,Small Systems Reporter,4R09,Puerto Rico Highway and Transportation Authority,Urban,MB,DO,2,0,2,0,1
+40128,Okaloosa County Board of County Commissioners,Full Reporter: Operating,,,Urban,MB,PT,0,0,0,0,0
+40130,Macon-Bibb County Transit Authority,Small Systems Reporter,4R03,Georgia Department of Transportation,Urban,MB,DO,1,0,1,0,5
+40131,Davidson County ,Small Systems Reporter,4R06,North Carolina Department of Transportation,Urban,MB,DO,1,0,1,0,0
+40132,Goldsboro-Wayne Transportation Authority,Small Systems Reporter,4R06,North Carolina Department of Transportation,Urban,MB,DO,1,0,1,0,0
+40137,Municipality of Bayamon,Small Systems Reporter,4R09,Puerto Rico Highway and Transportation Authority,Urban,MB,DO,3,0,3,0,2
+40138,Gwinnett County Board of Commissioners,Full Reporter: Operating,A0028,Atlanta-Region Transit Link Authority,Urban,CB,PT,0,0,0,0,0
+40138,Gwinnett County Board of Commissioners,Full Reporter: Operating,A0028,Atlanta-Region Transit Link Authority,Urban,MB,PT,1,0,1,0,0
+40140,Collier County,Full Reporter: Operating,,,Urban,MB,PT,2,0,2,0,1
+40141,Central Midlands Regional Transportation Authority,Full Reporter: Operating,,,Urban,CB,PT,1,0,1,0,1
+40141,Central Midlands Regional Transportation Authority,Full Reporter: Operating,,,Urban,MB,PT,1,0,1,0,0
+40143,Town of Cary,Small Systems Reporter,4R06,North Carolina Department of Transportation,Urban,MB,PT,1,0,1,0,0
+40144,City of Gainesville,Small Systems Reporter,4R03,Georgia Department of Transportation,Urban,MB,DO,1,0,1,0,0
+40145,Municipality of Manati,Small Systems Reporter,4R09,Puerto Rico Highway and Transportation Authority,Urban,MB,DO,2,0,2,0,1
+40146,Hernando County Board of County Commissioners,Small Systems Reporter,,,Urban,MB,PT,0,0,0,0,0
+40147,North Carolina State University,Full Reporter: Operating,,,Urban,MB,PT,0,0,0,0,0
+40150,Municipality of Barceloneta,Small Systems Reporter,4R09,Puerto Rico Highway and Transportation Authority,Urban,MB,DO,1,0,1,0,0
+40151,Municipality of Hatillo,Small Systems Reporter,4R09,Puerto Rico Highway and Transportation Authority,Urban,MB,DO,2,0,2,0,0
+40155,"St Johns County, Florida",Small Systems Reporter,,,Urban,MB,DO,0,0,0,0,0
+40156,Lower Savannah COG,Small Systems Reporter,,,Urban,MB,PT,1,0,1,0,0
+40158,Lake County Board of County Commissioners,Full Reporter: Operating,,,Urban,MB,PT,0,0,0,0,0
+40159,Regional Transportation Authority,Full Reporter: Operating,,,Urban,CB,PT,0,0,0,0,0
+40159,Regional Transportation Authority,Full Reporter: Operating,,,Urban,CR,PT,7,0,7,0,0
+40160,Municipality of Camuy,Small Systems Reporter,4R09,Puerto Rico Highway and Transportation Authority,Urban,MB,PT,2,0,2,0,1
+40161,Cherokee County Board of Commissioners,Small Systems Reporter,4R03,Georgia Department of Transportation,Urban,MB,DO,0,0,0,0,0
+40162,Franklin Transit Authority,Small Systems Reporter,,,Urban,MB,PT,1,0,1,0,0
+40163,Municipality of Catano,Small Systems Reporter,4R09,Puerto Rico Highway and Transportation Authority,Urban,MB,DO,1,0,1,0,2
+40164,Municipality of Fajardo,Small Systems Reporter,4R09,Puerto Rico Highway and Transportation Authority,Urban,MB,DO,1,0,1,0,0
+40165,Municipality of Juncos,Small Systems Reporter,4R09,Puerto Rico Highway and Transportation Authority,Urban,MB,DO,1,0,1,0,0
+40166,City of Jacksonville,Small Systems Reporter,4R06,North Carolina Department of Transportation,Urban,MB,DO,1,0,1,0,0
+40167,City of Concord,Small Systems Reporter,4R06,North Carolina Department of Transportation,Urban,MB,PT,1,0,1,0,1
+40170,Southeast Tennessee Human Resource Agency,Small Systems Reporter,,,Urban,MB,DO,1,0,1,0,0
+40172,Western Piedmont Regional Transit Authority ,Full Reporter: Operating,4R06,North Carolina Department of Transportation,Urban,MB,DO,1,0,1,0,0
+40173,Piedmont Authority for Regional Transportation,Full Reporter: Operating,,,Urban,CB,PT,2,0,2,0,0
+40174,Municipality of Yauco,Small Systems Reporter,4R09,Puerto Rico Highway and Transportation Authority,Urban,MB,DO,3,0,3,0,0
+40175,Puerto Rico Maritime Transport Authority ,Full Reporter: Operating,4R09,Puerto Rico Highway and Transportation Authority,Urban,FB,PT,5,0,5,0,0
+40180,University of Georgia,Full Reporter: Operating,,,Urban,MB,DO,0,0,0,0,0
+40182,Municipality of Toa Baja,Small Systems Reporter,4R09,Puerto Rico Highway and Transportation Authority,Urban,MB,DO,1,0,1,0,0
+40183,Municipality of San Sebastian,Small Systems Reporter,4R09,Puerto Rico Highway and Transportation Authority,Urban,MB,DO,1,0,1,0,0
+40184,City of Bowling Green,Small Systems Reporter,,,Urban,MB,PT,0,0,0,0,0
+40185,Bay County Transportation Planning Organization,Full Reporter: Operating,,,Urban,MB,PT,0,0,0,0,0
+40186,City of Murfreesboro,Small Systems Reporter,,,Urban,MB,DO,0,0,0,0,0
+40188,Government of the Virgin Islands,Small Systems Reporter,,,Urban,MB,DO,1,0,1,0,0
+40190,"East Tennessee Human Resource Agency, Inc.",Small Systems Reporter,4R08,Tennessee Department of Transportation,Urban,MB,DO,0,0,0,0,0
+40192,Martin County,Full Reporter: Operating,,,Urban,CB,PT,0,0,0,0,0
+40192,Martin County,Full Reporter: Operating,,,Urban,MB,PT,0,0,0,0,0
+40193,"City of Hinesville, Georgia",Small Systems Reporter,4R03,Georgia Department of Transportation,Urban,MB,PT,0,0,0,0,0
+40194,Municipality of Mayaguez,Small Systems Reporter,4R09,Puerto Rico Highway and Transportation Authority,Urban,MB,DO,2,0,2,0,2
+40194,Municipality of Mayaguez,Small Systems Reporter,4R09,Puerto Rico Highway and Transportation Authority,Urban,MB,PT,2,0,2,0,0
+40195,Municipality of San Lorenzo,Small Systems Reporter,4R09,Puerto Rico Highway and Transportation Authority,Urban,MB,DO,2,0,2,0,0
+40197,Municipality of Lares,Small Systems Reporter,4R09,Puerto Rico Highway and Transportation Authority,Urban,MB,DO,0,0,0,0,0
+40198,Municipality of Dorado,Small Systems Reporter,4R09,Puerto Rico Highway and Transportation Authority,Urban,MB,PT,1,0,1,0,0
+40199,Autonomous Municipality of Vega Alta,Small Systems Reporter,4R09,Puerto Rico Highway and Transportation Authority,Urban,MB,DO,1,0,1,0,0
+40201,Municipality of Guaynabo,Small Systems Reporter,4R09,Puerto Rico Highway and Transportation Authority,Urban,MB,DO,1,0,1,0,0
+40205,The County of Iredell,Small Systems Reporter,4R06,North Carolina Department of Transportation,Urban,MB,DO,0,0,0,0,0
+40206,Berkeley Charleston Dorchester RTMA,Small Systems Reporter,4R07,South Carolina Department of Transportation,Urban,MB,DO,1,0,1,0,0
+40208,City of Clemson,Small Systems Reporter,,,Urban,MB,DO,1,0,1,0,0
+40221,Gaston County,Small Systems Reporter,4R06,North Carolina Department of Transportation,Urban,MB,DO,0,0,0,0,0
+40224,Buncombe County,Full Reporter: Operating,4R06,North Carolina Department of Transportation,Urban,MB,PT,0,0,0,0,0
+40229,Henderson County,Small Systems Reporter,4R06,North Carolina Department of Transportation,Urban,MB,PT,0,0,0,0,0
+40231,Orange County ,Small Systems Reporter,4R06,North Carolina Department of Transportation,Urban,MB,DO,0,0,0,0,0
+40232,Central Florida Commuter Rail,Full Reporter: Operating,,,Urban,CR,PT,16,0,16,0,0
+40233,City of Salisbury ,Small Systems Reporter,4R06,North Carolina Department of Transportation,Urban,MB,DO,0,0,0,0,0
+40234,Autonomous Municipality of Ponce,Small Systems Reporter,4R09,Puerto Rico Highway and Transportation Authority,Urban,MB,DO,2,0,2,1,1
+40238,City of Coconut Creek,Small Systems Reporter,,,Urban,MB,DO,0,0,0,0,0
+40239,City of Deerfield Beach,Small Systems Reporter,,,Urban,MB,DO,0,0,0,0,0
+40240,City of Lighthouse Point,Small Systems Reporter,,,Urban,MB,DO,0,0,0,0,0
+40241,City of Miramar ,Small Systems Reporter,,,Urban,MB,DO,3,0,3,0,0
+40246,"Center for Pan Asian Community Services, Inc.",Small Systems Reporter,A0001,Atlanta Regional Commission,Urban,MB,DO,0,0,0,0,0
+40248,Town of Hillsboro Beach,Small Systems Reporter,,,Urban,MB,PT,0,0,0,0,0
+40249,City of Hallandale Beach,Small Systems Reporter,,,Urban,MB,PT,0,0,0,0,0
+40250,City of Lauderdale Lakes,Small Systems Reporter,,,Urban,MB,PT,0,0,0,0,0
+40251,City of Pembroke Pines,Small Systems Reporter,,,Urban,MB,PT,0,0,0,0,0
+40252,City Of Burlington,Small Systems Reporter,4R06,North Carolina Department of Transportation,Urban,MB,PT,0,0,0,0,0
+40253,City of Coral Springs,Small Systems Reporter,,,Urban,MB,PT,0,0,0,0,0
+40254,City of Lauderhill,Small Systems Reporter,,,Urban,MB,PT,0,0,0,0,0
+40256,City of Margate,Small Systems Reporter,,,Urban,MB,PT,0,0,0,0,0
+40257,City of Pompano Beach,Small Systems Reporter,,,Urban,MB,PT,1,0,1,0,0
+40261,City of Dania Beach,Small Systems Reporter,,,Urban,MB,PT,0,0,0,0,0
+40262,Town of Davie,Small Systems Reporter,,,Urban,MB,PT,1,0,1,0,0
+40269,Municipality of Añasco,Small Systems Reporter,4R09,Puerto Rico Highway and Transportation Authority,Urban,MB,DO,0,0,0,0,0
+40270,City of Rock Hill,Small Systems Reporter,4R07,South Carolina Department of Transportation,Urban,MB,DO,1,0,1,0,1
+40275,City of North Lauderdale,Small Systems Reporter,,,Urban,MB,PT,0,0,0,0,0
+40277,Town of Apex,Small Systems Reporter,,,Urban,MB,PT,0,0,0,0,0
+40954,South Central Tennessee Development District,Small Systems Reporter,4R08,Tennessee Department of Transportation,Urban,MB,DO,0,0,0,0,0
+40958,Municipality of Orocovis,Small Systems Reporter,4R09,Puerto Rico Highway and Transportation Authority,Urban,MB,DO,0,0,0,0,0
+40999,Sumter County Board of County Commissioners,Small Systems Reporter,4R02,Florida Department of Transportation,Urban,MB,PT,0,0,0,0,0
+41013,Paducah Transit Authority,Small Systems Reporter,4R04,Kentucky Transportation Cabinet,Urban,MB,DO,1,0,1,0,0
+41092,Lowcountry Regional Transportation Authority,Small Systems Reporter,4R07,South Carolina Department of Transportation,Urban,CB,DO,0,0,0,0,0
+41092,Lowcountry Regional Transportation Authority,Small Systems Reporter,4R07,South Carolina Department of Transportation,Urban,MB,DO,0,0,0,0,0
+41157,County of Citrus,Small Systems Reporter,,,Urban,MB,DO,1,0,1,0,0
+41182,Municipality of Comerio,Small Systems Reporter,4R09,Puerto Rico Highway and Transportation Authority,Urban,MB,DO,1,0,1,0,0
+41199,Board of County Commissioners of St. Lucie County,Full Reporter: Operating,,,Urban,MB,PT,1,0,1,0,0
+42000,Atlanta-Region Transit Link Authority,Full Reporter: Operating,,,Urban,CB,PT,12,0,12,93,44
+44913,Eastern Band of Cherokee Indians,Small Systems Reporter,,,Tribe,MB,DO,0,0,0,0,0
+44929,City of Fort Lauderdale,Full Reporter: Operating,,,Urban,FB,PT,2,6,8,0,0
+44929,City of Fort Lauderdale,Full Reporter: Operating,,,Urban,MB,PT,2,0,2,0,1
+44932,City of Tamarac,Small Systems Reporter,,,Urban,MB,DO,0,0,0,0,0
+50001,City of Appleton,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,0
+50001,City of Appleton,Full Reporter: Operating,,,Urban,MB,PT,0,0,0,0,0
+50002,City of Green Bay,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,0
+50003,City of Kenosha,Full Reporter: Operating,,,Urban,MB,DO,2,0,2,0,0
+50003,City of Kenosha,Full Reporter: Operating,,,Urban,SR,DO,0,0,0,0,0
+50004,City of La Crosse,Full Reporter: Operating,5R06,Wisconsin Department of Transportation,Urban,MB,DO,1,0,1,0,0
+50005,City of Madison,Full Reporter: Operating,,,Urban,MB,DO,0,0,0,0,0
+50006,"City of Racine, Wisconsin",Full Reporter: Operating,A0014,Southeastern Wisconsin Regional Planning Commission,Urban,CB,PT,2,0,2,3,4
+50006,"City of Racine, Wisconsin",Full Reporter: Operating,A0014,Southeastern Wisconsin Regional Planning Commission,Urban,MB,DO,1,0,1,0,0
+50007,Bay Mills Indian Community,Small Systems Reporter,,,Tribe,MB,DO,0,0,0,0,0
+50008,Milwaukee County,Full Reporter: Operating,,,Urban,MB,PT,0,0,0,0,0
+50009,"City of Oshkosh, Wisconsin",Small Systems Reporter,5R06,Wisconsin Department of Transportation,Urban,MB,DO,1,0,1,0,0
+50009,"City of Oshkosh, Wisconsin",Small Systems Reporter,5R06,Wisconsin Department of Transportation,Urban,MB,PT,1,0,1,0,0
+50010,METRO Regional Transit Authority ,Full Reporter: Operating,,,Urban,MB,DO,3,0,3,0,0
+50011,Stark Area Regional Transit Authority,Full Reporter: Operating,,,Urban,MB,DO,3,0,3,0,0
+50012,Southwest Ohio Regional Transit Authority,Full Reporter: Operating,,,Urban,MB,DO,5,0,5,0,1
+50015,The Greater Cleveland Regional Transit Authority,Full Reporter: Operating,,,Urban,HR,DO,18,0,18,22,12
+50015,The Greater Cleveland Regional Transit Authority,Full Reporter: Operating,,,Urban,LR,DO,17,17,34,6,10
+50015,The Greater Cleveland Regional Transit Authority,Full Reporter: Operating,,,Urban,MB,DO,9,0,9,0,0
+50015,The Greater Cleveland Regional Transit Authority,Full Reporter: Operating,,,Urban,RB,DO,34,0,34,4,7
+50016,Central Ohio Transit Authority,Full Reporter: Operating/Building,,,Urban,MB,DO,8,0,8,0,2
+50017,Greater Dayton Regional Transit Authority,Full Reporter: Operating,,,Urban,MB,DO,5,0,5,0,0
+50017,Greater Dayton Regional Transit Authority,Full Reporter: Operating,,,Urban,TB,DO,4,0,4,0,0
+50019,City of Middletown,Small Systems Reporter,,,Urban,MB,DO,1,0,1,0,0
+50020,"City of Springfield, Ohio",Small Systems Reporter,,,Urban,MB,PT,1,0,1,0,0
+50021,Portage Area Regional Transportation Authority,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,2
+50022,Toledo Area Regional Transit Authority,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,2
+50024,Western Reserve Transit Authority,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,0
+50025,Duluth Transit Authority,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,2
+50026,City of Moorhead,Full Reporter: Operating,,,Urban,MB,PT,1,0,1,0,0
+50027,Metro Transit ,Full Reporter: Operating,,,Urban,CR,PT,7,0,7,2,10
+50027,Metro Transit ,Full Reporter: Operating,,,Urban,LR,DO,37,0,37,6,12
+50027,Metro Transit ,Full Reporter: Operating,,,Urban,MB,DO,34,0,34,15,36
+50028,St. Cloud Metropolitan Transit Commission,Full Reporter: Operating,,,Urban,CB,DO,1,0,1,0,0
+50028,St. Cloud Metropolitan Transit Commission,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,0
+50029,Bay Metropolitan Transit Authority,Full Reporter: Operating,5R03,Michigan Department of Transportation,Urban,MB,DO,1,0,1,0,0
+50030,City of Battle Creek,Small Systems Reporter,,,Urban,MB,DO,1,0,1,0,0
+50031,Suburban Mobility Authority for Regional Transportation,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,1
+50032,Mass Transportation Authority ,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,0
+50033,Interurban Transit Partnership,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,1
+50033,Interurban Transit Partnership,Full Reporter: Operating,,,Urban,RB,DO,1,0,1,0,1
+50034,City of Jackson Transportation Authority,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,0
+50035,Central County Transportation Authority,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,0
+50036,Capital Area Transportation Authority,Full Reporter: Operating,,,Urban,MB,DO,3,0,3,0,0
+50037,County of Muskegon,Small Systems Reporter,,,Urban,MB,DO,1,0,1,0,0
+50038,City of Niles ,Small Systems Reporter,,,Urban,MB,DO,1,0,1,0,0
+50039,Saginaw Transit Authority Regional Service,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,0
+50040,Ann Arbor Area Transportation Authority,Full Reporter: Operating,,,Urban,CB,PT,0,0,0,0,0
+50040,Ann Arbor Area Transportation Authority,Full Reporter: Operating,,,Urban,MB,DO,2,0,2,0,0
+50041,City of Anderson ,Small Systems Reporter,,,Urban,MB,DO,1,0,1,0,0
+50042,City of East Chicago,Small Systems Reporter,A0015,Northwestern Indiana Regional Planning Commission,Urban,MB,DO,0,0,0,0,0
+50043,City of Evansville,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,0
+50044,Fort Wayne Public Transportation Corporation,Full Reporter: Operating,,,Urban,MB,DO,2,0,2,0,0
+50045,Gary Public Transportation Corporation,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,1,1
+50047,Bloomington-Normal Public Transit System,Full Reporter: Operating,5R01,Illinois Department of Transportation,Urban,MB,DO,1,0,1,0,3
+50050,Indianapolis and Marion County Public Transportation,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,0
+50050,Indianapolis and Marion County Public Transportation,Full Reporter: Operating,,,Urban,MB,PT,0,0,0,0,0
+50050,Indianapolis and Marion County Public Transportation,Full Reporter: Operating,,,Urban,RB,DO,35,0,35,0,0
+50051,Greater Lafayette Public Transportation Corporation,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,0
+50052,South Bend Public Transportation Corporation,Full Reporter: Operating,,,Urban,MB,DO,2,0,2,0,2
+50053,City of Terre Haute ,Full Reporter: Operating,,,Urban,MB,DO,0,0,0,0,0
+50054,Muncie Indiana Transit System,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,0
+50056,Greater Peoria Mass Transit District,Full Reporter: Operating,5R01,Illinois Department of Transportation,Urban,MB,DO,3,0,3,0,1
+50057,Rock Island County Metropolitan Mass Transit District,Full Reporter: Operating,5R01,Illinois Department of Transportation,Urban,FB,PT,4,0,4,0,0
+50057,Rock Island County Metropolitan Mass Transit District,Full Reporter: Operating,5R01,Illinois Department of Transportation,Urban,MB,DO,3,0,3,0,1
+50058,Rockford Mass Transit District,Full Reporter: Operating,5R01,Illinois Department of Transportation,Urban,MB,DO,2,0,2,0,0
+50059,Springfield Mass Transit District,Full Reporter: Operating,5R01,Illinois Department of Transportation,Urban,MB,DO,0,0,0,0,0
+50060,Champaign-Urbana Mass Transit District,Full Reporter: Operating,5R01,Illinois Department of Transportation,Urban,MB,DO,1,0,1,0,2
+50061,"City of Decatur, Il",Full Reporter: Operating,5R01,Illinois Department of Transportation,Urban,MB,PT,1,0,1,0,0
+50066,Chicago Transit Authority,Full Reporter: Operating,,,Urban,HR,DO,103,42,145,164,168
+50066,Chicago Transit Authority,Full Reporter: Operating,,,Urban,MB,DO,12,0,12,0,0
+50088,City of Sheboygan,Small Systems Reporter,,,Urban,MB,DO,1,0,1,0,0
+50090,Richland County Transit,Small Systems Reporter,,,Urban,MB,PT,1,0,1,0,0
+50091,"City of Wausau, Wisconsin",Small Systems Reporter,5R06,Wisconsin Department of Transportation,Urban,MB,DO,1,0,1,0,0
+50092,"City of Rochester, Minnesota",Full Reporter: Operating,,,Urban,MB,PT,0,0,0,0,0
+50093,Lima Allen County Regional Transit Authority,Small Systems Reporter,,,Urban,MB,DO,1,0,1,0,0
+50095,Lorain County,Small Systems Reporter,,,Urban,MB,PT,0,0,0,0,0
+50096,City of Waukesha ,Full Reporter: Operating,A0014,Southeastern Wisconsin Regional Planning Commission,Urban,CB,PT,0,0,0,0,0
+50096,City of Waukesha ,Full Reporter: Operating,A0014,Southeastern Wisconsin Regional Planning Commission,Urban,MB,DO,1,0,1,0,2
+50096,City of Waukesha ,Full Reporter: Operating,A0014,Southeastern Wisconsin Regional Planning Commission,Urban,MB,PT,0,0,0,0,0
+50098,City of Michigan ,Small Systems Reporter,,,Urban,CB,DO,0,0,0,0,0
+50098,City of Michigan ,Small Systems Reporter,,,Urban,MB,DO,0,0,0,0,0
+50099,City of Eau Claire,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,0
+50104,Northern Indiana Commuter Transportation District,Full Reporter: Operating,,,Urban,CR,DO,14,5,19,0,12
+50108,City of Janesville,Small Systems Reporter,5R06,Wisconsin Department of Transportation,Urban,MB,DO,1,0,1,0,0
+50109,City of Beloit,Small Systems Reporter,5R06,Wisconsin Department of Transportation,Urban,MB,DO,1,0,1,0,0
+50110,Bloomington Public Transportation Corporation,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,0
+50113,"Pace, the Suburban Bus Division of the Regional Transportation Authority",Full Reporter: Operating,,,Urban,MB,DO,110,23,133,66,53
+50113,"Pace, the Suburban Bus Division of the Regional Transportation Authority",Full Reporter: Operating,,,Urban,MB,PT,14,0,14,2,1
+50117,Laketran,Full Reporter: Operating,,,Urban,CB,DO,2,0,2,0,0
+50117,Laketran,Full Reporter: Operating,,,Urban,MB,DO,4,0,4,0,0
+50118,Northeast Illinois Regional Commuter Railroad Corporation,Full Reporter: Operating,,,Urban,CR,DO,115,36,151,20,25
+50118,Northeast Illinois Regional Commuter Railroad Corporation,Full Reporter: Operating,,,Urban,CR,PT,75,16,91,4,14
+50119,City of Detroit ,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,1,1
+50132,Twin Cities Area Transportation Authority,Small Systems Reporter,,,Urban,MB,DO,0,0,0,0,0
+50141,Detroit Transportation Corporation,Full Reporter: Operating,,,Urban,MG,DO,13,0,13,12,17
+50142,Steel Valley Regional Transit Authority,Small Systems Reporter,,,Urban,MB,DO,0,0,0,0,0
+50145,City of Kokomo,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,0
+50146,Madison County Transit District,Full Reporter: Operating,5R01,Illinois Department of Transportation,Urban,MB,PT,5,0,5,0,0
+50148,Blue Water Area Transportation Commission,Full Reporter: Operating,,,Urban,CB,DO,1,0,1,0,0
+50148,Blue Water Area Transportation Commission,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,0
+50149,Michiana Area Council of Governments,Full Reporter: Operating,,,Urban,MB,PT,0,0,0,0,0
+50154,Metropolitan Council,Full Reporter: Operating,,,Urban,MB,PT,17,0,17,17,4
+50157,Butler County Regional Transit Authority,Full Reporter: Operating,,,Urban,MB,DO,0,0,0,0,0
+50158,University of Michigan Parking and Transportation Services,Full Reporter: Operating,,,Urban,MB,DO,0,0,0,0,0
+50159,River Valley Metro Mass Transit District,Full Reporter: Operating,5R01,Illinois Department of Transportation,Urban,CB,PT,0,0,0,0,0
+50159,River Valley Metro Mass Transit District,Full Reporter: Operating,5R01,Illinois Department of Transportation,Urban,MB,PT,1,0,1,0,0
+50160,County of Washington,Full Reporter: Operating,A0014,Southeastern Wisconsin Regional Planning Commission,Urban,CB,PT,0,0,0,0,0
+50161,Ozaukee County ,Full Reporter: Operating,A0014,Southeastern Wisconsin Regional Planning Commission,Urban,CB,PT,0,0,0,0,0
+50163,"Licking County, Ohio",Full Reporter: Operating,,,Urban,MB,DO,0,0,0,0,0
+50164,City of Sandusky,Small Systems Reporter,5R05,Ohio Department of Transportation,Urban,MB,PT,0,0,0,0,0
+50166,"Clermont County, Ohio",Full Reporter: Operating,,,Urban,MB,DO,0,0,0,0,0
+50171,"Fond du Lac, Wisconsin ",Small Systems Reporter,5R06,Wisconsin Department of Transportation,Urban,MB,DO,0,0,0,0,0
+50171,"Fond du Lac, Wisconsin ",Small Systems Reporter,5R06,Wisconsin Department of Transportation,Urban,MB,PT,0,0,0,0,0
+50174,City of Danville,Small Systems Reporter,5R01,Illinois Department of Transportation,Urban,MB,DO,1,0,1,0,0
+50176,City of DeKalb,Full Reporter: Operating,5R01,Illinois Department of Transportation,Urban,MB,PT,0,0,0,0,0
+50177,City of Columbus,Small Systems Reporter,,,Urban,MB,DO,1,0,1,0,0
+50183,City of Valparaiso,Small Systems Reporter,A0015,Northwestern Indiana Regional Planning Commission,Urban,CB,PT,0,0,0,0,0
+50183,City of Valparaiso,Small Systems Reporter,A0015,Northwestern Indiana Regional Planning Commission,Urban,MB,PT,0,0,0,0,0
+50184,Macatawa Area Express Transportation Authority,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,0
+50186,Lawrence County Port Authority,Small Systems Reporter,,,Urban,MB,PT,1,0,1,0,0
+50196,Harbor Transit Multi-Modal Transportation System,Small Systems Reporter,,,Urban,MB,DO,0,0,0,0,0
+50198,Medina County,Full Reporter: Operating,A0019,Northeast Ohio Areawide Coordinating Agency,Urban,MB,DO,0,0,0,0,0
+50205,City of Mankato ,Small Systems Reporter,,,Urban,MB,DO,0,0,0,0,0
+50209,Central Indiana Regional Transportation Authority ,Full Reporter: Operating,,,Urban,MB,PT,0,0,0,0,0
+50213,M-1 Rail,Full Reporter: Operating,,,Urban,SR,DO,20,0,20,0,0
+50256,Access Johnson County ,Small Systems Reporter,A0029,Indianapolis and Marion County Public Transportation,Urban,MB,DO,0,0,0,0,0
+50406,Lancaster Public Transit System,Small Systems Reporter,5R05,Ohio Department of Transportation,Urban,MB,DO,1,0,1,0,0
+50413,Bay Area Transportation Authority,Small Systems Reporter,5R03,Michigan Department of Transportation,Urban,MB,DO,2,0,2,0,0
+50515,University of Minnesota,Full Reporter: Operating,,,Urban,MB,PT,0,0,0,0,0
+50516,City of Plymouth,Full Reporter: Operating,A0018,Metropolitan Council,Urban,MB,PT,2,0,2,0,1
+50518,SouthWest Transit,Full Reporter: Operating,,,Urban,MB,PT,3,0,3,0,7
+50519,Minnesota Valley Transit Authority,Full Reporter: Operating,,,Urban,MB,PT,7,0,7,0,4
+50521,Chicago Water Taxi (Wendella),Full Reporter: Operating,,,Urban,FB,DO,4,3,7,0,0
+50522,Lake Erie Transportation Commission,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,0
+55228,Menominee Indian Tribe of Wisconsin,Small Systems Reporter,5R06,Wisconsin Department of Transportation,Tribe,MB,DO,0,0,0,0,0
+55246,Fond du Lac Reservation,Small Systems Reporter,,,Tribe,MB,DO,0,0,0,0,0
+55252,Bois Forte Band of Chippewa,Small Systems Reporter,,,Tribe,CB,DO,0,0,0,0,0
+55258,Leech Lake Band of Ojibwe,Small Systems Reporter,,,Tribe,MB,DO,0,0,0,0,0
+55270,White Earth Band of Chippewa,Small Systems Reporter,,,Tribe,MB,DO,0,0,0,0,0
+55282,Bad River Band of Lake Superior Tribe of Chippewa,Small Systems Reporter,5R06,Wisconsin Department of Transportation,Tribe,MB,DO,0,0,0,0,0
+55300,Lac du Flambeau Band of Lake Superior Chippewa Indians,Small Systems Reporter,5R06,Wisconsin Department of Transportation,Tribe,MB,DO,0,0,0,0,0
+55311,City of Cincinnati,Full Reporter: Operating,,,Urban,SR,PT,18,0,18,0,0
+55312,City of Milwaukee,Full Reporter: Operating/Building,,,Urban,SR,PT,20,0,20,0,0
+60001,City of Amarillo,Small Systems Reporter,,,Urban,MB,DO,1,0,1,0,0
+60006,City of El Paso,Full Reporter: Operating/Building,,,Urban,MB,DO,10,0,10,0,8
+60006,City of El Paso,Full Reporter: Operating/Building,,,Urban,SR,DO,0,0,0,0,0
+60007,Fort Worth Transportation Authority,Full Reporter: Operating,,,Urban,CR,PT,12,0,12,0,3
+60007,Fort Worth Transportation Authority,Full Reporter: Operating,,,Urban,MB,DO,12,0,12,0,3
+60007,Fort Worth Transportation Authority,Full Reporter: Operating,,,Urban,MB,PT,0,0,0,0,0
+60008,"Metropolitan Transit Authority of Harris County, Texas ",Full Reporter: Operating,,,Urban,CB,DO,29,0,29,4,7
+60008,"Metropolitan Transit Authority of Harris County, Texas ",Full Reporter: Operating,,,Urban,CB,PT,11,0,11,0,4
+60008,"Metropolitan Transit Authority of Harris County, Texas ",Full Reporter: Operating,,,Urban,LR,DO,61,0,61,2,3
+60008,"Metropolitan Transit Authority of Harris County, Texas ",Full Reporter: Operating,,,Urban,MB,DO,53,0,53,4,2
+60008,"Metropolitan Transit Authority of Harris County, Texas ",Full Reporter: Operating,,,Urban,MB,PT,37,0,37,4,9
+60008,"Metropolitan Transit Authority of Harris County, Texas ",Full Reporter: Operating,,,Urban,RB,DO,18,0,18,0,3
+60009,City of Laredo ,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,3
+60010,City of Lubbock,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,0
+60011,VIA Metropolitan Transit,Full Reporter: Operating,,,Urban,MB,DO,12,0,12,0,1
+60012,City of Waco,Full Reporter: Operating,6R05,Texas Department of Transportation,Urban,MB,DO,1,0,1,0,0
+60013,City of Port Arthur ,Small Systems Reporter,6R05,Texas Department of Transportation,Urban,MB,DO,1,0,1,0,0
+60014,City of Brownsville ,Full Reporter: Operating,,,Urban,MB,DO,2,0,2,0,0
+60015,City of Galveston ,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,1
+60015,City of Galveston ,Full Reporter: Operating,,,Urban,SR,DO,0,0,0,0,0
+60016,City of Beaumont,Full Reporter: Operating,,,Urban,MB,PT,1,0,1,0,0
+60017,Central Oklahoma Transportation and Parking Authority,Full Reporter: Operating,,,Urban,FB,PT,5,0,5,0,0
+60017,Central Oklahoma Transportation and Parking Authority,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,0
+60017,Central Oklahoma Transportation and Parking Authority,Full Reporter: Operating,,,Urban,SR,PT,22,0,22,0,0
+60018,Metropolitan Tulsa Transit Authority,Full Reporter: Operating,6R04,Oklahoma Department of Transportation,Urban,MB,DO,1,0,1,0,0
+60018,Metropolitan Tulsa Transit Authority,Full Reporter: Operating,6R04,Oklahoma Department of Transportation,Urban,MB,PT,1,0,1,0,0
+60019,City of Albuquerque,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,1
+60019,City of Albuquerque,Full Reporter: Operating,,,Urban,RB,DO,19,0,19,0,0
+60022,Capital Area Transit System,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,0
+60023,City of Lake Charles,Small Systems Reporter,,,Urban,MB,DO,1,0,1,0,1
+60024,City of Shreveport,Full Reporter: Operating,,,Urban,MB,DO,2,0,2,0,0
+60025,City of Alexandria,Small Systems Reporter,,,Urban,MB,DO,1,0,1,0,0
+60026,City of Monroe ,Small Systems Reporter,,,Urban,MB,DO,1,0,1,0,0
+60032,New Orleans Regional Transit Authority,Full Reporter: Operating,,,Urban,FB,PT,4,0,4,0,1
+60032,New Orleans Regional Transit Authority,Full Reporter: Operating,,,Urban,MB,DO,0,0,0,0,0
+60032,New Orleans Regional Transit Authority,Full Reporter: Operating,,,Urban,SR,DO,0,0,0,0,0
+60033,Rock Region Metropolitan Transit Authority,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,0
+60033,Rock Region Metropolitan Transit Authority,Full Reporter: Operating,,,Urban,SR,DO,0,0,0,0,0
+60034,City of Pine Bluff,Small Systems Reporter,,,Urban,MB,DO,0,0,0,0,0
+60035,City of Wichita Falls ,Small Systems Reporter,,,Urban,MB,DO,1,0,1,0,0
+60038,Lafayette City-Parish Consolidated Government,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,1
+60040,City of Abilene ,Small Systems Reporter,,,Urban,MB,DO,1,0,1,0,0
+60048,Capital Metropolitan Transportation Authority,Full Reporter: Operating,,,Urban,CB,PT,2,0,2,0,0
+60048,Capital Metropolitan Transportation Authority,Full Reporter: Operating,,,Urban,MB,PT,5,0,5,0,0
+60048,Capital Metropolitan Transportation Authority,Full Reporter: Operating,,,Urban,YR,PT,9,0,9,0,0
+60049,City of Las Cruces NM,Small Systems Reporter,,,Urban,MB,DO,1,0,1,0,1
+60051,Corpus Christi Regional Transportation Authority,Full Reporter: Operating,,,Urban,MB,DO,3,0,3,0,0
+60051,Corpus Christi Regional Transportation Authority,Full Reporter: Operating,,,Urban,MB,PT,3,0,3,0,0
+60056,Dallas Area Rapid Transit,Full Reporter: Operating,,,Urban,CR,PT,10,0,10,0,2
+60056,Dallas Area Rapid Transit,Full Reporter: Operating,,,Urban,LR,DO,65,0,65,8,30
+60056,Dallas Area Rapid Transit,Full Reporter: Operating,,,Urban,MB,DO,19,0,19,0,0
+60056,Dallas Area Rapid Transit,Full Reporter: Operating,,,Urban,SR,DO,6,0,6,0,0
+60058,St. Bernard Parish,Small Systems Reporter,,,Urban,MB,DO,0,0,0,0,0
+60059,Brazos Transit District,Full Reporter: Operating,,,Urban,MB,DO,3,0,3,0,0
+60062,"University of Arkansas, Fayetteville",Small Systems Reporter,,,Urban,MB,DO,1,0,1,0,2
+60072,Ozark Regional Transit,Small Systems Reporter,,,Urban,MB,DO,0,0,0,0,0
+60077,City of Santa Fe,Full Reporter: Operating,,,Urban,MB,DO,2,0,2,0,0
+60080,Terrebonne Parish Consolidated Government,Small Systems Reporter,,,Urban,MB,DO,1,0,1,0,0
+60081,City of Longview,Small Systems Reporter,,,Urban,MB,DO,1,0,1,0,0
+60086,City of Fort Smith,Small Systems Reporter,,,Urban,MB,DO,1,0,1,0,0
+60088,Jefferson Parish,Full Reporter: Operating,,,Urban,MB,PT,2,0,2,0,0
+60089,City of Tyler,Small Systems Reporter,,,Urban,MB,DO,0,0,0,0,0
+60090,Lower Rio Grande Valley Development Council,Full Reporter: Operating,,,Urban,MB,DO,4,0,4,0,1
+60091,Hill Country Transit District,Full Reporter: Operating,,,Urban,MB,DO,0,0,0,0,0
+60093,Texarkana Urban Transit District,Small Systems Reporter,6R05,Texas Department of Transportation,Urban,MB,DO,1,0,1,0,0
+60094,City of Lawton  ,Small Systems Reporter,,,Urban,MB,DO,0,0,0,0,0
+60095,Golden Crescent Regional Planning Commission,Full Reporter: Operating,6R05,Texas Department of Transportation,Urban,CB,DO,1,0,1,0,2
+60095,Golden Crescent Regional Planning Commission,Full Reporter: Operating,6R05,Texas Department of Transportation,Urban,MB,DO,1,0,1,0,2
+60097,Midland-Odessa Urban Transit District,Small Systems Reporter,,,Urban,CB,DO,1,0,1,0,0
+60097,Midland-Odessa Urban Transit District,Small Systems Reporter,,,Urban,MB,DO,1,0,1,0,0
+60099,City of McAllen ,Small Systems Reporter,,,Urban,MB,DO,1,0,1,0,0
+60100,City of Farmington,Small Systems Reporter,,,Urban,MB,PT,0,0,0,0,0
+60101,Denton County Transportation Authority,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,0
+60101,Denton County Transportation Authority,Full Reporter: Operating,,,Urban,YR,PT,5,0,5,0,0
+60102,Concho Valley Transit District,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,0
+60103,"Fort Bend County, Texas",Full Reporter: Operating,,,Urban,CB,PT,0,0,0,0,0
+60104,City of Jonesboro ,Small Systems Reporter,,,Urban,MB,DO,1,0,1,0,0
+60105,City of Hot Springs,Small Systems Reporter,,,Urban,MB,DO,1,0,1,0,0
+60108,Harris County,Full Reporter: Operating,,,Urban,CB,PT,0,0,0,0,0
+60108,Harris County,Full Reporter: Operating,,,Urban,MB,PT,0,0,0,0,0
+60111,Rio Metro Regional Transit District,Full Reporter: Operating,,,Urban,CB,PT,0,0,0,0,0
+60111,Rio Metro Regional Transit District,Full Reporter: Operating,,,Urban,CR,PT,15,0,15,0,0
+60111,Rio Metro Regional Transit District,Full Reporter: Operating,,,Urban,MB,DO,0,0,0,0,0
+60113,City of Cleburne,Small Systems Reporter,6R05,Texas Department of Transportation,Urban,CB,DO,1,0,1,0,0
+60114,STAR Transit,Full Reporter: Operating,6R05,Texas Department of Transportation,Urban,MB,DO,0,0,0,0,0
+60118,City of Edmond,Small Systems Reporter,6R04,Oklahoma Department of Transportation,Urban,CB,PT,0,0,0,0,0
+60118,City of Edmond,Small Systems Reporter,6R04,Oklahoma Department of Transportation,Urban,MB,PT,0,0,0,0,0
+60125,City of Round Rock,Small Systems Reporter,,,Urban,MB,PT,1,0,1,0,1
+60129,City of Conroe,Small Systems Reporter,,,Urban,CB,PT,1,0,1,0,0
+60129,City of Conroe,Small Systems Reporter,,,Urban,MB,DO,0,0,0,0,0
+60129,City of Conroe,Small Systems Reporter,,,Urban,MB,PT,0,0,0,0,0
+60130,Alamo Area Council of Governments,Full Reporter: Operating,6R05,Texas Department of Transportation,Urban,MB,DO,0,0,0,0,0
+60133,McKinney Avenue Transit Authority,Full Reporter: Operating,,,Urban,SR,DO,0,0,0,0,0
+60134,The Woodlands Township,Full Reporter: Operating,,,Urban,CB,PT,3,0,3,0,0
+60134,The Woodlands Township,Full Reporter: Operating,,,Urban,MB,DO,0,0,0,0,0
+60138,North Central Regional Transit District,Small Systems Reporter,6R03,New Mexico Department of Transportation,Urban,MB,DO,0,0,0,0,0
+60179,El Paso County ,Small Systems Reporter,6R05,Texas Department of Transportation,Urban,CB,PT,3,0,3,0,0
+60196,Tangipahoa Voluntary Council on Aging,Small Systems Reporter,,,Urban,MB,DO,0,0,0,0,0
+60206,"Zia Therapy Center, Inc.",Small Systems Reporter,6R03,New Mexico Department of Transportation,Urban,MB,DO,0,0,0,0,0
+60256,Southwest Area Regional Transit District,Small Systems Reporter,6R05,Texas Department of Transportation,Urban,MB,DO,3,0,3,0,0
+60269,Texas State University,Full Reporter: Operating,,,Urban,MB,PT,0,0,0,0,0
+60273,University of Texas Rio Grande Valley,Full Reporter: Operating,,,Urban,MB,DO,0,0,0,0,0
+60273,University of Texas Rio Grande Valley,Full Reporter: Operating,,,Urban,MB,PT,0,0,0,0,0
+60274,South Texas College,Small Systems Reporter,,,Urban,MB,DO,0,0,0,0,0
+60275,Gulf Coast Transit District,Small Systems Reporter,,,Urban,CB,DO,1,0,1,0,0
+60275,Gulf Coast Transit District,Small Systems Reporter,,,Urban,MB,DO,1,0,1,0,0
+60276,"Plaquemines Port, Harbor and Terminal District",Full Reporter: Operating,,,Urban,FB,DO,4,0,4,0,0
+60620,Pueblo of Laguna,Small Systems Reporter,6R03,New Mexico Department of Transportation,Tribe,MB,DO,0,0,0,0,0
+66152,Pueblo of Santa Ana,Small Systems Reporter,,,Tribe,MB,DO,0,0,0,0,0
+66170,Muscogee (Creek) Nation,Small Systems Reporter,,,Tribe,MB,DO,0,0,0,0,0
+66242,Zuni Pueblo,Small Systems Reporter,6R03,New Mexico Department of Transportation,Tribe,MB,DO,0,0,0,0,0
+66283,South Central Regional Transit District,Small Systems Reporter,,,Urban,MB,DO,0,0,0,0,0
+66341,City of Norman,Small Systems Reporter,6R04,Oklahoma Department of Transportation,Urban,MB,PT,1,0,1,0,0
+66343,City of San Marcos,Small Systems Reporter,,,Urban,CB,PT,0,0,0,0,0
+66343,City of San Marcos,Small Systems Reporter,,,Urban,MB,PT,0,0,0,0,0
+70001,City of Lincoln,Full Reporter: Operating,,,Urban,MB,DO,0,0,0,0,0
+70002,Transit Authority of Omaha,Full Reporter: Operating,,,Urban,MB,DO,31,0,31,0,1
+70003,City of Springfield,Full Reporter: Operating,7R03,Missouri Department of Transportation,Urban,MB,DO,1,0,1,0,0
+70004,Winnebago Tribe of Nebraska,Small Systems Reporter,,,Tribe,MB,DO,0,0,0,0,0
+70005,Kansas City Area Transportation Authority,Full Reporter: Operating,,,Urban,MB,DO,2,0,2,0,0
+70005,Kansas City Area Transportation Authority,Full Reporter: Operating,,,Urban,RB,DO,0,0,0,0,0
+70006,Bi-State Development Agency of the Missouri-Illinois Metropolitan District,Full Reporter: Operating,,,Urban,LR,DO,38,0,38,8,19
+70006,Bi-State Development Agency of the Missouri-Illinois Metropolitan District,Full Reporter: Operating,,,Urban,MB,DO,9,0,9,0,0
+70007,City of Bettendorf,Small Systems Reporter,,,Urban,MB,DO,0,0,0,0,0
+70008,City of Cedar Rapids,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,1
+70009,City of Davenport,Small Systems Reporter,,,Urban,MB,DO,1,0,1,0,0
+70010,Des Moines Area Regional Transit Authority,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,1
+70011,City of Dubuque,Small Systems Reporter,,,Urban,MB,DO,1,0,1,0,1
+70012,City of Sioux City,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,2
+70013,Metropolitan Transit Authority of Black Hawk County,Small Systems Reporter,,,Urban,MB,DO,1,0,1,0,0
+70014,Topeka Metropolitan Transit Authority,Full Reporter: Operating,7R02,Kansas Department of Transportation,Urban,MB,DO,1,0,1,0,0
+70015,City of Wichita ,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,0
+70016,City of Columbia,Full Reporter: Operating,7R03,Missouri Department of Transportation,Urban,MB,DO,1,0,1,0,0
+70018,City of Iowa City,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,2
+70019,University of Iowa,Full Reporter: Operating,,,Urban,MB,DO,0,0,0,0,0
+70030,City of Coralville,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,2
+70032,"City of St. Joseph, Missouri",Small Systems Reporter,,,Urban,MB,DO,1,0,1,0,0
+70035,Johnson County Kansas,Full Reporter: Operating,,,Urban,CB,PT,0,0,0,0,0
+70035,Johnson County Kansas,Full Reporter: Operating,,,Urban,MB,PT,0,0,0,0,0
+70040,City of Joplin,Small Systems Reporter,,,Urban,MB,DO,0,0,0,0,0
+70041,Ames Transit Agency,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,0
+70043,City of Jefferson,Small Systems Reporter,,,Urban,MB,DO,0,0,0,0,0
+70044,University of Kansas,Full Reporter: Operating,7R02,Kansas Department of Transportation,Urban,MB,PT,0,0,0,0,0
+70046,City of Independence,Small Systems Reporter,,,Urban,MB,PT,1,0,1,0,0
+70047,"Unified Government of Wyandotte County and Kansas City, KS",Small Systems Reporter,,,Urban,MB,DO,1,0,1,0,0
+70048,City of Lawrence,Full Reporter: Operating,7R02,Kansas Department of Transportation,Urban,MB,PT,0,0,0,0,0
+70049,River Bend Transit,Full Reporter: Operating,7R01,Iowa Department of Transportation,Urban,MB,DO,0,0,0,0,0
+70050,Southeast Missouri State University,Small Systems Reporter,7R03,Missouri Department of Transportation,Urban,MB,DO,1,0,1,0,0
+70051,Cape Girardeau County Transit Authority,Small Systems Reporter,7R03,Missouri Department of Transportation,Urban,MB,DO,0,0,0,0,0
+70053,"Flint Hills Area Transportation Agency, Inc",Small Systems Reporter,7R02,Kansas Department of Transportation,Urban,MB,DO,0,0,0,0,0
+70057,Loop Trolley Transportation Development District,Full Reporter: Operating,,,Urban,SR,PT,13,0,13,0,0
+70138,East Central Iowa Council of Governments,Small Systems Reporter,7R01,Iowa Department of Transportation,Urban,CB,PT,0,0,0,0,0
+70271,"Kansas City, City of Missouri",Full Reporter: Operating,,,Urban,SR,PT,0,0,0,0,0
+77069,Santee Sioux Nation,Small Systems Reporter,7R04,Nebraska Department of Transportation,Tribe,MB,DO,0,0,0,0,0
+80001,Utah Transit Authority,Full Reporter: Operating,,,Urban,CB,DO,0,0,0,0,0
+80001,Utah Transit Authority,Full Reporter: Operating,,,Urban,CR,DO,17,0,17,2,5
+80001,Utah Transit Authority,Full Reporter: Operating,,,Urban,LR,DO,60,0,60,0,6
+80001,Utah Transit Authority,Full Reporter: Operating,,,Urban,MB,DO,71,0,71,0,0
+80001,Utah Transit Authority,Full Reporter: Operating,,,Urban,MB,PT,0,0,0,0,0
+80002,City of Sioux Falls,Full Reporter: Operating,,,Urban,MB,DO,2,0,2,0,0
+80003,City of Fargo,Full Reporter: Operating/Building,8R03,North Dakota Department of Transportation,Urban,MB,PT,1,0,1,0,1
+80004,City of Billings,Full Reporter: Operating,,,Urban,MB,DO,2,0,2,0,0
+80005,City of Colorado Springs,Full Reporter: Operating,,,Urban,MB,PT,1,0,1,0,0
+80006,Denver Regional Transportation District,Full Reporter: Operating,,,Urban,CR,DO,7,0,7,6,11
+80006,Denver Regional Transportation District,Full Reporter: Operating,,,Urban,CR,PT,16,0,16,6,20
+80006,Denver Regional Transportation District,Full Reporter: Operating,,,Urban,LR,DO,57,0,57,6,66
+80006,Denver Regional Transportation District,Full Reporter: Operating,,,Urban,MB,DO,12,0,12,2,11
+80006,Denver Regional Transportation District,Full Reporter: Operating,,,Urban,MB,PT,12,0,12,2,11
+80007,City of Pueblo,Full Reporter: Operating,8R01,Colorado Department of Transportation,Urban,MB,DO,1,0,1,0,0
+80008,City of Grand Forks,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,0
+80009,Missoula Urban Transportation District,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,1
+80010,"Greeley, City Of",Small Systems Reporter,,,Urban,MB,DO,1,0,1,0,0
+80011,City of Fort Collins,Full Reporter: Operating,,,Urban,MB,DO,3,0,3,0,0
+80011,City of Fort Collins,Full Reporter: Operating,,,Urban,MB,PT,0,0,0,0,0
+80011,City of Fort Collins,Full Reporter: Operating,,,Urban,RB,DO,2,0,2,0,0
+80012,Great Falls Transit District,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,0
+80013,City of Casper,Small Systems Reporter,8R05,Wyoming Department of Transportation,Urban,MB,DO,0,0,0,0,0
+80014,City of Rapid City,Small Systems Reporter,8R04,South Dakota Department of Transportation,Urban,MB,DO,1,0,1,0,0
+80016,County of Mesa,Small Systems Reporter,,,Urban,MB,PT,2,0,2,0,1
+80018,Fort Peck Tribes ,Small Systems Reporter,8R02,Montana Department of Transportation,Tribe,MB,DO,0,0,0,0,0
+80019,Bis-Man Transit Board,Small Systems Reporter,8R03,North Dakota Department of Transportation,Urban,MB,PT,1,0,1,0,0
+80025,"City of Loveland, Colorado",Full Reporter: Operating,8R01,Colorado Department of Transportation,Urban,MB,DO,0,0,0,0,0
+80026,City of St. George,Small Systems Reporter,,,Urban,MB,DO,1,0,1,0,0
+80028,Cache Valley Transit District,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,0
+80107,University of Montana,Full Reporter: Operating,,,Urban,MB,DO,0,0,0,0,0
+80235,"Human Resource Development Council District IX, Inc.",Small Systems Reporter,8R02,Montana Department of Transportation,Urban,MB,PT,0,0,0,0,0
+80267,"Senior Resource Development Agency, Pueblo, Inc.",Small Systems Reporter,8R01,Colorado Department of Transportation,Urban,MB,DO,0,0,0,0,0
+80303,City of Minot ,Small Systems Reporter,8R03,North Dakota Department of Transportation,Urban,MB,DO,1,0,1,0,0
+88116,Northern Cheyenne Tribe,Small Systems Reporter,,,Tribe,MB,DO,0,0,0,0,0
+88122,Oglala Sioux Tribe,Small Systems Reporter,,,Tribe,MB,DO,1,0,1,0,0
+88134,Confederated Salish and Kootenai Tribes,Small Systems Reporter,8R02,Montana Department of Transportation,Tribe,CB,DO,0,0,0,0,0
+88164,Chippewa Cree Tribe,Small Systems Reporter,8R02,Montana Department of Transportation,Tribe,MB,DO,0,0,0,0,0
+88170,Fort Belknap Indian Community,Small Systems Reporter,,,Tribe,MB,DO,0,0,0,0,0
+88188,Crow Tribe of Indians,Small Systems Reporter,8R02,Montana Department of Transportation,Tribe,MB,DO,0,0,0,0,0
+88194,Yankton Sioux Tribe,Small Systems Reporter,8R04,South Dakota Department of Transportation,Tribe,MB,DO,0,0,0,0,0
+88200,Ute Tribe,Small Systems Reporter,8R06,Utah Department of Transportation,Tribe,MB,DO,0,0,0,0,0
+88288,"Disability Services, Inc.",Small Systems Reporter,8R01,Colorado Department of Transportation,Urban,MB,DO,0,0,0,0,0
+90001,Regional Transportation Commission of Washoe County,Full Reporter: Operating,,,Urban,CB,PT,0,0,0,0,0
+90001,Regional Transportation Commission of Washoe County,Full Reporter: Operating,,,Urban,MB,PT,2,0,2,0,0
+90002,City and County of Honolulu,Full Reporter: Operating,,,Urban,HR,PT,9,0,9,14,17
+90002,City and County of Honolulu,Full Reporter: Operating,,,Urban,MB,PT,5,0,5,0,2
+90003,San Francisco Bay Area Rapid Transit District,Full Reporter: Operating,,,Urban,HR,DO,48,0,48,185,137
+90003,San Francisco Bay Area Rapid Transit District,Full Reporter: Operating,,,Urban,MG,PT,2,0,2,4,2
+90003,San Francisco Bay Area Rapid Transit District,Full Reporter: Operating,,,Urban,YR,DO,3,0,3,2,3
+90004,Golden Empire Transit District,Full Reporter: Operating,,,Urban,MB,DO,4,0,4,0,0
+90005,Navajo Nation,Small Systems Reporter,9R01,Arizona Department of Transportation,Tribe,CB,DO,0,0,0,0,0
+90006,Santa Cruz Metropolitan Transit District,Full Reporter: Operating,,,Urban,CB,DO,3,0,3,0,0
+90006,Santa Cruz Metropolitan Transit District,Full Reporter: Operating,,,Urban,MB,DO,4,0,4,0,0
+90008,City of Santa Monica,Full Reporter: Operating,,,Urban,MB,DO,0,0,0,0,0
+90009,San Mateo County Transit District,Full Reporter: Operating/Building,,,Urban,MB,DO,16,1,17,3,5
+90009,San Mateo County Transit District,Full Reporter: Operating/Building,,,Urban,MB,PT,0,0,0,0,0
+90010,City of Torrance,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,1
+90011,Reno-Sparks Indian Colony,Small Systems Reporter,,,Tribe,MB,DO,0,0,0,0,0
+90012,San Joaquin Regional Transit District,Full Reporter: Operating/Building,,,Urban,CB,DO,0,0,0,0,0
+90012,San Joaquin Regional Transit District,Full Reporter: Operating/Building,,,Urban,MB,DO,1,0,1,0,0
+90013,Santa Clara Valley Transportation Authority,Full Reporter: Operating,,,Urban,LR,DO,62,0,62,10,28
+90013,Santa Clara Valley Transportation Authority,Full Reporter: Operating,,,Urban,MB,DO,12,0,12,0,1
+90013,Santa Clara Valley Transportation Authority,Full Reporter: Operating,,,Urban,MB,PT,1,0,1,0,0
+90014,Alameda-Contra Costa Transit District,Full Reporter: Operating,,,Urban,CB,DO,17,0,17,17,17
+90014,Alameda-Contra Costa Transit District,Full Reporter: Operating,,,Urban,MB,DO,0,0,0,0,0
+90014,Alameda-Contra Costa Transit District,Full Reporter: Operating,,,Urban,MB,PT,0,0,0,0,0
+90014,Alameda-Contra Costa Transit District,Full Reporter: Operating,,,Urban,RB,DO,46,0,46,0,0
+90015,City and County of San Francisco,Full Reporter: Operating,,,Urban,CC,DO,0,0,0,0,0
+90015,City and County of San Francisco,Full Reporter: Operating,,,Urban,LR,DO,12,0,12,46,24
+90015,City and County of San Francisco,Full Reporter: Operating,,,Urban,MB,DO,0,0,0,0,0
+90015,City and County of San Francisco,Full Reporter: Operating,,,Urban,SR,DO,0,0,0,0,0
+90015,City and County of San Francisco,Full Reporter: Operating,,,Urban,TB,DO,0,0,0,0,0
+90016,"Golden Gate Bridge, Highway and Transportation District",Full Reporter: Operating,,,Urban,FB,DO,7,0,7,0,0
+90016,"Golden Gate Bridge, Highway and Transportation District",Full Reporter: Operating,,,Urban,MB,DO,2,0,2,0,0
+90017,City of Santa Rosa,Full Reporter: Operating,A0013,Metropolitan Transportation Commission,Urban,MB,DO,2,0,2,0,0
+90017,City of Santa Rosa,Full Reporter: Operating,A0013,Metropolitan Transportation Commission,Urban,MB,PT,0,0,0,0,0
+90019,Sacramento Regional Transit District,Full Reporter: Operating,,,Urban,LR,DO,44,0,44,0,8
+90019,Sacramento Regional Transit District,Full Reporter: Operating,,,Urban,MB,DO,0,0,0,0,0
+90020,Santa Barbara Metropolitan Transit District,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,0
+90022,City of Norwalk ,Full Reporter: Operating,,,Urban,MB,DO,0,0,0,0,0
+90023,Long Beach Transit,Full Reporter: Operating,,,Urban,MB,DO,0,0,0,0,0
+90026,San Diego Metropolitan Transit System,Full Reporter: Operating,,,Urban,CB,PT,0,0,0,0,0
+90026,San Diego Metropolitan Transit System,Full Reporter: Operating,,,Urban,LR,DO,63,0,63,4,26
+90026,San Diego Metropolitan Transit System,Full Reporter: Operating,,,Urban,MB,DO,9,0,9,0,10
+90026,San Diego Metropolitan Transit System,Full Reporter: Operating,,,Urban,MB,PT,10,0,10,0,0
+90027,City of Fresno,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,0
+90029,Omnitrans,Full Reporter: Operating,,,Urban,MB,DO,7,0,7,0,1
+90029,Omnitrans,Full Reporter: Operating,,,Urban,MB,PT,1,0,1,0,0
+90030,North County Transit District,Full Reporter: Operating,,,Urban,CR,DO,8,0,8,0,2
+90030,North County Transit District,Full Reporter: Operating,,,Urban,MB,PT,5,0,5,0,0
+90030,North County Transit District,Full Reporter: Operating,,,Urban,YR,DO,15,0,15,0,1
+90031,Riverside Transit Agency,Full Reporter: Operating,,,Urban,CB,DO,5,0,5,0,8
+90031,Riverside Transit Agency,Full Reporter: Operating,,,Urban,MB,DO,7,0,7,0,8
+90031,Riverside Transit Agency,Full Reporter: Operating,,,Urban,MB,PT,3,0,3,0,4
+90032,City of Phoenix,Full Reporter: Operating,,,Urban,MB,PT,0,0,0,0,0
+90033,City of Tucson,Full Reporter: Operating,,,Urban,MB,PT,3,0,3,0,0
+90033,City of Tucson,Full Reporter: Operating,,,Urban,SR,PT,0,0,0,0,0
+90034,City of Glendale ,Full Reporter: Operating,,,Urban,MB,DO,0,0,0,0,0
+90035,Gold Coast Transit District,Full Reporter: Operating,,,Urban,MB,DO,0,0,0,0,0
+90036,Orange County Transportation Authority,Full Reporter: Operating,,,Urban,MB,DO,8,0,8,2,11
+90036,Orange County Transportation Authority,Full Reporter: Operating,,,Urban,MB,PT,8,0,8,2,11
+90039,City of Culver City,Full Reporter: Operating,,,Urban,MB,DO,0,0,0,0,0
+90041,City of Montebello,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,0
+90042,City of Gardena,Full Reporter: Operating,,,Urban,MB,DO,0,0,0,0,0
+90043,City of Commerce,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,0
+90044,City of Arcadia,Small Systems Reporter,,,Urban,MB,PT,0,0,0,0,0
+90045,Regional Transportation Commission of Southern Nevada,Full Reporter: Operating,,,Urban,MB,PT,4,0,4,0,0
+90050,City of Simi Valley,Small Systems Reporter,A0005,Ventura Intercity Service Transit Authority,Urban,MB,DO,0,0,0,0,0
+90052,City of Corona,Small Systems Reporter,,,Urban,MB,PT,1,0,1,0,2
+90061,Yuba-Sutter Transit Authority,Small Systems Reporter,,,Urban,CB,PT,0,0,0,0,0
+90061,Yuba-Sutter Transit Authority,Small Systems Reporter,,,Urban,MB,PT,0,0,0,0,0
+90062,Monterey-Salinas Transit,Full Reporter: Operating,,,Urban,MB,DO,6,0,6,0,0
+90062,Monterey-Salinas Transit,Full Reporter: Operating,,,Urban,MB,PT,3,0,3,0,0
+90078,Central Contra Costa Transit Authority,Full Reporter: Operating,A0013,Metropolitan Transportation Commission,Urban,MB,DO,0,0,0,0,0
+90078,Central Contra Costa Transit Authority,Full Reporter: Operating,A0013,Metropolitan Transportation Commission,Urban,MB,PT,0,0,0,0,0
+90079,SunLine Transit Agency,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,0
+90087,City of Santa Maria,Full Reporter: Operating,,,Urban,MB,PT,1,0,1,0,0
+90088,Napa Valley Transportation Authority,Full Reporter: Operating,A0013,Metropolitan Transportation Commission,Urban,CB,PT,1,0,1,0,1
+90088,Napa Valley Transportation Authority,Full Reporter: Operating,A0013,Metropolitan Transportation Commission,Urban,MB,PT,2,0,2,0,1
+90089,County of Sonoma ,Full Reporter: Operating,A0013,Metropolitan Transportation Commission,Urban,MB,PT,3,0,3,0,1
+90090,Yolo County Transportation District,Full Reporter: Operating,,,Urban,MB,PT,0,0,0,0,0
+90091,City of Visalia  ,Full Reporter: Operating,,,Urban,CB,PT,1,0,1,0,1
+90091,City of Visalia  ,Full Reporter: Operating,,,Urban,MB,PT,1,0,1,0,1
+90092,"City of Fairfield, California",Full Reporter: Operating,A0013,Metropolitan Transportation Commission,Urban,CB,PT,0,0,0,0,0
+90092,"City of Fairfield, California",Full Reporter: Operating,A0013,Metropolitan Transportation Commission,Urban,MB,PT,2,0,2,0,2
+90093,Redding Area Bus Authority,Small Systems Reporter,A0016,Redding Area Bus Authority ,Urban,MB,PT,1,0,1,0,0
+90119,City of Laguna Beach,Small Systems Reporter,,,Urban,MB,PT,1,0,1,0,0
+90121,Antelope Valley Transit Authority,Full Reporter: Operating,,,Urban,CB,PT,0,0,0,0,0
+90121,Antelope Valley Transit Authority,Full Reporter: Operating,,,Urban,MB,PT,0,0,0,0,0
+90131,City of Scottsdale ,Full Reporter: Operating,,,Urban,MB,PT,0,0,0,0,0
+90134,Peninsula Corridor Joint Powers Board,Full Reporter: Operating,,,Urban,CR,PT,26,5,31,4,9
+90136,Regional Public Transportation Authority,Full Reporter: Operating,,,Urban,MB,PT,2,0,2,0,0
+90142,"University of California, Davis",Full Reporter: Operating,,,Urban,MB,DO,0,0,0,0,0
+90144,Livermore / Amador Valley Transit Authority,Full Reporter: Operating,A0013,Metropolitan Transportation Commission,Urban,MB,PT,5,0,5,13,6
+90146,Foothill Transit,Full Reporter: Operating,,,Urban,MB,PT,0,0,0,0,0
+90147,City of Los Angeles,Full Reporter: Operating,,,Urban,CB,PT,3,0,3,0,0
+90147,City of Los Angeles,Full Reporter: Operating,,,Urban,MB,PT,2,0,2,0,0
+90148,Victor Valley Transit Authority,Full Reporter: Operating,,,Urban,CB,PT,0,0,0,0,0
+90148,Victor Valley Transit Authority,Full Reporter: Operating,,,Urban,MB,PT,0,0,0,0,0
+90149,City of Lompoc,Small Systems Reporter,,,Urban,MB,PT,0,0,0,0,0
+90151,Southern California Regional Rail Authority,Full Reporter: Operating,,,Urban,CR,PT,66,0,66,4,34
+90154,Los Angeles County Metropolitan Transportation Authority ,Full Reporter: Operating/Building,,,Urban,HR,DO,16,0,16,111,61
+90154,Los Angeles County Metropolitan Transportation Authority ,Full Reporter: Operating/Building,,,Urban,LR,DO,87,0,87,78,104
+90154,Los Angeles County Metropolitan Transportation Authority ,Full Reporter: Operating/Building,,,Urban,MB,DO,22,0,22,4,18
+90154,Los Angeles County Metropolitan Transportation Authority ,Full Reporter: Operating/Building,,,Urban,MB,PT,5,0,5,4,3
+90154,Los Angeles County Metropolitan Transportation Authority ,Full Reporter: Operating/Building,,,Urban,RB,DO,16,0,16,0,0
+90155,City of Vacaville,Small Systems Reporter,A0013,Metropolitan Transportation Commission,Urban,MB,PT,2,0,2,0,0
+90156,City of San Luis Obispo,Full Reporter: Operating,,,Urban,MB,PT,0,0,0,0,0
+90159,Western Contra Costa Transit Authority,Full Reporter: Operating,A0013,Metropolitan Transportation Commission,Urban,CB,PT,1,0,1,2,4
+90159,Western Contra Costa Transit Authority,Full Reporter: Operating,A0013,Metropolitan Transportation Commission,Urban,MB,PT,1,0,1,2,2
+90161,City of Union City,Small Systems Reporter,A0013,Metropolitan Transportation Commission,Urban,MB,PT,1,0,1,0,0
+90162,The Eastern Contra Costa Transit Authority,Full Reporter: Operating,A0013,Metropolitan Transportation Commission,Urban,MB,PT,0,0,0,0,0
+90163,City of Camarillo,Small Systems Reporter,A0005,Ventura Intercity Service Transit Authority,Urban,MB,PT,0,0,0,0,0
+90164,Ventura County Transportation Commission,Full Reporter: Operating,A0005,Ventura Intercity Service Transit Authority,Urban,CB,PT,2,0,2,0,0
+90164,Ventura County Transportation Commission,Full Reporter: Operating,A0005,Ventura Intercity Service Transit Authority,Urban,MB,PT,0,0,0,0,0
+90165,City of Thousand Oaks,Small Systems Reporter,A0005,Ventura Intercity Service Transit Authority,Urban,MB,PT,1,0,1,0,0
+90168,City of Roseville,Small Systems Reporter,,,Urban,CB,PT,0,0,0,0,0
+90168,City of Roseville,Small Systems Reporter,,,Urban,MB,PT,0,0,0,0,0
+90171,City of Santa Clarita,Full Reporter: Operating,,,Urban,CB,PT,3,0,3,0,0
+90171,City of Santa Clarita,Full Reporter: Operating,,,Urban,MB,PT,4,0,4,0,0
+90173,Transit Joint Powers Authority for Merced County,Full Reporter: Operating,,,Urban,MB,PT,2,0,2,0,0
+90175,City of Lodi,Small Systems Reporter,,,Urban,MB,PT,1,0,1,0,2
+90182,Altamont Corridor Express,Full Reporter: Operating,,,Urban,CR,PT,10,0,10,0,0
+90196,County of Placer,Full Reporter: Operating,,,Urban,CB,DO,0,0,0,0,0
+90196,County of Placer,Full Reporter: Operating,,,Urban,CB,PT,0,0,0,0,0
+90196,County of Placer,Full Reporter: Operating,,,Urban,MB,DO,1,0,1,0,0
+90196,County of Placer,Full Reporter: Operating,,,Urban,MB,PT,0,0,0,0,0
+90197,City of Tracy,Small Systems Reporter,,,Urban,MB,PT,1,0,1,0,0
+90199,City of Madera,Small Systems Reporter,,,Urban,MB,PT,0,0,0,0,0
+90200,Kings County Area Public Transit Agency,Full Reporter: Operating,,,Urban,MB,PT,1,0,1,0,0
+90201,City of Turlock,Full Reporter: Operating/Building,,,Urban,MB,PT,1,0,1,0,0
+90206,San Luis Obispo Regional Transit Authority,Full Reporter: Operating,,,Urban,MB,DO,0,0,0,0,0
+90208,Butte County Association of Governments,Full Reporter: Operating,,,Urban,MB,PT,2,0,2,0,0
+90209,"Valley Metro Rail, Inc.",Full Reporter: Operating,,,Urban,LR,PT,43,0,43,1,1
+90209,"Valley Metro Rail, Inc.",Full Reporter: Operating,,,Urban,SR,PT,14,0,14,0,0
+90211,Anaheim Transportation Network,Full Reporter: Operating,,,Urban,MB,PT,5,0,5,2,5
+90213,City of Petaluma,Full Reporter: Operating,A0013,Metropolitan Transportation Commission,Urban,MB,PT,0,0,0,0,0
+90214,City of Redondo Beach,Full Reporter: Operating,,,Urban,MB,PT,1,0,1,0,0
+90215,Carson Area Metropolitan Planning Organization,Small Systems Reporter,,,Urban,MB,PT,0,0,0,0,0
+90216,County of Sacramento Municipal Services Agency,Small Systems Reporter,9R02,California Department of Transportation,Urban,CB,PT,0,0,0,0,0
+90216,County of Sacramento Municipal Services Agency,Small Systems Reporter,9R02,California Department of Transportation,Urban,MB,PT,0,0,0,0,0
+90217,City of Manteca,Small Systems Reporter,,,Urban,MB,PT,1,0,1,0,0
+90219,Northern Arizona Intergovernmental Public Transportation Authority,Full Reporter: Operating,,,Urban,MB,DO,0,0,0,0,0
+90225,San Francisco Bay Area Water Emergency Transportation Authority,Full Reporter: Operating,A0013,Metropolitan Transportation Commission,Urban,FB,PT,14,0,14,0,0
+90226,Imperial County Transportation Commission,Full Reporter: Operating,,,Urban,MB,PT,4,0,4,0,0
+90227,City of Moorpark,Small Systems Reporter,A0005,Ventura Intercity Service Transit Authority,Urban,MB,PT,0,0,0,0,0
+90229,El Dorado County Transit Authority,Small Systems Reporter,,,Urban,CB,DO,0,0,0,0,0
+90229,El Dorado County Transit Authority,Small Systems Reporter,,,Urban,MB,DO,1,0,1,0,0
+90232,Solano County Transit,Full Reporter: Operating,A0013,Metropolitan Transportation Commission,Urban,CB,PT,1,0,1,0,0
+90232,Solano County Transit,Full Reporter: Operating,A0013,Metropolitan Transportation Commission,Urban,MB,PT,1,0,1,0,0
+90233,Yuma County Intergovernmental Public Transportation Authority,Full Reporter: Operating,,,Urban,MB,PT,0,0,0,0,0
+90234,Marin County Transit District,Full Reporter: Operating,A0013,Metropolitan Transportation Commission,Urban,MB,PT,1,0,1,0,0
+90238,City of Delano,Small Systems Reporter,,,Urban,MB,DO,1,0,1,0,0
+90239,City of Sierra Vista,Small Systems Reporter,,,Urban,MB,DO,1,0,1,0,0
+90241,County of Maui,Full Reporter: Operating,9R03,Hawaii Department of Transportation,Urban,CB,PT,0,0,0,0,0
+90241,County of Maui,Full Reporter: Operating,9R03,Hawaii Department of Transportation,Urban,MB,PT,0,0,0,0,0
+90247,City of Alhambra,Small Systems Reporter,,,Urban,MB,PT,0,0,0,0,0
+90249,City of Avalon,Small Systems Reporter,,,Urban,MB,PT,1,0,1,0,0
+90251,City of Baldwin Park,Small Systems Reporter,A0003,Los Angeles County Metropolitan Transportation Authority ,Urban,MB,PT,0,0,0,0,0
+90252,City of Bell,Small Systems Reporter,,,Urban,MB,PT,0,0,0,0,0
+90253,City of Bell Gardens,Small Systems Reporter,A0003,Los Angeles County Metropolitan Transportation Authority ,Urban,MB,PT,0,0,0,0,0
+90254,City of Bellflower,Small Systems Reporter,A0003,Los Angeles County Metropolitan Transportation Authority ,Urban,MB,PT,0,0,0,0,0
+90256,City of Burbank,Small Systems Reporter,A0003,Los Angeles County Metropolitan Transportation Authority ,Urban,MB,PT,0,0,0,0,0
+90257,City of Calabasas,Small Systems Reporter,A0003,Los Angeles County Metropolitan Transportation Authority ,Urban,MB,PT,0,0,0,0,0
+90258,City of Carson,Small Systems Reporter,,,Urban,MB,DO,0,0,0,0,0
+90259,City of Cerritos,Small Systems Reporter,A0003,Los Angeles County Metropolitan Transportation Authority ,Urban,MB,PT,0,0,0,0,0
+90260,City of Compton  ,Small Systems Reporter,A0003,Los Angeles County Metropolitan Transportation Authority ,Urban,MB,PT,1,0,1,0,0
+90262,City of Cudahy,Small Systems Reporter,,,Urban,MB,PT,0,0,0,0,0
+90263,City of Downey,Small Systems Reporter,A0003,Los Angeles County Metropolitan Transportation Authority ,Urban,MB,PT,1,0,1,0,0
+90265,City of El Monte ,Small Systems Reporter,A0003,Los Angeles County Metropolitan Transportation Authority ,Urban,MB,DO,1,0,1,0,0
+90265,City of El Monte ,Small Systems Reporter,A0003,Los Angeles County Metropolitan Transportation Authority ,Urban,MB,PT,1,0,1,0,0
+90266,City of Glendora,Small Systems Reporter,A0003,Los Angeles County Metropolitan Transportation Authority ,Urban,MB,PT,0,0,0,0,0
+90267,City of Huntington Park,Small Systems Reporter,,,Urban,MB,PT,0,0,0,0,0
+90268,City of Inglewood,Small Systems Reporter,A0003,Los Angeles County Metropolitan Transportation Authority ,Urban,MB,DO,0,0,0,0,0
+90269,Los Angeles County,Small Systems Reporter,A0003,Los Angeles County Metropolitan Transportation Authority ,Urban,MB,PT,0,0,0,0,0
+90270,Los Angeles County,Small Systems Reporter,A0003,Los Angeles County Metropolitan Transportation Authority ,Urban,MB,PT,0,0,0,0,0
+90271,Los Angeles County,Small Systems Reporter,A0003,Los Angeles County Metropolitan Transportation Authority ,Urban,MB,PT,0,0,0,0,0
+90272,Los Angeles County ,Small Systems Reporter,A0003,Los Angeles County Metropolitan Transportation Authority ,Urban,MB,PT,0,0,0,0,0
+90273,Los Angeles County,Small Systems Reporter,A0003,Los Angeles County Metropolitan Transportation Authority ,Urban,MB,PT,0,0,0,0,0
+90274,Los Angeles County,Small Systems Reporter,A0003,Los Angeles County Metropolitan Transportation Authority ,Urban,MB,PT,0,0,0,0,0
+90275,Los Angeles County,Small Systems Reporter,A0003,Los Angeles County Metropolitan Transportation Authority ,Urban,MB,PT,0,0,0,0,0
+90276,Los Angeles County,Small Systems Reporter,A0003,Los Angeles County Metropolitan Transportation Authority ,Urban,MB,PT,0,0,0,0,0
+90278,Los Angeles County,Small Systems Reporter,A0003,Los Angeles County Metropolitan Transportation Authority ,Urban,MB,PT,0,0,0,0,0
+90281,City of Lynwood,Small Systems Reporter,,,Urban,MB,PT,0,0,0,0,0
+90284,City of Maywood,Small Systems Reporter,,,Urban,MB,PT,0,0,0,0,0
+90286,City of Monterey Park,Small Systems Reporter,A0003,Los Angeles County Metropolitan Transportation Authority ,Urban,MB,PT,0,0,0,0,0
+90287,Palos Verdes Peninsula Transit Authority,Small Systems Reporter,A0003,Los Angeles County Metropolitan Transportation Authority ,Urban,MB,PT,0,0,0,0,0
+90289,City of Rosemead,Small Systems Reporter,,,Urban,MB,PT,0,0,0,0,0
+90291,City of South Gate,Small Systems Reporter,A0003,Los Angeles County Metropolitan Transportation Authority ,Urban,MB,PT,0,0,0,0,0
+90293,City of West Covina,Small Systems Reporter,,,Urban,MB,PT,0,0,0,0,0
+90294,City of West Hollywood,Small Systems Reporter,A0003,Los Angeles County Metropolitan Transportation Authority ,Urban,MB,PT,0,0,0,0,0
+90298,County of Ventura,Small Systems Reporter,,,Urban,MB,PT,0,0,0,0,0
+90299,Sonoma-Marin Area Rail Transit District,Full Reporter: Operating,,,Urban,CR,DO,12,0,12,0,0
+90303,Santa Barbara County Association of Governments,Small Systems Reporter,,,Urban,CB,PT,0,0,0,0,0
+90306,Stanislaus Regional Transit Authority,Full Reporter: Operating,,,Urban,CB,PT,0,0,0,0,0
+90306,Stanislaus Regional Transit Authority,Full Reporter: Operating,,,Urban,MB,PT,0,0,0,0,0
+90310,Tulare County Regional Transit Agency,Full Reporter: Operating,,,Urban,MB,PT,2,0,2,0,0
+90999,Government of Guam-Guam Regional Transit Authority,Small Systems Reporter,9R05,Government of Guam - Guam Regional Transit Authority,Urban,MB,DO,0,1,1,0,0
+91005,Madera County,Small Systems Reporter,,,Urban,CB,PT,0,0,0,0,0
+91037,City of Bullhead,Small Systems Reporter,,,Urban,MB,DO,0,0,0,0,0
+91058,City of Ojai,Small Systems Reporter,,,Urban,MB,DO,0,0,0,0,0
+91059,Kern Regional Transit,Small Systems Reporter,,,Urban,MB,PT,1,0,1,0,0
+91072,Southern Nevada Transit Coalition,Small Systems Reporter,9R04,Nevada Department of Transportation,Urban,CB,DO,1,0,1,0,0
+91072,Southern Nevada Transit Coalition,Small Systems Reporter,9R04,Nevada Department of Transportation,Urban,MB,DO,0,0,0,0,0
+91078,City of Escalon,Small Systems Reporter,,,Urban,MB,PT,0,0,0,0,0
+91092,Tahoe Transportation District,Full Reporter: Operating,,,Urban,MB,DO,3,0,3,0,2
+91106,City of Maricopa,Small Systems Reporter,9R01,Arizona Department of Transportation,Urban,MB,DO,0,0,0,0,0
+91122,Regional Transportation Authority of Pima County,Small Systems Reporter,A0021,City of Tucson,Urban,MB,PT,0,0,0,0,0
+99262,Yurok Tribe,Small Systems Reporter,,,Tribe,FB,DO,0,2,2,0,0
+99262,Yurok Tribe,Small Systems Reporter,,,Tribe,MB,DO,0,0,0,0,0
+99286,San Carlos Apache Tribe,Small Systems Reporter,,,Tribe,MB,DO,0,0,0,0,0
+99292,Blue Lake Rancheria,Small Systems Reporter,,,Tribe,MB,DO,0,0,0,0,0
+99292,Blue Lake Rancheria,Small Systems Reporter,,,Tribe,MB,PT,0,0,0,0,0
+99316,Chemehuevi Indian Tribe,Small Systems Reporter,,,Tribe,FB,DO,2,0,2,0,0
+99322,Fallon Paiute-Shoshone Tribe,Small Systems Reporter,,,Tribe,MB,DO,0,0,0,0,0
+99328,Yavapai-Apache Nation,Small Systems Reporter,,,Tribe,MB,DO,0,0,0,0,0
+99334,White Mountain Apache Tribe,Small Systems Reporter,,,Tribe,MB,DO,0,0,0,0,0
+99382,Hopi Tribe,Small Systems Reporter,9R01,Arizona Department of Transportation,Tribe,MB,DO,0,0,0,0,0
+99406,Pyramid Lake Paiute Tribe,Small Systems Reporter,9R04,Nevada Department of Transportation,Tribe,MB,DO,0,0,0,0,0
+99423,City of Glendale,Full Reporter: Operating,A0003,Los Angeles County Metropolitan Transportation Authority ,Urban,MB,PT,0,0,0,0,0
+99424,City of Pasadena,Full Reporter: Operating,A0003,Los Angeles County Metropolitan Transportation Authority ,Urban,MB,PT,0,0,0,0,0
+99433,Hualapai Indian Tribe,Small Systems Reporter,,,Tribe,MB,DO,0,0,0,0,0
+99436,Gila River Indian Community,Small Systems Reporter,9R01,Arizona Department of Transportation,Tribe,MB,DO,0,0,0,0,0

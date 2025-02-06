@@ -1,0 +1,747 @@
+NTD ID,Agency Name,Reporter Type,Reporting Module,Expense Type,Interest Expenses,Leases and Rentals,Purchase Lease Agreement,Related Parties Lease Agreement,Voluntary Non-Exchange Transactions,Extraordinary and Special Items,Depreciation,Amortization of Intangibles,Other Reconciling Items,Total Reconciling Items,ADA Related Reconciling Items
+1,King County,Full Reporter,Urban,Funds Applied,59637,4109721,0,0,0,0,0,0,0,4169358,2214460
+1,King County,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,170015756,0,0,170015756,0
+2,Spokane Transit Authority,Full Reporter,Urban,Funds Applied,0,162710,78444,0,0,0,0,0,1912309,2153463,22527
+2,Spokane Transit Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,18311605,1534920,-5229671,14616854,-768073
+3,Pierce County Transportation Benefit Area Authority,Full Reporter,Urban,Funds Applied,0,561064,0,211885,0,0,0,0,42707,815656,0
+3,Pierce County Transportation Benefit Area Authority,Full Reporter,Urban,Funds Not Applied,0,-1226463,0,-187817,0,0,18092552,0,-10080181,6598091,0
+5,City of Everett,Full Reporter,Urban,Funds Applied,0,154925,0,0,0,0,0,0,0,154925,0
+5,City of Everett,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,3571253,0,-2423416,1147837,0
+6,City of Yakima,Full Reporter,Urban,Funds Applied,0,170038,0,0,0,0,0,0,0,170038,0
+6,City of Yakima,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,562735,0,0,562735,0
+7,Lane Transit District,Full Reporter,Urban,Funds Applied,40298,6035767,0,0,0,0,0,0,0,6076065,0
+7,Lane Transit District,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,16837374,0,0,16837374,0
+8,Tri-County Metropolitan Transportation District of Oregon,Full Reporter,Urban,Funds Applied,30285675,9340103,4380181,0,0,0,0,0,23626930,67632889,0
+8,Tri-County Metropolitan Transportation District of Oregon,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,151729848,0,-1744976,149984872,0
+11,Valley Regional Transit,Full Reporter,Urban,Funds Applied,0,107655,0,5,0,0,0,0,0,107660,21746
+11,Valley Regional Transit,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,3539896,0,0,3539896,542555
+12,Municipality of Anchorage,Full Reporter,Urban,Funds Applied,206210,916984,0,0,0,0,0,0,597887,1721081,0
+12,Municipality of Anchorage,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,1208101,0,0,1208101,0
+16,City of Longview,Full Reporter,Urban,Funds Applied,0,25580,0,0,0,0,0,0,0,25580,0
+16,City of Longview,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,653097,0,0,653097,0
+18,Ben Franklin Transit,Full Reporter,Urban,Funds Applied,0,17171,0,0,0,0,0,0,264838,282009,0
+18,Ben Franklin Transit,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,4387551,47113,0,4434664,0
+19,Intercity Transit,Full Reporter,Urban,Funds Applied,0,163857,0,0,0,0,0,0,0,163857,0
+19,Intercity Transit,Full Reporter,Urban,Funds Not Applied,28672,0,0,0,0,0,8300561,884805,932980,10147018,0
+20,Kitsap County Public Transportation Benefit Area Authority,Full Reporter,Urban,Funds Applied,850091,24000,0,0,0,0,0,0,781164,1655255,0
+20,Kitsap County Public Transportation Benefit Area Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,9862381,78481,0,9940862,0
+21,Whatcom Transportation Authority,Full Reporter,Urban,Funds Applied,42162,3095,0,0,0,0,0,0,0,45257,0
+21,Whatcom Transportation Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,5382083,375735,-2968914,2788904,0
+24,Clark County Public Transportation Benefit Area Authority,Full Reporter,Urban,Funds Applied,0,117004,0,0,0,0,0,0,1014163,1131167,46530
+24,Clark County Public Transportation Benefit Area Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,10880404,0,0,10880404,2265086
+25,Salem Area Mass Transit District,Full Reporter,Urban,Funds Applied,0,528154,0,0,0,0,0,0,215281,743435,195160
+25,Salem Area Mass Transit District,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,2780383,0,121229,2901612,0
+28,County of Pierce,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,801817,0,0,801817,0
+29,Snohomish County Public Transportation Benefit Area Corporation,Full Reporter,Urban,Funds Applied,102945,2863469,0,0,0,0,0,0,4133982,7100396,458518
+29,Snohomish County Public Transportation Benefit Area Corporation,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,26187944,3787677,0,29975621,455272
+34,Rogue Valley Transportation District,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,2608348,0,0,2608348,0
+35,Washington State Ferries,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,70031377,0,0,70031377,0
+40,Central Puget Sound Regional Transit Authority,Full Reporter,Urban,Funds Applied,109467721,4352520,3944066,0,0,0,0,0,2663729,120428036,0
+40,Central Puget Sound Regional Transit Authority,Full Reporter,Urban,Funds Not Applied,-21752009,0,0,0,0,0,354238896,12328477,-39103852,305711512,0
+41,Alaska Railroad Corporation,Full Reporter,Urban,Funds Applied,-235238,222528,0,0,0,0,0,0,0,-12710,0
+41,Alaska Railroad Corporation,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,21944992,0,-25398790,-3453798,0
+43,Chelan Douglas PTBA ,Full Reporter,Urban,Funds Applied,0,1410,0,0,0,0,0,0,0,1410,0
+43,Chelan Douglas PTBA ,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,3885762,0,-1355295,2530467,0
+44,Skagit Transit,Full Reporter,Urban,Funds Applied,2540,16581,0,0,0,0,0,0,0,19121,0
+44,Skagit Transit,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,2320885,112856,44908,2478649,0
+46,City of Wilsonville,Full Reporter,Urban,Funds Applied,0,4015,0,0,0,0,0,0,397970,401985,0
+46,City of Wilsonville,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,831357,0,0,831357,0
+57,Central Oregon Intergovernmental Council,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,75813,0,0,75813,0
+376,"Ride Connection, Inc.",Full Reporter,Urban,Funds Applied,0,1131189,0,0,0,0,0,0,0,1131189,0
+376,"Ride Connection, Inc.",Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,1018785,0,546381,1565166,0
+415,Ada County Highway District,Full Reporter,Urban,Funds Applied,0,7152,0,0,0,0,0,0,0,7152,0
+415,Ada County Highway District,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,343701,0,0,343701,0
+10001,Rhode Island Public Transit Authority,Full Reporter,Urban,Funds Applied,0,974835,0,0,0,0,0,0,2365014,3339849,0
+10001,Rhode Island Public Transit Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,15375442,0,487347,15862789,0
+10003,Massachusetts Bay Transportation Authority,Full Reporter,Urban,Funds Applied,186042284,7571249,0,0,0,0,0,0,0,193613533,0
+10003,Massachusetts Bay Transportation Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,562247204,0,-95098249,467148955,0
+10004,Brockton Area Transit Authority,Full Reporter,Urban,Funds Applied,163656,0,0,0,0,0,0,0,0,163656,0
+10004,Brockton Area Transit Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,3744394,0,0,3744394,0
+10005,Lowell Regional Transit Authority,Full Reporter,Urban,Funds Applied,141789,6745,0,0,0,0,0,0,0,148534,0
+10006,Southeastern Regional Transit Authority,Full Reporter,Urban,Funds Applied,145926,0,0,0,0,0,0,0,23243,169169,0
+10006,Southeastern Regional Transit Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,3078534,0,1029024,4107558,0
+10008,Pioneer Valley Transit Authority,Full Reporter,Urban,Funds Applied,425957,440146,0,0,0,0,249490,0,64979,1180572,0
+10008,Pioneer Valley Transit Authority,Full Reporter,Urban,Funds Not Applied,0,87135,0,0,0,0,18480218,0,0,18567353,0
+10013,Merrimack Valley Regional Transit Authority,Full Reporter,Urban,Funds Applied,319287,27910,0,0,0,0,0,0,0,347197,0
+10014,Worcester Regional Transit Authority,Full Reporter,Urban,Funds Applied,263069,400701,0,0,0,0,0,0,0,663770,0
+10014,Worcester Regional Transit Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,6861691,102374,-224741,6739324,0
+10016,Greater Portland Transit District,Full Reporter,Urban,Funds Applied,99329,73968,0,0,0,0,0,0,751978,925275,0
+10016,Greater Portland Transit District,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,2357528,0,0,2357528,0
+10040,Southeast Area Transit District,Full Reporter,Urban,Funds Applied,41972,0,0,0,0,0,0,0,0,41972,0
+10040,Southeast Area Transit District,Full Reporter,Urban,Funds Not Applied,0,0,0,360112,0,0,1097775,0,0,1457887,0
+10042,Valley Transit District,Full Reporter,Urban,Funds Applied,0,8856,0,0,0,0,0,0,0,8856,0
+10042,Valley Transit District,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,337253,0,0,337253,0
+10048,Connecticut Department of Transportation - CTTRANSIT - Hartford Division,Full Reporter,Urban,Funds Applied,0,2231488,0,0,0,0,0,0,0,2231488,0
+10050,Greater Bridgeport Transit Authority,Full Reporter,Urban,Funds Applied,23990,0,0,0,0,0,0,0,0,23990,0
+10050,Greater Bridgeport Transit Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,4191781,0,1057827,5249608,0
+10051,Housatonic Area Regional Transit ,Full Reporter,Urban,Funds Applied,1568,0,0,0,0,0,0,0,0,1568,0
+10053,Cape Ann Transportation Authority,Full Reporter,Urban,Funds Applied,73058,0,0,0,0,0,0,0,0,73058,0
+10055,Connecticut Department of Transportation - CTTRANSIT New Haven Division,Full Reporter,Urban,Funds Applied,0,25327,0,0,0,0,0,0,0,25327,0
+10056,Connecticut Department of Transportation - CTTRANSIT Stamford Division,Full Reporter,Urban,Funds Applied,0,32476,0,0,0,0,0,0,0,32476,0
+10057,Norwalk Transit District,Full Reporter,Urban,Funds Applied,186542,33143,0,0,0,0,0,0,0,219685,0
+10057,Norwalk Transit District,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,2793509,0,0,2793509,0
+10061,Montachusett Regional Transit Authority,Full Reporter,Urban,Funds Applied,527280,998945,0,0,0,0,0,0,39118,1565343,0
+10061,Montachusett Regional Transit Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,5263222,0,0,5263222,0
+10064,Greater Attleboro-Taunton Regional Transit Authority,Full Reporter,Urban,Funds Applied,259170,33860,0,0,0,0,0,0,2807904,3100934,0
+10064,Greater Attleboro-Taunton Regional Transit Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,3576601,0,0,3576601,0
+10066,Green Mountain Transit Authority,Full Reporter,Urban,Funds Applied,0,34796,0,0,0,0,0,0,0,34796,0
+10066,Green Mountain Transit Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,3476594,0,0,3476594,0
+10086,Cooperative Alliance for Seacoast Transportation,Full Reporter,Urban,Funds Applied,0,30600,0,0,0,0,0,0,0,30600,0
+10086,Cooperative Alliance for Seacoast Transportation,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,647225,0,0,647225,0
+10088,Casco Bay Island Transit District,Full Reporter,Urban,Funds Applied,0,35944,0,0,0,0,0,0,0,35944,0
+10088,Casco Bay Island Transit District,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,753501,0,0,753501,0
+10098,"Western Maine Transportation Services, Inc.",Full Reporter,Urban,Funds Applied,79792,43945,0,0,0,0,0,0,0,123737,0
+10102,Connecticut Department of Transportation,Full Reporter,Urban,Funds Applied,0,8486,0,0,0,0,0,0,0,8486,0
+10105,Cape Cod Regional Transit Authority,Full Reporter,Urban,Funds Applied,165182,22713,0,0,0,0,0,0,7286108,7474003,0
+10105,Cape Cod Regional Transit Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,4500347,0,0,4500347,0
+10115,Northern New England Passenger Rail Authority,Full Reporter,Urban,Funds Applied,0,160925,0,0,0,0,0,0,0,160925,0
+10115,Northern New England Passenger Rail Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,400574,0,0,400574,0
+10118,MetroWest Regional Transit Authority,Full Reporter,Urban,Funds Applied,222043,0,0,0,0,0,0,0,0,222043,14016
+10118,MetroWest Regional Transit Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,1299258,0,0,1299258,654802
+10128,Connecticut Department of Transportation- CTTransit Waterbury- NET,Full Reporter,Urban,Funds Applied,124329,10035,0,0,0,0,0,0,0,134364,0
+10130,Connecticut Department of Transportation -CTTRANSIT New Britain ,Full Reporter,Urban,Funds Applied,0,0,0,0,0,0,21181,0,0,21181,0
+10183,"Woods Hole, Martha's Vineyard and Nantucket Steamship Authority",Full Reporter,Urban,Funds Applied,3970123,916196,0,0,0,0,0,0,0,4886319,0
+10183,"Woods Hole, Martha's Vineyard and Nantucket Steamship Authority",Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,13959181,0,0,13959181,0
+11147,Rhode Island Department of Transportation,Full Reporter,Urban,Funds Applied,0,5330,0,0,0,0,0,0,0,5330,0
+11239,"Hyannis Harbor Tours, Inc. ",Full Reporter,Urban,Funds Applied,311708,0,0,0,0,0,0,0,0,311708,0
+11239,"Hyannis Harbor Tours, Inc. ",Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,2164465,8502,0,2172967,0
+20002,Capital District Transportation Authority,Full Reporter,Urban,Funds Applied,196309,903864,0,0,0,0,0,0,0,1100173,0
+20002,Capital District Transportation Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,15995300,0,0,15995300,0
+20003,Broome County,Full Reporter,Urban,Funds Applied,80809,0,0,0,0,0,0,0,2374115,2454924,0
+20003,Broome County,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,3156240,0,348756,3504996,0
+20004,Niagara Frontier Transportation Authority,Full Reporter,Urban,Funds Applied,421541,1391535,0,0,0,0,0,0,0,1813076,10136
+20004,Niagara Frontier Transportation Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,5933177,167210,9299312,15399699,288725
+20008,MTA New York City Transit,Full Reporter,Urban,Funds Applied,1209201395,33176464,0,0,0,0,0,0,21513067,1263890926,0
+20008,MTA New York City Transit,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,-2023040264,0,569411168,-1453629096,0
+20010,Dutchess County,Full Reporter,Urban,Funds Applied,0,95190,0,0,0,0,0,0,0,95190,0
+20010,Dutchess County,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,1269892,0,0,1269892,0
+20018,Central New York Regional Transportation Authority,Full Reporter,Urban,Funds Applied,0,196366,0,0,0,0,0,0,0,196366,0
+20018,Central New York Regional Transportation Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,11816792,0,194335,12011127,0
+20072,Suffolk County ,Full Reporter,Urban,Funds Applied,245929,2535764,0,0,0,0,0,0,0,2781693,0
+20072,Suffolk County ,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,4695878,0,0,4695878,0
+20075,Port Authority Transit Corporation,Full Reporter,Urban,Funds Applied,63208,15767,0,0,0,0,0,305072,0,384047,0
+20075,Port Authority Transit Corporation,Full Reporter,Urban,Funds Not Applied,21639,0,0,6122000,0,0,0,104439,-1332742,4915336,0
+20076,Westchester County,Full Reporter,Urban,Funds Applied,0,2263348,0,0,0,0,0,0,0,2263348,0
+20078,"Metro-North Commuter Railroad Company, dba: MTA Metro-North Railroad",Full Reporter,Urban,Funds Applied,155945747,12853926,0,0,0,0,0,0,69686604,238486277,0
+20078,"Metro-North Commuter Railroad Company, dba: MTA Metro-North Railroad",Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,362494014,0,97693800,460187814,0
+20080,New Jersey Transit Corporation,Full Reporter,Urban,Funds Applied,62149050,4057914,0,0,0,0,0,0,0,66206964,0
+20080,New Jersey Transit Corporation,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,35280450,8079394,160070236,203430080,10522558
+20084,County of Rockland ,Full Reporter,Urban,Funds Applied,0,101381,0,0,0,0,0,0,0,101381,0
+20096,Putnam County ,Full Reporter,Urban,Funds Applied,0,0,0,0,0,0,0,0,3096930,3096930,0
+20098,Port Authority Trans-Hudson Corporation,Full Reporter,Urban,Funds Not Applied,173590000,0,0,0,0,0,239007000,0,0,412597000,0
+20099,Staten Island Rapid Transit Operating Authority,Full Reporter,Urban,Funds Applied,10903056,614526,0,0,0,0,0,0,6907311,18424893,0
+20099,Staten Island Rapid Transit Operating Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,23681352,0,0,23681352,0
+20100,MTA Long Island Rail Road,Full Reporter,Urban,Funds Applied,179512262,4717212,0,0,0,0,0,0,0,184229474,0
+20100,MTA Long Island Rail Road,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,671293596,14135875,75930399,761359870,0
+20113,Regional Transit Service,Full Reporter,Urban,Funds Applied,6404,234761,0,0,0,0,0,0,0,241165,0
+20113,Regional Transit Service,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,15044444,0,2222972,17267416,0
+20122,"Academy Lines, Inc.",Full Reporter,Urban,Funds Applied,0,0,3636314,0,0,0,0,0,0,3636314,0
+20122,"Academy Lines, Inc.",Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,193957,0,0,193957,0
+20126,"Hudson Transit Lines, Inc.",Full Reporter,Urban,Funds Applied,0,1487167,0,1908109,0,0,0,0,0,3395276,0
+20126,"Hudson Transit Lines, Inc.",Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,104844,0,494619,599463,0
+20128,Suburban Transit Corporation,Full Reporter,Urban,Funds Applied,0,1261918,0,0,0,0,0,0,0,1261918,0
+20128,Suburban Transit Corporation,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,79444,733,0,80177,0
+20135,Monsey New Square Trails Corporation,Full Reporter,Urban,Funds Applied,20487,0,151246,0,0,0,0,0,0,171733,0
+20135,Monsey New Square Trails Corporation,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,287526,0,0,287526,0
+20145,Tompkins Consolidated Area Transit,Full Reporter,Urban,Funds Applied,19324,40925,0,0,0,0,0,0,82145,142394,0
+20149,"Rockland Coaches, Inc.",Full Reporter,Urban,Funds Applied,0,603905,0,0,0,0,0,0,0,603905,0
+20149,"Rockland Coaches, Inc.",Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,18425,0,0,18425,0
+20163,"Lakeland Bus Lines, Inc.",Full Reporter,Urban,Funds Applied,55299,688251,0,0,0,0,0,0,0,743550,0
+20163,"Lakeland Bus Lines, Inc.",Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,45342,0,0,45342,0
+20166,"Orange-Newark-Elizabeth, Inc.",Full Reporter,Urban,Funds Applied,9847,261492,0,0,0,0,0,0,0,271339,0
+20166,"Orange-Newark-Elizabeth, Inc.",Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,724760,81711,0,-3526369,-2719898,0
+20169,"Trans-Bridge Lines, Inc. ",Full Reporter,Urban,Funds Applied,0,372551,0,0,0,0,0,0,0,372551,0
+20169,"Trans-Bridge Lines, Inc. ",Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,1951019,0,0,1951019,0
+20177,"Adirondack Transit Lines, Inc.",Full Reporter,Urban,Funds Applied,154219,1043961,0,111474,0,0,0,0,2056,1311710,0
+20177,"Adirondack Transit Lines, Inc.",Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,1228903,0,0,1228903,0
+20188,MTA Bus Company,Full Reporter,Urban,Funds Applied,83551737,3426501,0,1177588,0,0,0,0,-121555086,-33399260,0
+20188,MTA Bus Company,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,58527917,0,172860356,231388273,0
+20190,Port Imperial Ferry Corporation,Full Reporter,Urban,Funds Applied,1167244,43300,692374,0,0,20844,0,0,0,1923762,0
+20190,Port Imperial Ferry Corporation,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,2732598,1597680,0,4330278,0
+20206,County of Nassau,Full Reporter,Urban,Funds Applied,0,1659974,0,0,0,0,0,0,0,1659974,0
+20217,"Hampton Jitney, Inc.",Full Reporter,Urban,Funds Applied,340141,2102324,0,0,0,0,0,0,0,2442465,0
+20217,"Hampton Jitney, Inc.",Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,1852099,0,0,1852099,0
+20223,Cape May Lewes Ferry,Full Reporter,Urban,Funds Applied,6278339,0,0,0,0,0,0,0,0,6278339,0
+20223,Cape May Lewes Ferry,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,11760713,0,0,11760713,0
+20226,"SeaStreak, LLC",Full Reporter,Urban,Funds Applied,2008096,469159,732000,0,0,0,0,0,0,3209255,0
+20226,"SeaStreak, LLC",Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,3689056,811446,0,4500502,0
+20230,Barnegat Bay Decoy & Baymen's Museum,Full Reporter,Urban,Funds Applied,1,4735,0,0,0,0,0,0,0,4736,0
+20230,Barnegat Bay Decoy & Baymen's Museum,Full Reporter,Urban,Funds Not Applied,0,0,0,0,155978,0,279180,0,0,435158,0
+22930,New York City Economic Development Corporation,Full Reporter,Urban,Funds Applied,0,2346946,0,0,0,0,0,0,-10098993,-7752047,0
+22930,New York City Economic Development Corporation,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,9359018,0,0,9359018,0
+30001,Kanawha Valley Regional Transportation Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,2430741,0,-3455744,-1025003,0
+30002,The Tri-State Transit Authority,Full Reporter,Urban,Funds Applied,0,0,0,0,0,0,0,0,756176,756176,0
+30006,Greater Richmond Transit Company,Full Reporter,Urban,Funds Applied,0,208911,0,0,0,0,0,0,0,208911,0
+30006,Greater Richmond Transit Company,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,10472269,0,4578081,15050350,0
+30007,Greater Roanoke Transit Company,Full Reporter,Urban,Funds Applied,0,93836,0,0,0,0,0,0,0,93836,0
+30008,Greater Lynchburg Transit Company,Full Reporter,Urban,Funds Applied,0,0,0,0,0,0,0,0,-14889,-14889,0
+30008,Greater Lynchburg Transit Company,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,1963515,0,0,1963515,0
+30010,Lehigh and Northampton Transportation Authority,Full Reporter,Urban,Funds Applied,8561,82609,0,0,0,0,0,0,0,91170,0
+30010,Lehigh and Northampton Transportation Authority,Full Reporter,Urban,Funds Not Applied,521819,890989,0,0,0,0,6256733,1001320,0,8670861,0
+30011,Altoona Metro Transit,Full Reporter,Urban,Funds Applied,0,29820,130557,0,0,0,0,0,0,160377,3186
+30011,Altoona Metro Transit,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,2005027,0,83812,2088839,0
+30012,Cambria County Transit Authority,Full Reporter,Urban,Funds Applied,0,0,123091,0,0,0,0,16263,14928,154282,0
+30012,Cambria County Transit Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,3568360,0,244889,3813249,0
+30013,Erie Metropolitan Transit Authority,Full Reporter,Urban,Funds Applied,0,324194,0,0,0,0,0,0,0,324194,0
+30013,Erie Metropolitan Transit Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,4664233,0,574903,5239136,0
+30015,Luzerne County Transportation Authority,Full Reporter,Urban,Funds Applied,0,0,0,0,0,0,0,0,308425,308425,0
+30015,Luzerne County Transportation Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,2846475,0,124364,2970839,0
+30019,Southeastern Pennsylvania Transportation Authority,Full Reporter,Urban,Funds Applied,25923370,60154749,0,0,0,0,0,0,-13387509,72690610,52273
+30019,Southeastern Pennsylvania Transportation Authority,Full Reporter,Urban,Funds Not Applied,373071,-7599136,0,0,0,0,26323512,9232041,-78846953,-50517465,0
+30022,Pittsburgh Regional Transit,Full Reporter,Urban,Funds Applied,0,8566837,0,0,0,0,0,0,0,8566837,0
+30022,Pittsburgh Regional Transit,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,101757900,0,-30429234,71328666,0
+30023,Beaver County Transit Authority,Full Reporter,Urban,Funds Applied,0,0,88576,0,0,0,0,0,0,88576,0
+30023,Beaver County Transit Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,2707412,0,0,2707412,0
+30025,County of Lackawanna Transit System,Full Reporter,Urban,Funds Applied,0,357613,0,0,0,0,0,0,0,357613,0
+30025,County of Lackawanna Transit System,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,2602309,0,172069,2774378,0
+30026,River Valley Transit Authority,Full Reporter,Urban,Funds Applied,0,0,0,0,0,0,0,0,501788,501788,0
+30026,River Valley Transit Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,0,0,1251634,1251634,0
+30030,Washington Metropolitan Area Transit Authority,Full Reporter,Urban,Funds Applied,82486509,6640717,0,0,0,0,0,0,0,89127226,0
+30030,Washington Metropolitan Area Transit Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,1039618620,68081716,-37455330,1070245006,0
+30034,Maryland Transit Administration,Full Reporter,Urban,Funds Applied,0,13773087,0,0,0,0,0,0,0,13773087,28721
+30034,Maryland Transit Administration,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,47530922,0,0,47530922,0
+30035,Ohio Valley Regional Transportation Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,505825,0,0,505825,0
+30044,Westmoreland County Transit Authority,Full Reporter,Urban,Funds Applied,0,163745,0,0,0,0,0,0,0,163745,0
+30044,Westmoreland County Transit Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,2527244,0,0,2527244,0
+30045,"JAUNT, Inc.",Full Reporter,Urban,Funds Applied,0,0,0,0,0,0,0,0,-162803,-162803,0
+30045,"JAUNT, Inc.",Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,1298866,0,5892,1304758,0
+30051,"Montgomery County, Maryland",Full Reporter,Urban,Funds Applied,1046013,1870995,0,0,0,0,0,0,6218467,9135475,0
+30051,"Montgomery County, Maryland",Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,14652152,0,1089630,15741782,0
+30054,Centre Area Transportation Authority,Full Reporter,Urban,Funds Applied,0,112870,0,0,0,0,0,0,0,112870,0
+30054,Centre Area Transportation Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,4001758,0,0,4001758,0
+30058,City of Fairfax,Full Reporter,Urban,Funds Applied,0,0,0,0,0,540,0,0,0,540,0
+30058,City of Fairfax,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,280626,0,0,280626,0
+30061,Mid Mon Valley Transit Authority,Full Reporter,Urban,Funds Applied,0,16842,9000,0,0,0,0,0,0,25842,0
+30061,Mid Mon Valley Transit Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,1727723,0,0,1727723,0
+30068,"Fairfax County, VA",Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,8524299,0,0,8524299,0
+30070,Potomac and Rappahannock Transportation Commission,Full Reporter,Urban,Funds Applied,0,3387502,0,0,0,2852,0,0,0,3390354,0
+30070,Potomac and Rappahannock Transportation Commission,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,6824242,0,15269237,22093479,0
+30071,City of Alexandria ,Full Reporter,Urban,Funds Applied,0,29865,0,0,0,0,0,0,0,29865,0
+30071,City of Alexandria ,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,5688589,0,0,5688589,0
+30073,Virginia Railway Express,Full Reporter,Urban,Funds Applied,7285456,0,0,0,0,0,0,0,0,7285456,0
+30073,Virginia Railway Express,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,22480188,0,641019,23121207,0
+30075,Delaware Transit Corporation,Full Reporter,Urban,Funds Applied,0,2057,0,0,0,0,0,0,290038,292095,0
+30077,Borough of Pottstown,Full Reporter,Urban,Funds Applied,0,111598,0,0,0,0,0,0,0,111598,0
+30078,Southwestern Pennsylvania Commission,Full Reporter,Urban,Funds Applied,0,82246,0,0,0,0,0,0,0,82246,0
+30080,"Arlington County, Virginia",Full Reporter,Urban,Funds Applied,0,467112,21448,0,0,0,0,0,0,488560,0
+30080,"Arlington County, Virginia",Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,2636174,0,0,2636174,0
+30081,Loudoun County,Full Reporter,Urban,Funds Applied,0,174073,0,0,0,0,1011639,0,0,1185712,0
+30083,Transportation District Commission of Hampton Roads,Full Reporter,Urban,Funds Applied,126435,538961,0,0,0,0,0,0,0,665396,0
+30083,Transportation District Commission of Hampton Roads,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,22692902,0,0,22692902,0
+30085,"Prince George's County, Maryland",Full Reporter,Urban,Funds Applied,0,0,0,0,0,0,0,0,607604,607604,0
+30088,"County Commissioners of Charles County, MD",Full Reporter,Urban,Funds Applied,0,153950,0,0,0,0,0,0,0,153950,0
+30091,Town of Blacksburg,Full Reporter,Urban,Funds Applied,0,6455,0,0,0,0,0,0,0,6455,0
+30094,City of Harrisonburg,Full Reporter,Urban,Funds Applied,0,0,0,0,0,0,0,0,457480,457480,0
+30094,City of Harrisonburg,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,1673363,0,0,1673363,0
+30095,County of Lebanon Transit Authority,Full Reporter,Urban,Funds Applied,0,6615,0,0,0,0,0,0,0,6615,0
+30095,County of Lebanon Transit Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,961841,0,0,961841,0
+30096,The Tri-County Council for the Lower Eastern Shore of Maryland,Full Reporter,Urban,Funds Applied,0,205466,0,0,0,0,0,0,0,205466,0
+30107,West Virginia University,Full Reporter,Urban,Funds Applied,2222154,0,128589,0,0,0,0,0,0,2350743,0
+30111,Washington County Transportation Authority,Full Reporter,Urban,Funds Applied,4002,163127,0,0,0,0,0,0,0,167129,0
+30111,Washington County Transportation Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,1426251,0,0,1426251,0
+30112,District Department of Transportation,Full Reporter,Urban,Funds Applied,0,0,887783,0,0,0,0,0,0,887783,0
+30129,Anne Arundel County,Full Reporter,Urban,Funds Applied,0,507287,0,0,0,0,0,0,0,507287,0
+30201,City of Baltimore,Full Reporter,Urban,Funds Applied,0,275028,0,0,0,0,0,0,0,275028,0
+30202,South Central Transit Authority,Full Reporter,Urban,Funds Applied,0,210099,0,0,0,0,0,0,0,210099,0
+30205,"Transit Management of Central Maryland, Inc.",Full Reporter,Urban,Funds Applied,0,113495,0,0,0,0,0,0,0,113495,0
+30206,Susquehanna Regional Transportation Authority,Full Reporter,Urban,Funds Applied,0,8059,0,0,0,0,0,0,7865954,7874013,0
+40001,Chattanooga Area Regional Transportation Authority,Full Reporter,Urban,Funds Applied,0,0,0,0,0,0,0,0,2225518,2225518,0
+40001,Chattanooga Area Regional Transportation Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,5321356,15000,0,5336356,0
+40002,City of Knoxville,Full Reporter,Urban,Funds Applied,0,16740,0,0,0,0,0,0,0,16740,0
+40003,City of Memphis,Full Reporter,Urban,Funds Applied,0,170252,0,0,0,25679,0,0,0,195931,0
+40003,City of Memphis,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,11252578,0,0,11252578,0
+40004,Metropolitan Transit Authority,Full Reporter,Urban,Funds Applied,0,2685013,0,0,0,0,0,0,0,2685013,0
+40004,Metropolitan Transit Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,21952168,0,0,21952168,0
+40005,City of Asheville,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,1297291,0,0,1297291,0
+40006,Cape Fear Public Transportation Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,2044783,0,0,2044783,0
+40007,City of Raleigh,Full Reporter,Urban,Funds Applied,0,311887,0,0,0,0,0,0,0,311887,0
+40007,City of Raleigh,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,8494519,0,0,8494519,0
+40008,City of Charlotte North Carolina,Full Reporter,Urban,Funds Applied,10350000,362666,0,0,0,0,0,0,1128060,11840726,0
+40008,City of Charlotte North Carolina,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,60436646,0,192942,60629588,0
+40009,City of Fayetteville,Full Reporter,Urban,Funds Applied,1316,10528,0,0,0,0,0,0,55448,67292,0
+40009,City of Fayetteville,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,1700108,47139,1388510,3135757,0
+40012,City of Winston Salem,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,2762991,0,0,2762991,0
+40014,Ms Coast Transportation Authority,Full Reporter,Urban,Funds Applied,0,265406,0,0,0,0,0,0,53016,318422,0
+40014,Ms Coast Transportation Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,17062739,0,42000,17104739,0
+40015,"City of Jackson, MS",Full Reporter,Urban,Funds Applied,0,9488,0,0,0,0,0,0,0,9488,0
+40015,"City of Jackson, MS",Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,1196902,0,0,1196902,0
+40017,Lexington Transit Authority,Full Reporter,Urban,Funds Applied,0,280100,0,0,0,0,0,0,0,280100,0
+40017,Lexington Transit Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,3308349,0,0,3308349,0
+40018,Transit Authority of River City,Full Reporter,Urban,Funds Applied,2220,630100,121697,0,0,0,0,0,0,754017,0
+40018,Transit Authority of River City,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,11786495,0,0,11786495,0
+40019,Transit Authority of Northern Kentucky,Full Reporter,Urban,Funds Applied,0,23063,0,0,0,0,0,0,0,23063,0
+40019,Transit Authority of Northern Kentucky,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,5477716,0,0,5477716,0
+40021,City of Albany ,Full Reporter,Urban,Funds Applied,0,0,0,0,0,0,0,0,55686,55686,0
+40021,City of Albany ,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,1098277,0,0,1098277,0
+40022,Metropolitan Atlanta Rapid Transit Authority,Full Reporter,Urban,Funds Applied,73508153,145620,0,0,0,697922,0,0,79939024,154290719,0
+40022,Metropolitan Atlanta Rapid Transit Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,250150074,767523,0,250917597,0
+40025,Chatham Area Transit Authority,Full Reporter,Urban,Funds Applied,158259,1449,0,0,0,0,0,0,0,159708,0
+40025,Chatham Area Transit Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,6272500,0,0,6272500,0
+40026,Manatee County Board of County Commissioners,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,3233665,0,979851,4213516,0
+40027,Pinellas Suncoast Transit Authority,Full Reporter,Urban,Funds Applied,0,1276790,0,0,0,0,0,0,7872744,9149534,0
+40027,Pinellas Suncoast Transit Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,11261714,0,0,11261714,0
+40028,Lee County ,Full Reporter,Urban,Funds Applied,0,127733,0,0,0,0,0,0,0,127733,0
+40029,Broward County Board of County Commissioners,Full Reporter,Urban,Funds Applied,0,1109010,0,0,0,0,0,0,0,1109010,0
+40029,Broward County Board of County Commissioners,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,11937059,0,0,11937059,0
+40030,"City of Gainesville, FL",Full Reporter,Urban,Funds Applied,0,117829,0,0,0,0,0,0,883321,1001150,0
+40030,"City of Gainesville, FL",Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,4932586,0,0,4932586,0
+40031,Lakeland Area Mass Transit District ,Full Reporter,Urban,Funds Applied,21653,281082,0,0,0,0,0,0,0,302735,0
+40031,Lakeland Area Mass Transit District ,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,1794171,0,0,1794171,0
+40032,County of Volusia,Full Reporter,Urban,Funds Applied,0,226390,0,0,0,0,0,0,0,226390,0
+40032,County of Volusia,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,4419955,0,0,4419955,0
+40034,County of Miami-Dade ,Full Reporter,Urban,Funds Applied,80146363,3169794,0,0,0,0,0,0,4796282,88112439,0
+40034,County of Miami-Dade ,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,113489660,0,5182948,118672608,0
+40035,Central Florida Regional Transportation Authority,Full Reporter,Urban,Funds Applied,81581,263354,3028820,0,0,0,0,0,1561380,4935135,0
+40035,Central Florida Regional Transportation Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,23741651,0,0,23741651,0
+40036,City of Tallahassee,Full Reporter,Urban,Funds Applied,126039,72876,509850,0,0,0,0,0,709781,1418546,0
+40037,"Board of County Commissioners, Palm Beach County",Full Reporter,Urban,Funds Applied,0,1031192,0,0,0,0,0,0,0,1031192,0
+40037,"Board of County Commissioners, Palm Beach County",Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,0,0,760008,760008,0
+40040,Jacksonville Transportation Authority,Full Reporter,Urban,Funds Applied,0,135000,0,0,0,0,0,0,0,135000,0
+40040,Jacksonville Transportation Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,21477884,0,0,21477884,0
+40041,Hillsborough Area Regional Transit Authority,Full Reporter,Urban,Funds Applied,0,322674,0,0,0,0,0,0,0,322674,0
+40041,Hillsborough Area Regional Transit Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,12321051,0,11682194,24003245,0
+40042,Birmingham-Jefferson County Transit Authority,Full Reporter,Urban,Funds Applied,6375,118291,0,0,0,0,0,0,0,124666,0
+40042,Birmingham-Jefferson County Transit Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,6152489,6068,0,6158557,0
+40043,City of Mobile,Full Reporter,Urban,Funds Applied,0,94958,0,0,0,0,0,0,0,94958,0
+40043,City of Mobile,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,2025366,0,0,2025366,0
+40046,Sarasota County ,Full Reporter,Urban,Funds Applied,0,646851,0,0,0,0,0,0,0,646851,0
+40046,Sarasota County ,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,3041453,0,0,3041453,0
+40047,Athens-Clarke County Unified Government,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,2988693,0,669,2989362,74
+40051,Town of Chapel Hill,Full Reporter,Urban,Funds Applied,0,767215,0,0,0,0,0,0,0,767215,0
+40051,Town of Chapel Hill,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,4147477,0,0,4147477,0
+40053,Greenville Transit Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,1808765,0,769860,2578625,0
+40057,Jackson Transit Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,477230,0,0,477230,0
+40058,City of Rome ,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,563339,0,0,563339,0
+40063,Brevard Board of County Commissioners,Full Reporter,Urban,Funds Applied,0,3522,0,0,0,0,0,0,0,3522,0
+40063,Brevard Board of County Commissioners,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,1910819,0,0,1910819,0
+40074,Pasco County Board of County Commissioners,Full Reporter,Urban,Funds Applied,0,4791,0,0,0,0,0,0,0,4791,0
+40077,South Florida Regional Transportation Authority,Full Reporter,Urban,Funds Applied,925935,61261,0,0,0,0,0,0,3270914,4258110,0
+40078,Cobb County,Full Reporter,Urban,Funds Applied,0,0,0,0,0,0,0,0,413276,413276,0
+40078,Cobb County,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,5888744,0,0,5888744,0
+40086,Metropolitan Bus Authority,Full Reporter,Urban,Funds Applied,25201,122500,0,0,0,0,0,0,12873636,13021337,0
+40086,Metropolitan Bus Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,3887385,0,0,3887385,0
+40087,City of Durham,Full Reporter,Urban,Funds Applied,139004,0,0,0,0,0,0,0,7414578,7553582,0
+40093,City of Greensboro ,Full Reporter,Urban,Funds Applied,0,64126,0,0,0,0,0,0,0,64126,0
+40093,City of Greensboro ,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,2622316,22869,23782,2668967,0
+40094,Alternativa de Transporte Integrado ,Full Reporter,Urban,Funds Applied,0,300000,0,0,0,142761,0,0,0,442761,33
+40104,Indian River County,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,907674,0,0,907674,0
+40105,Puerto Rico Highway and Transportation Authority – Público,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,77685,0,0,77685,0
+40108,Research Triangle Regional Public Transportation Authority,Full Reporter,Urban,Funds Applied,0,241660,328435,0,0,0,0,0,0,570095,0
+40108,Research Triangle Regional Public Transportation Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,2916965,0,100497762,103414727,0
+40110,Charleston Area Regional Transportation Authority,Full Reporter,Urban,Funds Applied,52097,0,0,0,0,0,0,0,0,52097,0
+40110,Charleston Area Regional Transportation Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,4859521,0,0,4859521,0
+40128,Okaloosa County Board of County Commissioners,Full Reporter,Urban,Funds Applied,0,64,0,0,0,0,0,0,0,64,0
+40129,Charlotte County Government,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,0,0,42297,42297,0
+40138,Gwinnett County Board of Commissioners,Full Reporter,Urban,Funds Applied,0,490932,0,0,0,0,0,0,0,490932,0
+40138,Gwinnett County Board of Commissioners,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,2750167,0,5695803,8445970,0
+40140,Collier County,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,2198680,0,0,2198680,0
+40141,Central Midlands Regional Transportation Authority,Full Reporter,Urban,Funds Applied,611,122306,5925,0,0,0,0,0,0,128842,0
+40141,Central Midlands Regional Transportation Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,2892473,0,0,2892473,0
+40147,North Carolina State University,Full Reporter,Urban,Funds Applied,0,4674790,0,0,0,0,0,0,0,4674790,0
+40158,Lake County Board of County Commissioners,Full Reporter,Urban,Funds Applied,0,120840,0,0,0,0,0,0,0,120840,0
+40159,Regional Transportation Authority,Full Reporter,Urban,Funds Applied,0,370797,0,0,0,0,0,0,0,370797,0
+40159,Regional Transportation Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,4203099,0,0,4203099,0
+40169,Regional Planning Commission of Greater Birmingham,Full Reporter,Urban,Funds Applied,0,128721,0,0,0,0,0,0,0,128721,0
+40172,Western Piedmont Regional Transit Authority ,Full Reporter,Urban,Funds Applied,0,94675,0,0,0,0,0,0,0,94675,0
+40172,Western Piedmont Regional Transit Authority ,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,944271,0,129795,1074066,0
+40173,Piedmont Authority for Regional Transportation,Full Reporter,Urban,Funds Applied,0,4158,0,0,0,0,0,0,1776,5934,0
+40173,Piedmont Authority for Regional Transportation,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,1862140,14122,0,1876262,0
+40175,Puerto Rico Maritime Transport Authority ,Full Reporter,Urban,Funds Applied,0,11680992,0,0,0,0,0,0,0,11680992,0
+40175,Puerto Rico Maritime Transport Authority ,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,1663080,0,413825,2076905,0
+40178,The Transportation Management Association Group,Full Reporter,Urban,Funds Applied,0,32196,0,0,0,0,0,0,556092,588288,0
+40180,University of Georgia,Full Reporter,Urban,Funds Applied,0,0,0,0,0,0,0,0,1031437,1031437,0
+40185,Bay County Transportation Planning Organization,Full Reporter,Urban,Funds Applied,0,0,0,0,0,0,0,0,66906,66906,0
+40191,Transit Authority of Central Kentucky,Full Reporter,Urban,Funds Applied,0,4000,0,0,0,0,0,0,0,4000,0
+40191,Transit Authority of Central Kentucky,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,501448,0,0,501448,0
+40192,Martin County,Full Reporter,Urban,Funds Applied,0,105678,0,0,0,0,0,0,0,105678,0
+40200,Tampa Bay Area Regional Transit Authority,Full Reporter,Urban,Funds Applied,0,1503473,0,0,0,0,0,0,0,1503473,0
+40200,Tampa Bay Area Regional Transit Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,1134,0,0,1134,0
+40222,Wake County,Full Reporter,Urban,Funds Applied,0,14874,0,0,0,0,0,0,0,14874,0
+40224,Buncombe County,Full Reporter,Urban,Funds Applied,0,54000,0,0,0,0,0,0,0,54000,16398
+40228,Mecklenburg County ,Full Reporter,Urban,Funds Applied,0,3195610,0,0,0,0,0,0,288000,3483610,0
+40232,Central Florida Commuter Rail,Full Reporter,Urban,Funds Applied,0,0,0,0,0,0,0,0,1774605,1774605,0
+41105,"Audubon Area Community Services, Inc.",Full Reporter,Urban,Funds Applied,0,17438,0,0,0,0,0,0,0,17438,0
+41199,Board of County Commissioners of St. Lucie County,Full Reporter,Urban,Funds Applied,0,177400,0,0,0,0,0,0,0,177400,0
+42000,Atlanta-Region Transit Link Authority,Full Reporter,Urban,Funds Applied,0,2018698,0,0,0,0,0,0,0,2018698,0
+44929,City of Fort Lauderdale,Full Reporter,Urban,Funds Applied,0,33434,0,0,0,0,0,0,0,33434,0
+50001,City of Appleton,Full Reporter,Urban,Funds Applied,0,530811,0,0,0,0,0,0,0,530811,0
+50001,City of Appleton,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,1487955,0,0,1487955,0
+50002,City of Green Bay,Full Reporter,Urban,Funds Applied,0,243198,0,0,0,0,0,0,0,243198,0
+50002,City of Green Bay,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,1358763,0,0,1358763,0
+50003,City of Kenosha,Full Reporter,Urban,Funds Applied,0,164320,0,0,0,0,0,0,0,164320,0
+50003,City of Kenosha,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,1226552,0,0,1226552,0
+50004,City of La Crosse,Full Reporter,Urban,Funds Applied,0,163536,0,1,0,0,0,0,0,163537,0
+50004,City of La Crosse,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,803710,0,0,803710,0
+50005,City of Madison,Full Reporter,Urban,Funds Applied,230008,693777,0,0,0,725860,0,0,2260360,3910005,0
+50005,City of Madison,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,7497671,0,0,7497671,0
+50006,"City of Racine, Wisconsin",Full Reporter,Urban,Funds Applied,0,196735,0,0,0,0,0,0,0,196735,0
+50006,"City of Racine, Wisconsin",Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,2324856,0,0,2324856,0
+50008,Milwaukee County,Full Reporter,Urban,Funds Applied,928428,1277562,0,0,0,0,0,0,0,2205990,0
+50008,Milwaukee County,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,5234782,0,0,5234782,0
+50010,METRO Regional Transit Authority ,Full Reporter,Urban,Funds Applied,39,384829,0,0,0,0,0,0,402779,787647,0
+50010,METRO Regional Transit Authority ,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,9252483,0,0,9252483,0
+50011,Stark Area Regional Transit Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,0,0,1438192,1438192,0
+50012,Southwest Ohio Regional Transit Authority,Full Reporter,Urban,Funds Applied,0,441967,0,0,0,0,0,0,0,441967,0
+50012,Southwest Ohio Regional Transit Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,16722219,0,18879821,35602040,0
+50015,The Greater Cleveland Regional Transit Authority,Full Reporter,Urban,Funds Applied,589348,849036,0,0,0,0,0,0,10576825,12015209,0
+50015,The Greater Cleveland Regional Transit Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,38928805,0,0,38928805,0
+50016,Central Ohio Transit Authority,Full Reporter,Urban,Funds Applied,0,50881,0,0,0,0,0,0,1411204,1462085,0
+50016,Central Ohio Transit Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,35627809,1641664,0,37269473,0
+50017,Greater Dayton Regional Transit Authority,Full Reporter,Urban,Funds Applied,0,15249,0,0,0,0,0,0,3542712,3557961,0
+50017,Greater Dayton Regional Transit Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,16951951,0,0,16951951,0
+50021,Portage Area Regional Transportation Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,3327251,0,0,3327251,0
+50022,Toledo Area Regional Transit Authority,Full Reporter,Urban,Funds Applied,0,190635,0,0,0,0,0,0,0,190635,0
+50022,Toledo Area Regional Transit Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,2827747,0,0,2827747,0
+50024,Western Reserve Transit Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,3361471,0,0,3361471,0
+50025,Duluth Transit Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,5254606,0,0,5254606,164408
+50026,City of Moorhead,Full Reporter,Urban,Funds Applied,0,0,0,0,0,0,0,0,5018,5018,0
+50027,Metro Transit ,Full Reporter,Urban,Funds Applied,0,2409939,1349891,0,0,0,0,0,0,3759830,0
+50027,Metro Transit ,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,132637004,0,0,132637004,0
+50028,St. Cloud Metropolitan Transit Commission,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,3229265,0,0,3229265,0
+50029,Bay Metropolitan Transit Authority,Full Reporter,Urban,Funds Applied,0,6700,0,0,0,0,0,0,0,6700,944
+50029,Bay Metropolitan Transit Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,953425,0,0,953425,0
+50031,Suburban Mobility Authority for Regional Transportation,Full Reporter,Urban,Funds Applied,0,0,0,0,0,0,0,0,24305001,24305001,0
+50031,Suburban Mobility Authority for Regional Transportation,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,21759710,0,0,21759710,0
+50032,Mass Transportation Authority ,Full Reporter,Urban,Funds Applied,154549,23250,0,0,0,0,0,0,1525379,1703178,0
+50032,Mass Transportation Authority ,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,8102622,0,0,8102622,0
+50033,Interurban Transit Partnership,Full Reporter,Urban,Funds Applied,0,448910,0,0,0,0,0,0,0,448910,0
+50033,Interurban Transit Partnership,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,16676021,0,27347,16703368,0
+50034,City of Jackson Transportation Authority,Full Reporter,Urban,Funds Applied,0,801,0,0,0,0,0,0,244516,245317,787
+50034,City of Jackson Transportation Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,367214,0,497747,864961,0
+50035,Central County Transportation Authority,Full Reporter,Urban,Funds Applied,80839,20321,0,0,0,0,0,0,708655,809815,121472
+50035,Central County Transportation Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,3223681,0,-3102611,121070,18161
+50036,Capital Area Transportation Authority,Full Reporter,Urban,Funds Applied,0,1286291,0,0,0,0,0,0,193,1286484,0
+50036,Capital Area Transportation Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,6878676,0,67376,6946052,0
+50039,Saginaw Transit Authority Regional Service,Full Reporter,Urban,Funds Applied,6754,40262,90964,0,0,0,0,0,0,137980,0
+50039,Saginaw Transit Authority Regional Service,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,1052531,0,0,1052531,0
+50040,Ann Arbor Area Transportation Authority,Full Reporter,Urban,Funds Applied,0,1098157,0,0,0,0,0,0,0,1098157,0
+50040,Ann Arbor Area Transportation Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,6560033,0,0,6560033,0
+50044,Fort Wayne Public Transportation Corporation,Full Reporter,Urban,Funds Applied,6307,14840,0,0,0,0,0,0,0,21147,0
+50044,Fort Wayne Public Transportation Corporation,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,2029143,61189,1330123,3420455,0
+50045,Gary Public Transportation Corporation,Full Reporter,Urban,Funds Applied,0,52800,0,0,0,0,0,0,0,52800,0
+50047,Bloomington-Normal Public Transit System,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,2675701,0,0,2675701,0
+50050,Indianapolis and Marion County Public Transportation,Full Reporter,Urban,Funds Applied,2357780,62666,0,0,0,0,0,0,0,2420446,0
+50050,Indianapolis and Marion County Public Transportation,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,20403388,0,0,20403388,0
+50051,Greater Lafayette Public Transportation Corporation,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,3423498,0,0,3423498,0
+50052,South Bend Public Transportation Corporation,Full Reporter,Urban,Funds Applied,0,0,16294,0,0,0,0,0,0,16294,0
+50052,South Bend Public Transportation Corporation,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,3437293,0,461639,3898932,0
+50054,Muncie Indiana Transit System,Full Reporter,Urban,Funds Applied,216,0,0,0,0,0,0,0,0,216,0
+50054,Muncie Indiana Transit System,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,1502588,0,0,1502588,0
+50056,Greater Peoria Mass Transit District,Full Reporter,Urban,Funds Applied,0,1033309,0,0,0,0,0,0,0,1033309,0
+50056,Greater Peoria Mass Transit District,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,3363214,0,0,3363214,0
+50057,Rock Island County Metropolitan Mass Transit District,Full Reporter,Urban,Funds Applied,54279,55678,0,0,0,0,0,0,0,109957,0
+50057,Rock Island County Metropolitan Mass Transit District,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,6459084,0,0,6459084,0
+50058,Rockford Mass Transit District,Full Reporter,Urban,Funds Applied,0,248897,0,0,0,0,0,0,0,248897,0
+50058,Rockford Mass Transit District,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,2345680,0,0,2345680,0
+50059,Springfield Mass Transit District,Full Reporter,Urban,Funds Applied,0,8157,0,0,0,0,0,0,3100319,3108476,0
+50059,Springfield Mass Transit District,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,3190291,0,0,3190291,0
+50060,Champaign-Urbana Mass Transit District,Full Reporter,Urban,Funds Applied,2127,545964,0,0,0,0,0,0,111339,659430,167767
+50060,Champaign-Urbana Mass Transit District,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,7967294,0,0,7967294,0
+50061,"City of Decatur, Il",Full Reporter,Urban,Funds Applied,3000,0,0,0,0,0,0,0,163569,166569,0
+50061,"City of Decatur, Il",Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,300000,0,35000,335000,0
+50066,Chicago Transit Authority,Full Reporter,Urban,Funds Applied,49799486,4502055,0,0,0,0,0,0,-37476000,16825541,0
+50066,Chicago Transit Authority,Full Reporter,Urban,Funds Not Applied,125559488,0,0,0,0,0,722961734,0,37476000,885997222,0
+50092,"City of Rochester, Minnesota",Full Reporter,Urban,Funds Applied,0,256051,0,0,0,0,0,0,0,256051,0
+50092,"City of Rochester, Minnesota",Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,1805261,0,0,1805261,91851
+50096,City of Waukesha ,Full Reporter,Urban,Funds Applied,0,271735,0,0,0,0,0,0,0,271735,0
+50099,City of Eau Claire,Full Reporter,Urban,Funds Applied,0,71516,0,0,0,0,0,0,0,71516,0
+50104,Northern Indiana Commuter Transportation District,Full Reporter,Urban,Funds Applied,2857012,26018,0,0,0,0,0,0,0,2883030,0
+50104,Northern Indiana Commuter Transportation District,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,16241413,0,0,16241413,0
+50110,Bloomington Public Transportation Corporation,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,1647853,0,14895,1662748,0
+50113,"Pace, the Suburban Bus Division of the Regional Transportation Authority",Full Reporter,Urban,Funds Applied,186123,750343,0,0,0,0,0,0,-2550246,-1613780,0
+50113,"Pace, the Suburban Bus Division of the Regional Transportation Authority",Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,54823389,2022857,0,56846246,0
+50117,Laketran,Full Reporter,Urban,Funds Applied,0,495611,0,0,0,0,0,0,0,495611,0
+50117,Laketran,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,6000000,0,3200000,9200000,0
+50118,Northeast Illinois Regional Commuter Railroad Corporation,Full Reporter,Urban,Funds Applied,0,11608978,0,0,0,0,0,0,3537358,15146336,0
+50118,Northeast Illinois Regional Commuter Railroad Corporation,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,228376625,13151658,0,241528283,0
+50119,City of Detroit ,Full Reporter,Urban,Funds Applied,0,4701290,0,0,0,0,0,0,12940932,17642222,0
+50119,City of Detroit ,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,15727279,0,0,15727279,0
+50141,Detroit Transportation Corporation,Full Reporter,Urban,Funds Applied,107651,417534,0,0,0,0,0,0,0,525185,0
+50141,Detroit Transportation Corporation,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,1821685,0,0,1821685,0
+50146,Madison County Transit District,Full Reporter,Urban,Funds Applied,0,0,0,0,0,0,0,0,91047,91047,0
+50148,Blue Water Area Transportation Commission,Full Reporter,Urban,Funds Applied,0,249526,0,0,0,0,0,0,0,249526,0
+50148,Blue Water Area Transportation Commission,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,3475433,0,0,3475433,0
+50149,Michiana Area Council of Governments,Full Reporter,Urban,Funds Applied,0,36000,0,0,0,0,0,0,0,36000,0
+50154,Metropolitan Council,Full Reporter,Urban,Funds Applied,0,3500192,0,0,0,0,0,0,0,3500192,1345820
+50157,Butler County Regional Transit Authority,Full Reporter,Urban,Funds Applied,55612,0,0,0,0,0,0,0,0,55612,0
+50157,Butler County Regional Transit Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,1596050,113167,327558,2036775,0
+50158,University of Michigan Parking and Transportation Services,Full Reporter,Urban,Funds Applied,0,56600,0,0,0,0,0,0,0,56600,0
+50159,River Valley Metro Mass Transit District,Full Reporter,Urban,Funds Applied,32680,0,0,0,0,0,0,0,273004,305684,0
+50159,River Valley Metro Mass Transit District,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,334073,0,0,334073,0
+50160,County of Washington,Full Reporter,Urban,Funds Applied,0,159902,0,0,0,0,0,0,0,159902,0
+50161,Ozaukee County ,Full Reporter,Urban,Funds Applied,0,68875,0,0,0,0,0,0,0,68875,0
+50163,"Licking County, Ohio",Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,398895,0,0,398895,0
+50165,Greene County Transit Board,Full Reporter,Urban,Funds Applied,0,118490,0,0,0,0,0,0,0,118490,0
+50165,Greene County Transit Board,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,293604,0,15607,309211,0
+50166,"Clermont County, Ohio",Full Reporter,Urban,Funds Applied,0,144477,98903,0,0,0,0,0,0,243380,0
+50176,City of DeKalb,Full Reporter,Urban,Funds Applied,0,526690,0,0,0,0,0,0,0,526690,0
+50182,"Pace, the Suburban Bus Division of the Regional Transportation Authority",Full Reporter,Urban,Funds Applied,20378,10892347,0,0,0,0,0,0,27850409,38763134,27850409
+50182,"Pace, the Suburban Bus Division of the Regional Transportation Authority",Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,1844544,441043,0,2285587,2285587
+50184,Macatawa Area Express Transportation Authority,Full Reporter,Urban,Funds Applied,0,364079,0,0,0,0,0,0,0,364079,0
+50184,Macatawa Area Express Transportation Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,990810,0,0,990810,0
+50191,Mid-Ohio Regional Planning Commission,Full Reporter,Urban,Funds Applied,0,161018,0,0,0,0,0,0,0,161018,0
+50193,Michigan Department of Transportation,Full Reporter,Urban,Funds Applied,0,1543060,0,0,0,0,0,0,0,1543060,0
+50198,Medina County,Full Reporter,Urban,Funds Applied,0,18938,0,0,0,0,0,0,0,18938,0
+50198,Medina County,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,225502,0,0,225502,0
+50199,Delaware County Transit Board,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,471662,0,242765,714427,0
+50209,Central Indiana Regional Transportation Authority ,Full Reporter,Urban,Funds Applied,0,228415,0,0,0,0,0,0,0,228415,0
+50212,Stateline Mass Transit District,Separate Service,Urban,Funds Not Applied,0,0,0,0,0,0,56239,0,0,56239,0
+50213,M-1 Rail,Full Reporter,Urban,Funds Applied,92118,0,0,0,0,0,0,0,0,92118,0
+50213,M-1 Rail,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,5514112,129671,0,5643783,0
+50515,University of Minnesota,Full Reporter,Urban,Funds Applied,0,133650,0,0,0,0,0,0,0,133650,0
+50516,City of Plymouth,Full Reporter,Urban,Funds Applied,0,139108,0,0,0,0,0,0,0,139108,0
+50517,City of Maple Grove,Full Reporter,Urban,Funds Applied,0,1310,0,0,0,0,0,0,0,1310,0
+50519,Minnesota Valley Transit Authority,Full Reporter,Urban,Funds Applied,29070,0,0,0,0,0,0,0,0,29070,0
+50519,Minnesota Valley Transit Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,4093375,0,0,4093375,0
+50521,Chicago Water Taxi (Wendella),Full Reporter,Urban,Funds Applied,0,79000,0,0,0,0,0,0,0,79000,0
+50521,Chicago Water Taxi (Wendella),Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,2300,0,0,2300,0
+50522,Lake Erie Transportation Commission,Full Reporter,Urban,Funds Applied,0,0,0,0,0,0,0,0,414448,414448,0
+50522,Lake Erie Transportation Commission,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,61504,0,0,61504,0
+55312,City of Milwaukee,Full Reporter,Urban,Funds Applied,0,25799,0,0,0,0,0,0,0,25799,0
+55312,City of Milwaukee,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,12044,0,0,12044,0
+60006,City of El Paso,Full Reporter,Urban,Funds Applied,1016475,213512,0,0,0,0,0,0,1639538,2869525,0
+60006,City of El Paso,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,17794206,0,108951,17903157,0
+60007,Fort Worth Transportation Authority,Full Reporter,Urban,Funds Applied,81685,2806356,0,0,0,0,0,0,5365414,8253455,0
+60007,Fort Worth Transportation Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,47071273,0,-993029,46078244,0
+60008,"Metropolitan Transit Authority of Harris County, Texas ",Full Reporter,Urban,Funds Applied,35372524,7982855,0,0,0,2160017,0,0,16093384,61608780,0
+60008,"Metropolitan Transit Authority of Harris County, Texas ",Full Reporter,Urban,Funds Not Applied,-9410717,0,0,0,0,0,183347365,160990,-30175459,143922179,0
+60010,City of Lubbock,Full Reporter,Urban,Funds Applied,14402,0,0,0,0,0,0,0,0,14402,0
+60010,City of Lubbock,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,2738043,0,0,2738043,0
+60011,VIA Metropolitan Transit,Full Reporter,Urban,Funds Applied,3167169,7666306,0,0,0,0,0,0,13691171,24524646,0
+60011,VIA Metropolitan Transit,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,43097294,0,0,43097294,0
+60012,City of Waco,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,762360,0,0,762360,0
+60014,City of Brownsville ,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,1584936,0,0,1584936,0
+60015,City of Galveston ,Full Reporter,Urban,Funds Applied,0,12548,0,0,0,0,0,0,0,12548,0
+60017,Central Oklahoma Transportation and Parking Authority,Full Reporter,Urban,Funds Applied,0,15600,0,0,0,0,0,0,0,15600,0
+60017,Central Oklahoma Transportation and Parking Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,4273778,0,0,4273778,265531
+60018,Metropolitan Tulsa Transit Authority,Full Reporter,Urban,Funds Applied,0,55751,0,0,0,0,0,0,964162,1019913,0
+60022,Capital Area Transit System,Full Reporter,Urban,Funds Applied,16777,1181292,0,0,0,0,0,0,0,1198069,0
+60022,Capital Area Transit System,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,4020892,0,0,4020892,0
+60032,New Orleans Regional Transit Authority,Full Reporter,Urban,Funds Applied,1979459,0,0,0,0,0,0,0,0,1979459,0
+60032,New Orleans Regional Transit Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,19644677,0,0,19644677,0
+60033,Rock Region Metropolitan Transit Authority,Full Reporter,Urban,Funds Applied,0,101449,0,0,0,0,0,0,-406311,-304862,0
+60033,Rock Region Metropolitan Transit Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,72903,0,0,72903,0
+60038,Lafayette City-Parish Consolidated Government,Full Reporter,Urban,Funds Applied,0,241862,0,0,0,0,0,0,0,241862,0
+60041,City of Arlington,Full Reporter,Urban,Funds Applied,0,1292715,0,0,0,0,0,0,0,1292715,0
+60048,Capital Metropolitan Transportation Authority,Full Reporter,Urban,Funds Applied,414568,4281479,0,0,0,175815,0,0,5684015,10555877,105927
+60048,Capital Metropolitan Transportation Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,51292519,6142956,0,57435475,0
+60051,Corpus Christi Regional Transportation Authority,Full Reporter,Urban,Funds Applied,511280,250084,0,0,0,0,0,0,582860,1344224,0
+60051,Corpus Christi Regional Transportation Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,7570805,0,3183464,10754269,0
+60056,Dallas Area Rapid Transit,Full Reporter,Urban,Funds Applied,136162153,1304237,4331655,0,0,0,0,0,79262506,221060551,0
+60056,Dallas Area Rapid Transit,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,245885703,0,0,245885703,0
+60070,City of Mesquite,Separate Service,Urban,Funds Applied,0,515702,0,0,0,0,0,0,0,515702,0
+60090,Lower Rio Grande Valley Development Council,Full Reporter,Urban,Funds Applied,0,4080,0,0,0,0,0,0,0,4080,0
+60091,Hill Country Transit District,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,1388067,0,0,1388067,0
+60095,Golden Crescent Regional Planning Commission,Full Reporter,Urban,Funds Applied,0,95515,223,0,0,0,0,0,534579,630317,0
+60101,Denton County Transportation Authority,Full Reporter,Urban,Funds Applied,194980,1784752,0,0,0,0,0,0,0,1979732,0
+60101,Denton County Transportation Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,9074611,0,0,9074611,0
+60103,"Fort Bend County, Texas",Full Reporter,Urban,Funds Applied,0,47507,0,0,0,0,0,0,0,47507,0
+60108,Harris County,Full Reporter,Urban,Funds Applied,0,1570391,0,0,0,0,0,0,0,1570391,0
+60111,Rio Metro Regional Transit District,Full Reporter,Urban,Funds Applied,211229,285000,0,342367,0,0,0,0,1624869,2463465,0
+60114,STAR Transit,Full Reporter,Urban,Funds Applied,0,137724,0,0,0,0,0,0,0,137724,0
+60114,STAR Transit,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,672176,0,0,672176,0
+60130,Alamo Area Council of Governments,Full Reporter,Urban,Funds Applied,0,126148,0,0,0,0,0,0,0,126148,0
+60133,McKinney Avenue Transit Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,68883,0,0,68883,0
+60134,The Woodlands Township,Full Reporter,Urban,Funds Applied,0,377030,0,0,0,0,0,0,0,377030,0
+60134,The Woodlands Township,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,1197006,0,0,1197006,0
+60269,Texas State University,Full Reporter,Urban,Funds Applied,0,1603791,0,0,0,0,0,0,0,1603791,0
+60270,City of McKinney,Full Reporter,Urban,Funds Applied,0,112543,0,0,0,0,0,0,0,112543,0
+60273,University of Texas Rio Grande Valley,Full Reporter,Urban,Funds Applied,0,145800,0,0,0,0,0,0,0,145800,0
+66339,New Mexico Department of Transportation,Full Reporter,Urban,Funds Applied,0,470900,0,0,0,0,0,0,0,470900,0
+70002,Transit Authority of Omaha,Full Reporter,Urban,Funds Applied,14259,8836,0,0,0,0,0,0,0,23095,0
+70002,Transit Authority of Omaha,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,9567750,1223058,0,10790808,0
+70003,City of Springfield,Full Reporter,Urban,Funds Applied,0,1369,0,0,0,0,0,0,0,1369,0
+70003,City of Springfield,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,2056793,0,0,2056793,0
+70005,Kansas City Area Transportation Authority,Full Reporter,Urban,Funds Applied,126583,1399772,61354,0,0,0,0,0,0,1587709,0
+70005,Kansas City Area Transportation Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,12829517,0,0,12829517,0
+70006,Bi-State Development Agency of the Missouri-Illinois Metropolitan District,Full Reporter,Urban,Funds Applied,20143726,1517522,0,0,0,0,0,0,1001738,22662986,0
+70006,Bi-State Development Agency of the Missouri-Illinois Metropolitan District,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,88394434,0,228120,88622554,0
+70008,City of Cedar Rapids,Full Reporter,Urban,Funds Applied,0,33000,0,0,0,0,0,0,200006,233006,0
+70008,City of Cedar Rapids,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,792046,0,0,792046,0
+70010,Des Moines Area Regional Transit Authority,Full Reporter,Urban,Funds Applied,117230,60218,727055,0,0,0,0,0,0,904503,0
+70010,Des Moines Area Regional Transit Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,5647450,0,158350,5805800,0
+70014,Topeka Metropolitan Transit Authority,Full Reporter,Urban,Funds Applied,0,135253,0,0,0,0,0,0,0,135253,0
+70014,Topeka Metropolitan Transit Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,1864146,0,0,1864146,0
+70015,City of Wichita ,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,2870973,0,0,2870973,0
+70016,City of Columbia,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,720891,0,340,721231,0
+70018,City of Iowa City,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,1252540,0,-277056,975484,0
+70019,University of Iowa,Full Reporter,Urban,Funds Applied,0,17277,0,0,0,0,0,0,0,17277,0
+70030,City of Coralville,Full Reporter,Urban,Funds Applied,0,12926,0,0,0,0,0,0,0,12926,0
+70030,City of Coralville,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,513494,0,0,513494,0
+70035,Johnson County Kansas,Full Reporter,Urban,Funds Applied,0,231325,0,0,0,0,0,0,0,231325,0
+70041,Ames Transit Agency,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,3096806,0,0,3096806,0
+70044,University of Kansas,Full Reporter,Urban,Funds Applied,0,0,0,0,0,0,0,0,214421,214421,0
+70048,City of Lawrence,Full Reporter,Urban,Funds Applied,0,159328,0,0,0,0,0,0,0,159328,0
+70049,River Bend Transit,Full Reporter,Urban,Funds Applied,0,44386,0,0,0,0,0,0,0,44386,0
+70049,River Bend Transit,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,750711,0,0,750711,0
+70057,Loop Trolley Transportation Development District,Full Reporter,Urban,Funds Applied,0,801,0,0,0,0,0,0,0,801,0
+70066,Heart of Iowa Regional Transit Agency,Full Reporter,Urban,Funds Applied,0,147608,0,0,0,0,0,0,0,147608,0
+70066,Heart of Iowa Regional Transit Agency,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,268205,0,0,268205,0
+70275,Nebraska Department of Transportation ,Full Reporter,Urban,Funds Applied,0,402093,0,0,0,0,0,0,0,402093,0
+80001,Utah Transit Authority,Full Reporter,Urban,Funds Applied,101165071,179127,3088606,0,0,0,0,0,0,104432804,0
+80001,Utah Transit Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,122279356,24641657,0,146921013,0
+80004,City of Billings,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,210455,0,0,210455,0
+80005,City of Colorado Springs,Full Reporter,Urban,Funds Applied,0,2101,0,0,0,0,0,0,0,2101,0
+80005,City of Colorado Springs,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,4314479,0,0,4314479,0
+80006,Denver Regional Transportation District,Full Reporter,Urban,Funds Applied,134608660,5558758,0,0,0,0,0,0,923876,141091294,1399118
+80006,Denver Regional Transportation District,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,339869877,0,28137883,368007760,0
+80009,Missoula Urban Transportation District,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,2037263,0,0,2037263,0
+80011,City of Fort Collins,Full Reporter,Urban,Funds Applied,0,42528,0,0,0,0,0,0,0,42528,0
+80012,Great Falls Transit District,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,710226,0,44019,754245,18382
+80025,"City of Loveland, Colorado",Full Reporter,Urban,Funds Applied,0,13154,0,0,0,0,0,0,0,13154,0
+80025,"City of Loveland, Colorado",Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,248056,0,0,248056,0
+80028,Cache Valley Transit District,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,1437434,0,28000,1465434,0
+80106,North Front Range Transportation and Air Quality Planning Council,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,161450,0,0,161450,0
+80109,Denver Regional Council of Governments,Full Reporter,Urban,Funds Applied,0,403803,0,0,0,0,0,0,0,403803,0
+90001,Regional Transportation Commission of Washoe County,Full Reporter,Urban,Funds Applied,0,2519801,0,0,0,0,0,0,0,2519801,0
+90001,Regional Transportation Commission of Washoe County,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,8906588,15493,-3759960,5162121,0
+90002,City and County of Honolulu,Full Reporter,Urban,Funds Applied,0,2432944,0,0,0,0,0,0,0,2432944,0
+90002,City and County of Honolulu,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,21385538,0,26409567,47795105,0
+90003,San Francisco Bay Area Rapid Transit District,Full Reporter,Urban,Funds Applied,99581331,1429858,0,0,0,4714318,0,0,135917611,241643118,0
+90003,San Francisco Bay Area Rapid Transit District,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,302446199,0,6448114,308894313,0
+90006,Santa Cruz Metropolitan Transit District,Full Reporter,Urban,Funds Applied,1587145,63295,275408,0,0,0,0,0,3552143,5477991,27485
+90006,Santa Cruz Metropolitan Transit District,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,6062911,0,1468239,7531150,117083
+90008,City of Santa Monica,Full Reporter,Urban,Funds Applied,0,10092,0,0,0,0,0,0,-592301,-582209,0
+90008,City of Santa Monica,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,16523777,0,-3484368,13039409,0
+90009,San Mateo County Transit District,Full Reporter,Urban,Funds Applied,7854577,1493820,0,0,0,0,0,0,-5168951,4179446,0
+90009,San Mateo County Transit District,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,17582496,0,7673483,25255979,0
+90010,City of Torrance,Full Reporter,Urban,Funds Applied,0,297494,0,0,0,0,0,0,0,297494,0
+90010,City of Torrance,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,3342452,0,494559,3837011,0
+90012,San Joaquin Regional Transit District,Full Reporter,Urban,Funds Applied,157158,407752,57789,0,0,0,0,0,3259,625958,0
+90012,San Joaquin Regional Transit District,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,11653317,0,-38614,11614703,0
+90013,Santa Clara Valley Transportation Authority,Full Reporter,Urban,Funds Applied,2346582,1619266,0,0,0,0,0,0,63541811,67507659,0
+90013,Santa Clara Valley Transportation Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,85527477,0,0,85527477,0
+90014,Alameda-Contra Costa Transit District,Full Reporter,Urban,Funds Applied,838877,4306357,0,0,0,0,0,0,0,5145234,0
+90014,Alameda-Contra Costa Transit District,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,77107326,0,0,77107326,0
+90015,City and County of San Francisco,Full Reporter,Urban,Funds Applied,11986853,24762908,0,0,0,0,0,0,-14382515,22367246,3928342
+90015,City and County of San Francisco,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,201078722,0,0,201078722,0
+90016,"Golden Gate Bridge, Highway and Transportation District",Full Reporter,Urban,Funds Applied,0,239188,0,0,0,0,0,0,-11946513,-11707325,0
+90016,"Golden Gate Bridge, Highway and Transportation District",Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,31551139,0,0,31551139,0
+90017,City of Santa Rosa,Full Reporter,Urban,Funds Applied,21175,83191,0,0,0,0,0,0,0,104366,68536
+90017,City of Santa Rosa,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,1465811,0,0,1465811,0
+90019,Sacramento Regional Transit District,Full Reporter,Urban,Funds Applied,1316411,441282,2927599,0,0,0,0,1453449,0,6138741,0
+90019,Sacramento Regional Transit District,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,45687058,0,23978625,69665683,0
+90020,Santa Barbara Metropolitan Transit District,Full Reporter,Urban,Funds Applied,1816,0,111593,0,0,0,0,80317,1060788,1254514,1060788
+90020,Santa Barbara Metropolitan Transit District,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,4165884,271781,0,4437665,0
+90022,City of Norwalk ,Full Reporter,Urban,Funds Applied,0,6264,0,0,0,0,0,0,0,6264,0
+90023,Long Beach Transit,Full Reporter,Urban,Funds Applied,299312,426073,0,0,0,0,0,0,0,725385,0
+90023,Long Beach Transit,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,16794369,0,2149895,18944264,0
+90026,San Diego Metropolitan Transit System,Full Reporter,Urban,Funds Applied,372078,1192329,158809,0,0,0,0,0,-10541813,-8818597,0
+90026,San Diego Metropolitan Transit System,Full Reporter,Urban,Funds Not Applied,11261,-481541,0,0,0,0,200534282,393589,10541817,210999408,0
+90027,City of Fresno,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,8408039,0,0,8408039,0
+90029,Omnitrans,Full Reporter,Urban,Funds Applied,0,-1200,0,0,0,0,0,0,0,-1200,0
+90029,Omnitrans,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,22633034,0,0,22633034,0
+90030,North County Transit District,Full Reporter,Urban,Funds Applied,606251,441196,0,0,0,0,0,0,270254,1317701,61972
+90030,North County Transit District,Full Reporter,Urban,Funds Not Applied,0,0,0,0,95779,0,26427069,0,-401500,26121348,527070
+90031,Riverside Transit Agency,Full Reporter,Urban,Funds Applied,0,394567,0,0,0,0,0,0,0,394567,0
+90031,Riverside Transit Agency,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,21819019,0,821159,22640178,0
+90032,City of Phoenix,Full Reporter,Urban,Funds Applied,0,348000,0,0,0,0,0,0,8824214,9172214,0
+90032,City of Phoenix,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,39561481,0,0,39561481,0
+90033,City of Tucson,Full Reporter,Urban,Funds Applied,613764,0,900000,0,0,0,0,0,0,1513764,0
+90033,City of Tucson,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,16791316,0,0,16791316,0
+90034,City of Glendale ,Full Reporter,Urban,Funds Applied,197540,0,0,0,0,0,0,0,4358364,4555904,0
+90035,Gold Coast Transit District,Full Reporter,Urban,Funds Applied,918249,166636,0,0,0,0,0,0,0,1084885,0
+90035,Gold Coast Transit District,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,3554028,0,0,3554028,0
+90036,Orange County Transportation Authority,Full Reporter,Urban,Funds Applied,-216359,3597955,0,0,0,0,0,0,-2036403,1345193,-911910
+90036,Orange County Transportation Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,29217604,0,0,29217604,6129511
+90039,City of Culver City,Full Reporter,Urban,Funds Applied,0,0,0,0,0,0,0,0,7690719,7690719,0
+90039,City of Culver City,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,4144370,0,0,4144370,0
+90041,City of Montebello,Full Reporter,Urban,Funds Applied,1405673,439016,0,0,0,0,0,0,0,1844689,0
+90041,City of Montebello,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,4334054,0,711243,5045297,0
+90042,City of Gardena,Full Reporter,Urban,Funds Applied,622323,0,0,0,0,0,0,0,0,622323,0
+90042,City of Gardena,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,3504186,0,202926,3707112,0
+90045,Regional Transportation Commission of Southern Nevada,Full Reporter,Urban,Funds Applied,0,412423,0,0,0,0,0,0,0,412423,0
+90045,Regional Transportation Commission of Southern Nevada,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,46516428,0,0,46516428,6269132
+90062,Monterey-Salinas Transit,Full Reporter,Urban,Funds Applied,151116,525950,3655,0,0,0,0,0,829304,1510025,0
+90062,Monterey-Salinas Transit,Full Reporter,Urban,Funds Not Applied,0,-236921,0,0,0,0,9653598,0,-266958,9149719,0
+90078,Central Contra Costa Transit Authority,Full Reporter,Urban,Funds Applied,0,166725,0,0,0,615319,0,0,0,782044,0
+90078,Central Contra Costa Transit Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,6730962,0,-423619,6307343,0
+90079,SunLine Transit Agency,Full Reporter,Urban,Funds Applied,0,61498,24243,0,0,0,0,0,0,85741,0
+90079,SunLine Transit Agency,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,9397819,0,-20166,9377653,0
+90086,City of Riverside,Full Reporter,Urban,Funds Applied,72164,0,0,0,0,0,0,0,0,72164,23814
+90086,City of Riverside,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,280825,0,0,280825,0
+90087,City of Santa Maria,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,1347936,0,0,1347936,0
+90088,Napa Valley Transportation Authority,Full Reporter,Urban,Funds Applied,0,0,1,0,0,0,0,0,0,1,0
+90088,Napa Valley Transportation Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,2217325,0,0,2217325,0
+90089,County of Sonoma ,Full Reporter,Urban,Funds Applied,0,25020,0,0,0,0,0,0,254573,279593,0
+90089,County of Sonoma ,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,2475301,421576,0,2896877,0
+90090,Yolo County Transportation District,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,2370193,0,24000,2394193,0
+90092,"City of Fairfield, California",Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,759766,0,0,759766,41207
+90094,Metropolitan Transportation Commission,Full Reporter,Urban,Funds Applied,0,4179856,0,0,0,0,0,0,0,4179856,0
+90095,San Diego Association of Governments,Full Reporter,Urban,Funds Applied,0,3662400,0,0,0,0,0,0,0,3662400,0
+90121,Antelope Valley Transit Authority,Full Reporter,Urban,Funds Applied,0,1655637,0,136500,0,0,0,0,0,1792137,0
+90121,Antelope Valley Transit Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,11233948,0,0,11233948,0
+90131,City of Scottsdale ,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,949569,0,179650,1129219,0
+90134,Peninsula Corridor Joint Powers Board,Full Reporter,Urban,Funds Applied,3029729,300645,0,0,0,0,0,0,-386236,2944138,0
+90134,Peninsula Corridor Joint Powers Board,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,60581636,0,0,60581636,0
+90136,Regional Public Transportation Authority,Full Reporter,Urban,Funds Applied,3220471,2352012,0,0,0,0,0,0,35612312,41184795,0
+90136,Regional Public Transportation Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,14295138,26806,-675985,13645959,0
+90140,City of Peoria ,Full Reporter,Urban,Funds Applied,0,0,0,0,0,0,0,0,2241071,2241071,0
+90142,"University of California, Davis",Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,2567294,0,0,2567294,0
+90144,Livermore / Amador Valley Transit Authority,Full Reporter,Urban,Funds Applied,0,113860,0,0,0,0,0,0,0,113860,0
+90146,Foothill Transit,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,32670303,190505,957858,33818666,0
+90147,City of Los Angeles,Full Reporter,Urban,Funds Applied,0,1581708,0,0,0,0,0,0,0,1581708,0
+90147,City of Los Angeles,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,22839816,0,0,22839816,0
+90148,Victor Valley Transit Authority,Full Reporter,Urban,Funds Applied,1152979,1649081,0,0,0,0,0,0,0,2802060,0
+90148,Victor Valley Transit Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,6897357,0,0,6897357,0
+90151,Southern California Regional Rail Authority,Full Reporter,Urban,Funds Applied,0,0,5087102,0,0,0,0,0,0,5087102,0
+90151,Southern California Regional Rail Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,51594483,0,-10129537,41464946,0
+90154,Los Angeles County Metropolitan Transportation Authority ,Full Reporter,Urban,Funds Applied,2487696,11359222,0,0,0,16930529,0,0,5474309,36251756,0
+90154,Los Angeles County Metropolitan Transportation Authority ,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,569236536,10191850,-58159,579370227,0
+90156,City of San Luis Obispo,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,432233,0,0,432233,0
+90157,Access Services  ,Full Reporter,Urban,Funds Applied,0,3161249,0,0,0,878294,0,0,4902337,8941880,0
+90157,Access Services  ,Full Reporter,Urban,Funds Not Applied,0,-175284,0,0,0,0,4500577,0,0,4325293,0
+90159,Western Contra Costa Transit Authority,Full Reporter,Urban,Funds Applied,0,0,0,0,0,0,0,0,184630,184630,0
+90162,The Eastern Contra Costa Transit Authority,Full Reporter,Urban,Funds Applied,0,360375,0,0,0,0,0,0,0,360375,0
+90162,The Eastern Contra Costa Transit Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,4234785,0,0,4234785,0
+90164,Ventura County Transportation Commission,Full Reporter,Urban,Funds Applied,0,494859,0,0,0,0,0,0,74587,569446,0
+90164,Ventura County Transportation Commission,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,1811026,0,0,1811026,0
+90171,City of Santa Clarita,Full Reporter,Urban,Funds Applied,0,0,0,132,0,0,0,0,-24703,-24571,0
+90171,City of Santa Clarita,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,6084071,0,0,6084071,0
+90173,Transit Joint Powers Authority for Merced County,Full Reporter,Urban,Funds Applied,0,50390,0,0,0,0,0,0,0,50390,0
+90173,Transit Joint Powers Authority for Merced County,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,1620488,0,0,1620488,0
+90182,Altamont Corridor Express,Full Reporter,Urban,Funds Applied,977816,0,0,0,0,0,0,0,0,977816,0
+90182,Altamont Corridor Express,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,7391209,0,0,7391209,0
+90196,County of Placer,Full Reporter,Urban,Funds Applied,0,1038915,0,0,0,0,0,0,469297,1508212,0
+90196,County of Placer,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,1397613,0,0,1397613,0
+90200,Kings County Area Public Transit Agency,Full Reporter,Urban,Funds Applied,240,254132,0,0,0,0,0,0,0,254372,0
+90200,Kings County Area Public Transit Agency,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,1676718,0,0,1676718,0
+90206,San Luis Obispo Regional Transit Authority,Full Reporter,Urban,Funds Applied,114751,0,0,0,0,0,0,0,102484,217235,0
+90206,San Luis Obispo Regional Transit Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,2932680,44917,0,2977597,0
+90208,Butte County Association of Governments,Full Reporter,Urban,Funds Applied,0,26321,0,0,0,0,0,0,0,26321,0
+90208,Butte County Association of Governments,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,1430920,0,0,1430920,0
+90209,"Valley Metro Rail, Inc.",Full Reporter,Urban,Funds Not Applied,58679,0,0,0,0,0,54081886,488160,-926464,53702261,0
+90211,Anaheim Transportation Network,Full Reporter,Urban,Funds Applied,335110,103581,0,0,0,0,0,0,683183,1121874,0
+90211,Anaheim Transportation Network,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,2696271,0,113932,2810203,0
+90213,City of Petaluma,Full Reporter,Urban,Funds Applied,0,7770,0,0,0,0,0,0,0,7770,1476
+90213,City of Petaluma,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,577146,0,39115,616261,0
+90214,City of Redondo Beach,Full Reporter,Urban,Funds Applied,0,0,0,0,0,0,0,0,17734,17734,0
+90218,Riverside County Transportation Commission,Full Reporter,Urban,Funds Applied,0,283268,0,0,0,0,0,0,0,283268,0
+90219,Northern Arizona Intergovernmental Public Transportation Authority,Full Reporter,Urban,Funds Applied,0,65877,0,0,0,0,0,0,92018,157895,0
+90222,Pima Association of Governments,Full Reporter,Urban,Funds Applied,0,131268,0,0,0,0,0,0,0,131268,0
+90223,"Paratransit, Inc.",Full Reporter,Urban,Funds Applied,51987,43265,0,0,0,0,0,0,0,95252,0
+90223,"Paratransit, Inc.",Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,1107051,0,0,1107051,0
+90225,San Francisco Bay Area Water Emergency Transportation Authority,Full Reporter,Urban,Funds Applied,0,340550,0,0,0,0,0,0,0,340550,0
+90225,San Francisco Bay Area Water Emergency Transportation Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,16480092,66545,0,16546637,0
+90226,Imperial County Transportation Commission,Full Reporter,Urban,Funds Applied,0,132455,0,0,0,0,0,0,0,132455,0
+90226,Imperial County Transportation Commission,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,817684,0,0,817684,0
+90230,California Vanpool Authority,Full Reporter,Urban,Funds Applied,0,0,214383,0,0,0,0,0,0,214383,0
+90232,Solano County Transit,Full Reporter,Urban,Funds Applied,33291,166323,0,0,0,0,0,0,81710,281324,0
+90232,Solano County Transit,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,4907003,0,67310,4974313,0
+90233,Yuma County Intergovernmental Public Transportation Authority,Full Reporter,Urban,Funds Applied,68850,380406,0,0,0,0,0,0,0,449256,0
+90233,Yuma County Intergovernmental Public Transportation Authority,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,852334,0,0,852334,0
+90234,Marin County Transit District,Full Reporter,Urban,Funds Applied,0,771160,0,0,0,0,0,0,1780494,2551654,0
+90234,Marin County Transit District,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,4593938,0,0,4593938,0
+90241,County of Maui,Full Reporter,Urban,Funds Applied,0,687676,0,0,0,0,0,0,0,687676,0
+90241,County of Maui,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,18782794,0,0,18782794,0
+90299,Sonoma-Marin Area Rail Transit District,Full Reporter,Urban,Funds Applied,1746163,-30981,0,0,0,0,0,0,51146,1766328,0
+90299,Sonoma-Marin Area Rail Transit District,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,19157142,220201,3687688,23065031,0
+90302,San Bernardino County Transportation Authority,Full Reporter,Urban,Funds Applied,0,554364,0,0,0,0,0,0,0,554364,0
+90306,Stanislaus Regional Transit Authority,Full Reporter,Urban,Funds Applied,0,0,0,2,0,0,0,0,0,2,0
+90306,Stanislaus Regional Transit Authority,Full Reporter,Urban,Funds Not Applied,18317,0,0,0,0,0,4006244,0,0,4024561,0
+90311,Stanislaus Council of Governments,Full Reporter,Urban,Funds Applied,0,205961,0,0,0,0,0,0,0,205961,0
+91092,Tahoe Transportation District,Full Reporter,Urban,Funds Applied,2497,168921,0,0,0,0,0,73784,6384,251586,0
+91092,Tahoe Transportation District,Full Reporter,Urban,Funds Not Applied,0,0,0,0,0,0,582324,-2446,-7782,572096,0
+99422,San Joaquin Council,Full Reporter,Urban,Funds Applied,0,3432796,0,0,0,0,0,0,0,3432796,0
+99424,City of Pasadena,Full Reporter,Urban,Funds Applied,0,161967,0,0,0,0,0,0,0,161967,0
+99425,Pomona Valley Transportation Authority,Full Reporter,Urban,Funds Applied,0,193461,0,0,0,0,0,0,0,193461,0

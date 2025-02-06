@@ -1,0 +1,767 @@
+﻿NTD ID,Agency Name,Reporter Type,Reporting Module,Expense Type,Interest Expenses,Leases and Rentals,Purchase Lease Agreement,Related Parties Lease Agreement,Voluntary Non-Exchange Transactions,Extraordinary and Special Items,Depreciation,Amortization of Intangibles,Other Reconciling Items,Total Reconciling Items,ADA Related Reconciling Items
+1,King County Department of Metro Transit,Full Reporter,Urban,Funds Applied,"$101,228.00 ","$4,557,281.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$4,658,509.00 ","$2,393,409.00 "
+1,King County Department of Metro Transit,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$152,451,976.00 ",$0.00 ,$0.00 ,"$152,451,976.00 ",$0.00 
+2,Spokane Transit Authority,Full Reporter,Urban,Funds Applied,$0.00 ,"$127,342.00 ","$78,444.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$168,912.00 ","$374,698.00 ","$18,423.00 "
+2,Spokane Transit Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$12,483,306.00 ","$888,970.00 ","($4,513,653.00)","$8,858,623.00 ","($673,557.00)"
+3,Pierce County Transportation Benefit Area Authority,Full Reporter,Urban,Funds Applied,$0.00 ,"$1,096,455.00 ",$0.00 ,"$187,410.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$71,914.00 ","$1,355,779.00 ",$0.00 
+3,Pierce County Transportation Benefit Area Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,"($361,762.00)",$0.00 ,"($164,404.00)",$0.00 ,$0.00 ,"$16,159,768.00 ",$0.00 ,"($4,175,949.00)","$11,457,653.00 ",$0.00 
+5,City of Everett,Full Reporter,Urban,Funds Applied,$0.00 ,"$21,245.00 ",$0.00 ,$0.00 ,$0.00 ,"$10,790.00 ",$0.00 ,$0.00 ,$0.00 ,"$32,035.00 ",$0.00 
+5,City of Everett,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$3,118,866.00 ",$0.00 ,"$3,153,632.00 ","$6,272,498.00 ",$0.00 
+6,City of Yakima,Full Reporter,Urban,Funds Applied,$0.00 ,"$146,376.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$146,376.00 ",$0.00 
+6,City of Yakima,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$554,217.00 ",$0.00 ,$0.00 ,"$554,217.00 ",$0.00 
+7,Lane Transit District,Full Reporter,Urban,Funds Applied,"$23,033.00 ","$5,125,197.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$5,148,230.00 ",$0.00 
+7,Lane Transit District,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$14,725,318.00 ",$0.00 ,$0.00 ,"$14,725,318.00 ",$0.00 
+8,Tri-County Metropolitan Transportation District of Oregon,Full Reporter,Urban,Funds Applied,"$31,212,369.00 ","$8,847,992.00 ","$4,085,727.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$36,247,512.00 ","$80,393,600.00 ",$0.00 
+8,Tri-County Metropolitan Transportation District of Oregon,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$144,706,228.00 ",$0.00 ,"$85,321,950.00 ","$230,028,178.00 ",$0.00 
+11,Valley Regional Transit,Full Reporter,Urban,Funds Applied,$0.00 ,"$107,652.00 ",$0.00 ,$5.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$107,657.00 ","$21,746.00 "
+11,Valley Regional Transit,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,920,147.00 ",$0.00 ,$0.00 ,"$2,920,147.00 ","$563,129.00 "
+12,Municipality of Anchorage,Full Reporter,Urban,Funds Applied,"$146,336.00 ","$1,130,746.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$447,729.00 ","$1,724,811.00 ",$0.00 
+12,Municipality of Anchorage,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$833,671.00 ",$0.00 ,$0.00 ,"$833,671.00 ",$0.00 
+16,RiverCities Transit,Full Reporter,Urban,Funds Applied,$0.00 ,"$34,350.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$34,350.00 ",$0.00 
+16,RiverCities Transit,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$650,368.00 ",$0.00 ,$0.00 ,"$650,368.00 ",$0.00 
+18,Ben Franklin Transit,Full Reporter,Urban,Funds Applied,$0.00 ,"$17,888.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$10,791.00 ","$28,679.00 ",$0.00 
+18,Ben Franklin Transit,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$4,250,143.00 ","$222,331.00 ",$0.00 ,"$4,472,474.00 ",$0.00 
+19,Intercity Transit,Full Reporter,Urban,Funds Applied,$0.00 ,"$239,866.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$239,866.00 ",$0.00 
+19,Intercity Transit,Full Reporter,Urban,Funds Not Applied,"$6,682.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$7,564,773.00 ","$75,277.00 ","$7,989,217.00 ","$15,635,949.00 ",$0.00 
+20,Kitsap Transit,Full Reporter,Urban,Funds Applied,"$1,023,164.00 ","$240,000.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$754,653.00 ","$2,017,817.00 ",$0.00 
+20,Kitsap Transit,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$9,670,681.00 ","$78,481.00 ",$0.00 ,"$9,749,162.00 ",$0.00 
+21,Whatcom Transportation Authority,Full Reporter,Urban,Funds Applied,"$29,989.00 ","$11,400.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$41,389.00 ",$0.00 
+21,Whatcom Transportation Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$5,289,224.00 ","$131,547.00 ","($2,381,106.00)","$3,039,665.00 ",$0.00 
+24,Clark County Public Transportation Benefit Area Authority,Full Reporter,Urban,Funds Applied,$0.00 ,"$113,789.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,($525.00),"$113,264.00 ","$97,157.00 "
+24,Clark County Public Transportation Benefit Area Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$9,716,337.00 ",$0.00 ,$0.00 ,"$9,716,337.00 ","$1,989,333.00 "
+25,Salem Area Mass Transit District,Full Reporter,Urban,Funds Applied,$0.00 ,"$320,224.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$131,512.00 ","$451,736.00 ","$131,512.00 "
+25,Salem Area Mass Transit District,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,739,291.00 ",$0.00 ,"($1,324,526.00)","$1,414,765.00 ",$0.00 
+28,County of Pierce,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$779,959.00 ",$0.00 ,$0.00 ,"$779,959.00 ",$0.00 
+29,Snohomish County Public Transportation Benefit Area Corporation,Full Reporter,Urban,Funds Applied,"$127,811.00 ","$2,253,199.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$5,348,085.00 ","$7,729,095.00 ",$0.00 
+29,Snohomish County Public Transportation Benefit Area Corporation,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$11,380,636.00 ",$0.00 ,"$24,951,564.00 ","$2,526,769.00 ",$0.00 ,"$38,858,969.00 ","$367,578.00 "
+34,Rogue Valley Transportation District,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,544,123.00 ",$0.00 ,$0.00 ,"$2,544,123.00 ",$0.00 
+35,Washington State Ferries,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$61,116,670.00 ",$0.00 ,$0.00 ,"$61,116,670.00 ",$0.00 
+40,Central Puget Sound Regional Transit Authority,Full Reporter,Urban,Funds Applied,"$96,313,252.00 ","$2,721,741.00 ","$3,599,091.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,531,413.00 ","$104,165,497.00 ",$0.00 
+40,Central Puget Sound Regional Transit Authority,Full Reporter,Urban,Funds Not Applied,"($22,270,083.00)",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$253,602,956.00 ","$12,328,477.00 ","$64,156,882.00 ","$307,818,232.00 ",$0.00 
+41,Alaska Railroad Corporation,Full Reporter,Urban,Funds Applied,"($343,473.00)","$184,897.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"($158,576.00)",$0.00 
+41,Alaska Railroad Corporation,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$22,892,648.00 ",$870.00 ,"($29,031,469.00)","($6,137,951.00)",$0.00 
+43,Chelan Douglas PTBA ,Full Reporter,Urban,Funds Applied,$0.00 ,"$14,824.00 ",$0.00 ,$0.00 ,$0.00 ,"$3,591.00 ",$0.00 ,$0.00 ,$0.00 ,"$18,415.00 ",$0.00 
+43,Chelan Douglas PTBA ,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$3,179,451.00 ",$0.00 ,"($1,265,253.00)","$1,914,198.00 ",$0.00 
+44,Skagit Transit,Full Reporter,Urban,Funds Applied,$0.00 ,"$13,928.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$13,928.00 ",$0.00 
+44,Skagit Transit,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,393,562.00 ","$81,772.00 ",$0.00 ,"$2,475,334.00 ",$0.00 
+46,City of Wilsonville,Full Reporter,Urban,Funds Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$489,528.00 ","$489,528.00 ",$0.00 
+46,City of Wilsonville,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$764,743.00 ",$0.00 ,$0.00 ,"$764,743.00 ",$0.00 
+57,Central Oregon Intergovernmental Council,Full Reporter,Urban,Funds Applied,"$17,159.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$17,159.00 ",$0.00 
+57,Central Oregon Intergovernmental Council,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$75,813.00 ",$0.00 ,$0.00 ,"$75,813.00 ",$0.00 
+376,"Ride Connection, Inc.",Full Reporter,Urban,Funds Applied,$0.00 ,"$904,777.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$904,777.00 ",$0.00 
+376,"Ride Connection, Inc.",Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$958,886.00 ",$0.00 ,"$408,677.00 ","$1,367,563.00 ",$0.00 
+415,Ada County Highway District,Full Reporter,Urban,Funds Applied,$0.00 ,"$2,883.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,883.00 ",$0.00 
+415,Ada County Highway District,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$435,457.00 ",$0.00 ,$0.00 ,"$435,457.00 ",$0.00 
+10001,Rhode Island Public Transit Authority,Full Reporter,Urban,Funds Applied,$0.00 ,"$335,540.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,533,719.00 ","$2,869,259.00 ",$0.00 
+10001,Rhode Island Public Transit Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$16,768,446.00 ",$0.00 ,"$1,325,249.00 ","$18,093,695.00 ",$0.00 
+10003,Massachusetts Bay Transportation Authority,Full Reporter,Urban,Funds Applied,"$163,971,818.00 ","$29,337,760.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$6,583,148.00 ","$199,892,726.00 ",$0.00 
+10003,Massachusetts Bay Transportation Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$526,775,785.00 ",$0.00 ,"$32,720,090.00 ","$559,495,875.00 ",$0.00 
+10004,Brockton Area Transit Authority,Full Reporter,Urban,Funds Applied,"$29,765.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$29,765.00 ",$0.00 
+10004,Brockton Area Transit Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$3,986,812.00 ",$0.00 ,$0.00 ,"$3,986,812.00 ",$0.00 
+10005,Lowell Regional Transit Authority,Full Reporter,Urban,Funds Applied,"$35,958.00 ","$8,570.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$44,528.00 ",$0.00 
+10006,Southeastern Regional Transit Authority,Full Reporter,Urban,Funds Applied,"$21,108.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"($111,097.00)","($89,989.00)",$0.00 
+10006,Southeastern Regional Transit Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$3,236,172.00 ",$0.00 ,"($1,265,693.00)","$1,970,479.00 ",$0.00 
+10008,Pioneer Valley Transit Authority,Full Reporter,Urban,Funds Applied,"$45,722.00 ","$106,388.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$282,026.00 ","$434,136.00 ",$0.00 
+10008,Pioneer Valley Transit Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,"($75,790.00)",$0.00 ,$0.00 ,$0.00 ,"$20,017,934.00 ",$0.00 ,$0.00 ,"$19,942,144.00 ",$0.00 
+10013,Merrimack Valley Regional Transit Authority,Full Reporter,Urban,Funds Applied,"$71,823.00 ","$4,791.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$76,614.00 ",$0.00 
+10014,Worcester Regional Transit Authority,Full Reporter,Urban,Funds Applied,"$35,403.00 ","$167,325.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$202,728.00 ",$0.00 
+10014,Worcester Regional Transit Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$7,116,857.00 ","$75,521.00 ","$90,362.00 ","$7,282,740.00 ",$0.00 
+10016,Greater Portland Transit District,Full Reporter,Urban,Funds Applied,"$54,324.00 ","$77,762.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$607,618.00 ","$739,704.00 ",$0.00 
+10016,Greater Portland Transit District,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,379,379.00 ",$0.00 ,$0.00 ,"$2,379,379.00 ",$0.00 
+10040,Southeast Area Transit District,Full Reporter,Urban,Funds Applied,"$17,764.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$17,764.00 ",$0.00 
+10040,Southeast Area Transit District,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,"$370,915.00 ",$0.00 ,$0.00 ,"$1,348,544.00 ",$0.00 ,$0.00 ,"$1,719,459.00 ",$0.00 
+10042,Valley Transit District,Full Reporter,Urban,Funds Applied,$0.00 ,"$9,884.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$9,884.00 ",$0.00 
+10042,Valley Transit District,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$337,253.00 ",$0.00 ,$0.00 ,"$337,253.00 ",$0.00 
+10048,Connecticut Department of Transportation - CTTRANSIT - Hartford Division,Full Reporter,Urban,Funds Applied,$0.00 ,"$135,205.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$135,205.00 ",$0.00 
+10050,Greater Bridgeport Transit Authority,Full Reporter,Urban,Funds Applied,$478.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$478.00 ,$0.00 
+10050,Greater Bridgeport Transit Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$4,590,259.00 ",$0.00 ,"$735,368.00 ","$5,325,627.00 ",$0.00 
+10053,Cape Ann Transportation Authority,Full Reporter,Urban,Funds Applied,"$8,373.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$8,373.00 ",$0.00 
+10055,Connecticut Department of Transportation - CTTRANSIT New Haven Division,Full Reporter,Urban,Funds Applied,$0.00 ,"$61,829.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$61,829.00 ",$0.00 
+10056,Connecticut Department of Transportation - CTTRANSIT Stamford Division,Full Reporter,Urban,Funds Applied,$0.00 ,"$71,747.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$71,747.00 ",$0.00 
+10057,Norwalk Transit District,Full Reporter,Urban,Funds Applied,"$71,482.00 ","$60,283.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$131,765.00 ",$0.00 
+10057,Norwalk Transit District,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,949,930.00 ",$0.00 ,$0.00 ,"$2,949,930.00 ",$0.00 
+10061,Montachusett Regional Transit Authority,Full Reporter,Urban,Funds Applied,"$51,990.00 ","$728,433.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$48,904.00 ","$829,327.00 ",$0.00 
+10061,Montachusett Regional Transit Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$4,780,439.00 ",$0.00 ,$0.00 ,"$4,780,439.00 ",$0.00 
+10064,Greater Attleboro-Taunton Regional Transit Authority,Full Reporter,Urban,Funds Applied,"$60,882.00 ","$33,518.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$930,969.00 ","$1,025,369.00 ",$0.00 
+10064,Greater Attleboro-Taunton Regional Transit Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$3,622,204.00 ",$0.00 ,$0.00 ,"$3,622,204.00 ",$0.00 
+10066,Green Mountain Transit Authority,Full Reporter,Urban,Funds Applied,$0.00 ,"$36,700.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$44,233.00 ","$80,933.00 ",$0.00 
+10066,Green Mountain Transit Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$3,427,888.00 ",$0.00 ,$0.00 ,"$3,427,888.00 ",$0.00 
+10086,Cooperative Alliance for Seacoast Transportation,Full Reporter,Urban,Funds Applied,$0.00 ,"$30,600.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$30,600.00 ",$0.00 
+10086,Cooperative Alliance for Seacoast Transportation,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$838,505.00 ",$0.00 ,$0.00 ,"$838,505.00 ",$0.00 
+10088,Casco Bay Island Transit District,Full Reporter,Urban,Funds Applied,$0.00 ,"$35,944.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$35,944.00 ",$0.00 
+10088,Casco Bay Island Transit District,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$816,952.00 ",$0.00 ,$0.00 ,"$816,952.00 ",$0.00 
+10098,"Western Maine Transportation Services, Inc.",Full Reporter,Urban,Funds Applied,"$15,647.00 ","$16,910.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$32,557.00 ",$0.00 
+10102,Connecticut Department of Transportation,Full Reporter,Urban,Funds Applied,$0.00 ,"$8,200.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$8,200.00 ",$0.00 
+10105,Cape Cod Regional Transit Authority,Full Reporter,Urban,Funds Applied,"$21,171.00 ","$51,430.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$72,601.00 ",$0.00 
+10105,Cape Cod Regional Transit Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$4,379,153.00 ",$0.00 ,$0.00 ,"$4,379,153.00 ",$0.00 
+10115,Northern New England Passenger Rail Authority,Full Reporter,Urban,Funds Applied,$0.00 ,"$157,341.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$157,341.00 ",$0.00 
+10115,Northern New England Passenger Rail Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$321,403.00 ",$0.00 ,$0.00 ,"$321,403.00 ",$0.00 
+10118,MetroWest Regional Transit Authority,Full Reporter,Urban,Funds Applied,"$28,529.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$28,529.00 ","$13,227.00 "
+10118,MetroWest Regional Transit Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,761,998.00 ",$0.00 ,$0.00 ,"$2,761,998.00 ","$1,298,139.00 "
+10128,Connecticut Department of Transportation- CTTransit Waterbury- NET,Full Reporter,Urban,Funds Applied,"$70,468.00 ","$9,314.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$79,782.00 ",$0.00 
+10130,Connecticut Department of Transportation -CTTRANSIT New Britain ,Full Reporter,Urban,Funds Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$26,550.00 ",$0.00 ,$0.00 ,"$26,550.00 ",$0.00 
+10183,"Woods Hole, Martha's Vineyard and Nantucket Steamship Authority",Full Reporter,Urban,Funds Applied,"$3,625,042.00 ","$896,348.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$4,521,390.00 ",$0.00 
+10183,"Woods Hole, Martha's Vineyard and Nantucket Steamship Authority",Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$15,174,449.00 ",$0.00 ,$0.00 ,"$15,174,449.00 ",$0.00 
+11147,Rhode Island Department of Transportation,Full Reporter,Urban,Funds Applied,$0.00 ,"$102,235.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$102,235.00 ",$0.00 
+11238,Bay State LLC,Full Reporter,Urban,Funds Applied,"$1,437.00 ","$41,665.00 ","$643,380.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$686,482.00 ",$0.00 
+11238,Bay State LLC,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$251,088.00 ",$0.00 ,$0.00 ,"$251,088.00 ",$0.00 
+11239,"Hyannis Harbor Tours, Inc. ",Full Reporter,Urban,Funds Applied,"$304,190.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$304,190.00 ",$0.00 
+11239,"Hyannis Harbor Tours, Inc. ",Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,085,725.00 ","$8,945.00 ",$0.00 ,"$2,094,670.00 ",$0.00 
+20002,Capital District Transportation Authority,Full Reporter,Urban,Funds Applied,"$67,776.00 ","$879,864.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$947,640.00 ",$0.00 
+20002,Capital District Transportation Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$15,062,805.00 ",$0.00 ,"$2,225,098.00 ","$17,287,903.00 ",$0.00 
+20003,Broome County,Full Reporter,Urban,Funds Applied,"$72,533.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,953,133.00 ","$3,025,666.00 ",$0.00 
+20003,Broome County,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,666,673.00 ",$0.00 ,"$238,660.00 ","$2,905,333.00 ",$0.00 
+20004,Niagara Frontier Transportation Authority,Full Reporter,Urban,Funds Applied,"$469,064.00 ","$1,177,239.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,646,303.00 ","$11,863.00 "
+20004,Niagara Frontier Transportation Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$5,680,657.00 ",$0.00 ,"$20,713,771.00 ","$26,394,428.00 ","$339,676.00 "
+20008,MTA New York City Transit,Full Reporter,Urban,Funds Applied,"$47,695,877.00 ","($2,332,102.00)",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$532,062,668.00 ","$577,426,443.00 ",$0.00 
+20008,MTA New York City Transit,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,147,483,647.00 ",$0.00 ,$0.00 ,"$2,147,483,647.00 ",$0.00 
+20010,Dutchess County,Full Reporter,Urban,Funds Applied,$0.00 ,"$96,219.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$96,219.00 ",$0.00 
+20010,Dutchess County,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,999,605.00 ",$0.00 ,$0.00 ,"$1,999,605.00 ",$0.00 
+20018,Central New York Regional Transportation Authority,Full Reporter,Urban,Funds Applied,$0.00 ,"$199,904.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$199,904.00 ",$0.00 
+20018,Central New York Regional Transportation Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$11,364,023.00 ",$0.00 ,"$24,612,247.00 ","$35,976,270.00 ",$0.00 
+20072,Suffolk County ,Full Reporter,Urban,Funds Applied,"$287,709.00 ","$2,385,301.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,673,010.00 ",$0.00 
+20072,Suffolk County ,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$6,645,908.00 ",$0.00 ,$0.00 ,"$6,645,908.00 ",$0.00 
+20075,Port Authority Transit Corporation,Full Reporter,Urban,Funds Applied,$0.00 ,"$16,425.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$16,425.00 ",$0.00 
+20075,Port Authority Transit Corporation,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,"$6,122,000.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,"($2,891,719.00)","$3,230,281.00 ",$0.00 
+20076,Westchester County,Full Reporter,Urban,Funds Applied,$0.00 ,"$2,047,200.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,047,200.00 ",$0.00 
+20078,"Metro-North Commuter Railroad Company, dba: MTA Metro-North Railroad",Full Reporter,Urban,Funds Applied,"$7,606,027.00 ","$3,049,852.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$61,101,163.00 ","$71,757,042.00 ",$0.00 
+20078,"Metro-North Commuter Railroad Company, dba: MTA Metro-North Railroad",Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$335,257,070.00 ",$0.00 ,"$79,369,526.00 ","$414,626,596.00 ",$0.00 
+20080,New Jersey Transit Corporation,Full Reporter,Urban,Funds Applied,"$23,403,094.00 ","$3,848,867.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$27,251,961.00 ",$0.00 
+20080,New Jersey Transit Corporation,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$37,004,954.00 ",$0.00 ,"$21,624,550.00 ","$58,629,504.00 ","$5,247,905.00 "
+20082,New York City Department of Transportation,Full Reporter,Urban,Funds Applied,$0.00 ,"$90,846.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$90,846.00 ",$0.00 
+20084,County of Rockland ,Full Reporter,Urban,Funds Applied,$0.00 ,"$95,437.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$95,437.00 ",$0.00 
+20098,Port Authority Trans-Hudson Corporation,Full Reporter,Urban,Funds Not Applied,"$252,999,000.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$228,069,000.00 ",$0.00 ,$0.00 ,"$481,068,000.00 ",$0.00 
+20099,Staten Island Rapid Transit Operating Authority,Full Reporter,Urban,Funds Applied,"$762,036.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$5,286,453.00 ","$6,048,489.00 ",$0.00 
+20099,Staten Island Rapid Transit Operating Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$13,729,429.00 ",$0.00 ,$0.00 ,"$13,729,429.00 ",$0.00 
+20100,MTA Long Island Rail Road,Full Reporter,Urban,Funds Applied,"$1,785,066.00 ","($647,378.00)",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,137,688.00 ",$0.00 
+20100,MTA Long Island Rail Road,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$505,569,136.00 ","$11,182,162.00 ","$38,276,303.00 ","$555,027,601.00 ",$0.00 
+20113,Regional Transit Service - Monroe County,Full Reporter,Urban,Funds Applied,"$1,845.00 ","$282,258.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$284,103.00 ",$0.00 
+20113,Regional Transit Service - Monroe County,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$16,088,306.00 ",$0.00 ,"($1,835,950.00)","$14,252,356.00 ",$0.00 
+20122,"Academy Lines, Inc.",Full Reporter,Urban,Funds Applied,$0.00 ,$0.00 ,"$3,085,640.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$3,085,640.00 ",$0.00 
+20122,"Academy Lines, Inc.",Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$206,641.00 ",$0.00 ,$0.00 ,"$206,641.00 ",$0.00 
+20126,"Hudson Transit Lines, Inc.",Full Reporter,Urban,Funds Applied,$0.00 ,"$1,441,762.00 ",$0.00 ,"$2,264,260.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$3,706,022.00 ",$0.00 
+20126,"Hudson Transit Lines, Inc.",Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$120,972.00 ",$0.00 ,"$596,948.00 ","$717,920.00 ",$0.00 
+20128,Suburban Transit Corporation,Full Reporter,Urban,Funds Applied,$0.00 ,"$2,225,237.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,225,237.00 ",$0.00 
+20128,Suburban Transit Corporation,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$202,984.00 ","$1,480.00 ","$186,241.00 ","$390,705.00 ",$0.00 
+20135,Monsey New Square Trails Corporation,Full Reporter,Urban,Funds Applied,"$16,992.00 ",$0.00 ,"$146,898.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$163,890.00 ",$0.00 
+20135,Monsey New Square Trails Corporation,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$412,569.00 ",$0.00 ,$0.00 ,"$412,569.00 ",$0.00 
+20145,Tompkins Consolidated Area Transit,Full Reporter,Urban,Funds Applied,"$48,602.00 ","$49,396.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$92,569.00 ","$190,567.00 ",$0.00 
+20149,"Rockland Coaches, Inc.",Full Reporter,Urban,Funds Applied,$0.00 ,"$554,714.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$554,714.00 ",$0.00 
+20149,"Rockland Coaches, Inc.",Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$34,199.00 ",$0.00 ,$0.00 ,"$34,199.00 ",$0.00 
+20161,DeCamp Bus Lines,Full Reporter,Urban,Funds Applied,"$117,354.00 ","$50,765.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"($1,197,018.00)","($1,028,899.00)",$0.00 
+20161,DeCamp Bus Lines,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$551,484.00 ",$0.00 ,$0.00 ,"$551,484.00 ",$0.00 
+20163,"Lakeland Bus Lines, Inc.",Full Reporter,Urban,Funds Applied,"$27,676.00 ","$704,055.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$731,731.00 ",$0.00 
+20163,"Lakeland Bus Lines, Inc.",Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,358,150.00 ","$45,727.00 ",$0.00 ,$0.00 ,"$1,403,877.00 ",$0.00 
+20166,"Orange-Newark-Elizabeth, Inc.",Full Reporter,Urban,Funds Applied,"$14,150.00 ","$268,490.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"($255,629.00)","$27,011.00 ",$0.00 
+20166,"Orange-Newark-Elizabeth, Inc.",Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$23,892.00 ",$0.00 ,$0.00 ,"$23,892.00 ",$0.00 
+20169,"Trans-Bridge Lines, Inc. ",Full Reporter,Urban,Funds Applied,"$33,324.00 ","$342,572.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$375,896.00 ",$0.00 
+20169,"Trans-Bridge Lines, Inc. ",Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,203,377.00 ",$0.00 ,$0.00 ,"$2,203,377.00 ",$0.00 
+20177,"Adirondack Transit Lines, Inc,",Full Reporter,Urban,Funds Applied,"$53,657.00 ","$988,089.00 ",$0.00 ,"$107,345.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,149,091.00 ",$0.00 
+20177,"Adirondack Transit Lines, Inc,",Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,141,946.00 ",$0.00 ,$0.00 ,"$2,141,946.00 ",$0.00 
+20188,MTA Bus Company,Full Reporter,Urban,Funds Applied,"$8,033.00 ","$999,739.00 ",$0.00 ,"$1,269,976.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$506,114,569.00 ","$508,392,317.00 ",$0.00 
+20188,MTA Bus Company,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$49,205,994.00 ",$0.00 ,"($432,719,546.00)","($383,513,552.00)",$0.00 
+20190,Port Imperial Ferry Corporation,Full Reporter,Urban,Funds Applied,"$1,215,854.00 ","$43,912.00 ","$908,377.00 ",$0.00 ,$0.00 ,"$64,415.00 ",$0.00 ,$0.00 ,$0.00 ,"$2,232,558.00 ",$0.00 
+20190,Port Imperial Ferry Corporation,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,359,126.00 ","$1,597,680.00 ",$0.00 ,"$3,956,806.00 ",$0.00 
+20206,County of Nassau,Full Reporter,Urban,Funds Applied,$0.00 ,"$874,575.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$874,575.00 ",$0.00 
+20217,"Hampton Jitney, Inc.",Full Reporter,Urban,Funds Applied,"$316,196.00 ","$1,927,773.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,243,969.00 ",$0.00 
+20217,"Hampton Jitney, Inc.",Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,003,582.00 ",$0.00 ,$0.00 ,"$2,003,582.00 ",$0.00 
+20223,Cape May Lewes Ferry,Full Reporter,Urban,Funds Applied,"$6,439,215.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$6,439,215.00 ",$0.00 
+20223,Cape May Lewes Ferry,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$11,486,535.00 ",$0.00 ,$0.00 ,"$11,486,535.00 ",$0.00 
+20226,"SeaStreak, LLC",Full Reporter,Urban,Funds Applied,"$1,336,026.00 ","$469,159.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,805,185.00 ",$0.00 
+20226,"SeaStreak, LLC",Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$3,570,734.00 ",$0.00 ,$0.00 ,"$3,570,734.00 ",$0.00 
+20228,"Enterprise Holdings, LLC",Full Reporter,Urban,Funds Applied,$0.00 ,"$2,091.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,091.00 ",$0.00 
+22930,New York City Economic Development Corporation,Full Reporter,Urban,Funds Applied,$0.00 ,"$2,430,464.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"($7,107,603.00)","($4,677,139.00)",$0.00 
+22930,New York City Economic Development Corporation,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$10,842,755.00 ",$0.00 ,$0.00 ,"$10,842,755.00 ",$0.00 
+30001,Kanawha Valley Regional Transportation Authority,Full Reporter,Urban,Funds Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$32,963.00 ","$32,963.00 ",$0.00 
+30001,Kanawha Valley Regional Transportation Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,794,750.00 ",$0.00 ,$0.00 ,"$1,794,750.00 ",$0.00 
+30002,The Tri-State Transit Authority,Full Reporter,Urban,Funds Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$705,627.00 ","$705,627.00 ",$0.00 
+30006,Greater Richmond Transit Company,Full Reporter,Urban,Funds Applied,$0.00 ,"$233,358.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$233,358.00 ",$0.00 
+30006,Greater Richmond Transit Company,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$10,028,765.00 ",$0.00 ,"($2,111,485.00)","$7,917,280.00 ",$0.00 
+30007,Greater Roanoke Transit Company,Full Reporter,Urban,Funds Applied,$0.00 ,"$105,000.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$105,000.00 ",$0.00 
+30008,Greater Lynchburg Transit Company,Full Reporter,Urban,Funds Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"($168,139.00)","($168,139.00)",$0.00 
+30008,Greater Lynchburg Transit Company,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,228,215.00 ",$0.00 ,$0.00 ,"$2,228,215.00 ",$0.00 
+30010,Lehigh and Northampton Transportation Authority,Full Reporter,Urban,Funds Applied,"$43,781.00 ","$13,119.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$56,900.00 ",$0.00 
+30010,Lehigh and Northampton Transportation Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$5,708,319.00 ","$317,475.00 ",$0.00 ,"$6,025,794.00 ",$0.00 
+30011,Altoona Metro Transit,Full Reporter,Urban,Funds Applied,$0.00 ,"$29,300.00 ","$116,581.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$145,881.00 ","$2,610.00 "
+30011,Altoona Metro Transit,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,076,165.00 ",$0.00 ,"($212,574.00)","$1,863,591.00 ",$0.00 
+30012,Cambria County Transit Authority,Full Reporter,Urban,Funds Applied,$0.00 ,$0.00 ,"$122,559.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$122,559.00 ",$0.00 
+30012,Cambria County Transit Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$3,422,857.00 ",$0.00 ,"$268,522.00 ","$3,691,379.00 ",$0.00 
+30013,Erie Metropolitan Transit Authority,Full Reporter,Urban,Funds Applied,$0.00 ,"$247,642.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$247,642.00 ",$0.00 
+30013,Erie Metropolitan Transit Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$4,458,533.00 ",$0.00 ,"$231,860.00 ","$4,690,393.00 ",$0.00 
+30014,Cumberland Dauphin-Harrisburg Transit Authority,Full Reporter,Urban,Funds Applied,$10.00 ,"$38,573.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$38,583.00 ",$0.00 
+30014,Cumberland Dauphin-Harrisburg Transit Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$4,332,008.00 ",$0.00 ,$0.00 ,"$4,332,008.00 ",$0.00 
+30015,Luzerne County Transportation Authority,Full Reporter,Urban,Funds Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$438,173.00 ","$438,173.00 ",$0.00 
+30015,Luzerne County Transportation Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,515,395.00 ",$0.00 ,"$175,880.00 ","$2,691,275.00 ",$0.00 
+30019,Southeastern Pennsylvania Transportation Authority,Full Reporter,Urban,Funds Applied,"$12,747,483.00 ","$30,962,988.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$3,189,086.00 ","$46,899,557.00 ","$147,337.00 "
+30019,Southeastern Pennsylvania Transportation Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,"($940,986.00)",$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$24,514,664.00 ",$0.00 ,"($108,003,775.00)","($84,430,097.00)",$0.00 
+30022,Port Authority of Allegheny County,Full Reporter,Urban,Funds Applied,$0.00 ,"$6,129,685.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$6,129,685.00 ",$0.00 
+30022,Port Authority of Allegheny County,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$103,339,824.00 ",$0.00 ,"($60,814,767.00)","$42,525,057.00 ",$0.00 
+30023,Beaver County Transit Authority,Full Reporter,Urban,Funds Applied,$0.00 ,$0.00 ,"$86,100.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$86,100.00 ",$0.00 
+30023,Beaver County Transit Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,833,760.00 ",$0.00 ,$0.00 ,"$2,833,760.00 ",$0.00 
+30025,County of Lackawanna Transit System,Full Reporter,Urban,Funds Applied,$0.00 ,"$464,146.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$464,146.00 ",$0.00 
+30025,County of Lackawanna Transit System,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,645,437.00 ",$0.00 ,"$891,916.00 ","$3,537,353.00 ",$0.00 
+30026,City of Williamsport,Full Reporter,Urban,Funds Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$587,003.00 ","$587,003.00 ",$0.00 
+30026,City of Williamsport,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,010,463.00 ","$1,010,463.00 ",$0.00 
+30027,Central Pennsylvania Transportation Authority,Full Reporter,Urban,Funds Applied,$0.00 ,"$35,261.00 ","$110,283.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,718,631.00 ","$2,864,175.00 ",$0.00 
+30027,Central Pennsylvania Transportation Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$4,100,991.00 ",$0.00 ,$0.00 ,"$4,100,991.00 ",$0.00 
+30030,Washington Metropolitan Area Transit Authority,Full Reporter,Urban,Funds Applied,"$75,895,987.00 ","$1,928,848.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$77,824,835.00 ",$0.00 
+30030,Washington Metropolitan Area Transit Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,023,131,460.00 ","$68,024,946.00 ","($175,662,755.00)","$915,493,651.00 ",$0.00 
+30034,Maryland Transit Administration,Full Reporter,Urban,Funds Applied,$0.00 ,"$5,231,295.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$5,231,295.00 ","$21,005.00 "
+30034,Maryland Transit Administration,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$51,400,982.00 ",$0.00 ,$0.00 ,"$51,400,982.00 ",$0.00 
+30035,Ohio Valley Regional Transportation Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$847,465.00 ",$0.00 ,$0.00 ,"$847,465.00 ",$0.00 
+30044,Westmoreland County ,Full Reporter,Urban,Funds Applied,$0.00 ,"$153,898.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$153,898.00 ",$0.00 
+30044,Westmoreland County ,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,476,694.00 ",$0.00 ,$0.00 ,"$2,476,694.00 ",$0.00 
+30045,"JAUNT, Inc.",Full Reporter,Urban,Funds Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"($131,864.00)","($131,864.00)",$0.00 
+30045,"JAUNT, Inc.",Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,576,572.00 ",$0.00 ,"$103,244.00 ","$1,679,816.00 ",$0.00 
+30051,"Montgomery County, Maryland",Full Reporter,Urban,Funds Applied,"$1,278,923.00 ","$1,957,050.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$3,235,973.00 ",$0.00 
+30051,"Montgomery County, Maryland",Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$14,982,898.00 ",$0.00 ,"$625,089.00 ","$15,607,987.00 ",$0.00 
+30054,Centre Area Transportation Authority,Full Reporter,Urban,Funds Applied,"$4,873.00 ","$24,761.00 ","$48,164.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$77,798.00 ",$0.00 
+30054,Centre Area Transportation Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$5,636,836.00 ",$0.00 ,$0.00 ,"$5,636,836.00 ",$0.00 
+30058,City of Fairfax,Full Reporter,Urban,Funds Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$23,750.00 ",$0.00 ,$0.00 ,$0.00 ,"$23,750.00 ",$0.00 
+30058,City of Fairfax,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$264,020.00 ",$0.00 ,$0.00 ,"$264,020.00 ",$0.00 
+30061,Mid Mon Valley Transit Authority,Full Reporter,Urban,Funds Applied,$0.00 ,"$17,544.00 ","$9,000.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$26,544.00 ",$0.00 
+30061,Mid Mon Valley Transit Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,663,768.00 ",$0.00 ,$0.00 ,"$1,663,768.00 ",$0.00 
+30068,"Fairfax County, VA",Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$8,738,805.00 ",$0.00 ,$0.00 ,"$8,738,805.00 ",$0.00 
+30070,Potomac and Rappahannock Transportation Commission,Full Reporter,Urban,Funds Applied,$0.00 ,"$1,901,493.00 ",$0.00 ,$0.00 ,$0.00 ,"$86,645.00 ",$0.00 ,$0.00 ,$0.00 ,"$1,988,138.00 ",$0.00 
+30070,Potomac and Rappahannock Transportation Commission,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$6,989,864.00 ",$0.00 ,"$10,860,216.00 ","$17,850,080.00 ",$0.00 
+30071,City of Alexandria ,Full Reporter,Urban,Funds Applied,$0.00 ,"$21,556.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$21,556.00 ",$0.00 
+30071,City of Alexandria ,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$5,392,282.00 ",$0.00 ,$0.00 ,"$5,392,282.00 ",$0.00 
+30072,"Frederick County, Maryland",Full Reporter,Urban,Funds Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$94,744.00 ","$94,744.00 ",$0.00 
+30073,Virginia Railway Express,Full Reporter,Urban,Funds Applied,"$2,908,408.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,908,408.00 ",$0.00 
+30073,Virginia Railway Express,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$21,552,764.00 ",$0.00 ,$0.00 ,"$21,552,764.00 ",$0.00 
+30075,Delaware Transit Corporation,Full Reporter,Urban,Funds Applied,$0.00 ,"$6,781.00 ",$0.00 ,$0.00 ,$0.00 ,"$630,629.00 ",$0.00 ,$0.00 ,$0.00 ,"$637,410.00 ",$0.00 
+30077,Borough of Pottstown,Full Reporter,Urban,Funds Applied,$0.00 ,"$109,410.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$109,410.00 ",$0.00 
+30078,Southwestern Pennsylvania Commission,Full Reporter,Urban,Funds Applied,$0.00 ,"$53,200.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$53,200.00 ",$0.00 
+30080,"Arlington County, Virginia",Full Reporter,Urban,Funds Applied,$0.00 ,"$401,083.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$401,083.00 ",$0.00 
+30080,"Arlington County, Virginia",Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,476,210.00 ",$0.00 ,$0.00 ,"$2,476,210.00 ",$0.00 
+30081,Loudoun County,Full Reporter,Urban,Funds Applied,$0.00 ,"$48,300.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$815,439.00 ",$0.00 ,$0.00 ,"$863,739.00 ",$0.00 
+30083,Transportation District Commission of Hampton Roads,Full Reporter,Urban,Funds Applied,"$72,172.00 ","$547,963.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"($197,346.00)","$422,789.00 ",$0.00 
+30083,Transportation District Commission of Hampton Roads,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$24,212,941.00 ",$0.00 ,$0.00 ,"$24,212,941.00 ",$0.00 
+30085,"Prince George's County, Maryland",Full Reporter,Urban,Funds Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$537,079.00 ","$537,079.00 ",$0.00 
+30088,"County Commissioners of Charles County, MD",Full Reporter,Urban,Funds Applied,$0.00 ,"$151,950.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$170,717.00 ","$322,667.00 ",$0.00 
+30091,Town of Blacksburg,Full Reporter,Urban,Funds Applied,$0.00 ,"$7,154.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$7,154.00 ",$0.00 
+30094,City of Harrisonburg,Full Reporter,Urban,Funds Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$438,137.00 ","$438,137.00 ",$0.00 
+30094,City of Harrisonburg,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,605,455.00 ",$0.00 ,$0.00 ,"$1,605,455.00 ",$0.00 
+30095,County of Lebanon Transit Authority,Full Reporter,Urban,Funds Applied,$0.00 ,"$9,274.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$9,274.00 ",$0.00 
+30095,County of Lebanon Transit Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$835,081.00 ",$0.00 ,$0.00 ,"$835,081.00 ",$0.00 
+30096,The Tri-County Council for the Lower Eastern Shore of Maryland,Full Reporter,Urban,Funds Applied,$0.00 ,"$198,254.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$198,254.00 ",$0.00 
+30107,West Virginia University - Morgantown Personal Rapid Transit,Full Reporter,Urban,Funds Applied,"$2,288,861.00 ",$0.00 ,"$118,196.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,407,057.00 ",$0.00 
+30111,Washington County Transportation Authority,Full Reporter,Urban,Funds Applied,$0.00 ,"$158,940.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$158,940.00 ",$0.00 
+30111,Washington County Transportation Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,389,180.00 ",$0.00 ,$0.00 ,"$1,389,180.00 ",$0.00 
+30112,DDOT - Progressive Transportation Services Administration,Full Reporter,Urban,Funds Applied,$0.00 ,$0.00 ,"$866,406.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$866,406.00 ",$0.00 
+30129,Anne Arundel County,Full Reporter,Urban,Funds Applied,$0.00 ,"$476,300.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$476,300.00 ",$0.00 
+30137,Monroe County Transportation  Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,066,866.00 ",$0.00 ,$0.00 ,"$1,066,866.00 ",$0.00 
+30201,City of Baltimore,Full Reporter,Urban,Funds Applied,$0.00 ,"$240,189.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$240,189.00 ",$0.00 
+30202,South Central Transit Authority,Full Reporter,Urban,Funds Applied,$0.00 ,"$223,022.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$223,022.00 ",$0.00 
+30205,"Transit Management of Central Maryland, Inc.",Full Reporter,Urban,Funds Applied,$0.00 ,"$27,573.00 ","$600,000.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$627,573.00 ",$0.00 
+40001,Chattanooga Area Regional Transportation Authority,Full Reporter,Urban,Funds Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,429,496.00 ","$2,429,496.00 ",$0.00 
+40001,Chattanooga Area Regional Transportation Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$3,127,434.00 ","$15,000.00 ",$0.00 ,"$3,142,434.00 ",$0.00 
+40002,City of Knoxville,Full Reporter,Urban,Funds Applied,$0.00 ,"$6,320.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$6,320.00 ",$0.00 
+40003,City of Memphis,Full Reporter,Urban,Funds Applied,$0.00 ,"$71,049.00 ",$0.00 ,$0.00 ,$0.00 ,"$383,956.00 ",$0.00 ,$0.00 ,$0.00 ,"$455,005.00 ",$0.00 
+40003,City of Memphis,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$12,088,450.00 ",$0.00 ,"$1,403,852.00 ","$13,492,302.00 ",$0.00 
+40004,Metropolitan Transit Authority,Full Reporter,Urban,Funds Applied,$0.00 ,"$1,176,420.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,176,420.00 ",$0.00 
+40004,Metropolitan Transit Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$24,670,268.00 ",$0.00 ,$0.00 ,"$24,670,268.00 ",$0.00 
+40005,City of Asheville,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,381,254.00 ",$0.00 ,$0.00 ,"$1,381,254.00 ",$0.00 
+40006,Cape Fear Public Transportation Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,800,551.00 ",$0.00 ,$0.00 ,"$1,800,551.00 ",$0.00 
+40007,City of Raleigh,Full Reporter,Urban,Funds Applied,$0.00 ,"$384,545.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$384,545.00 ",$0.00 
+40007,City of Raleigh,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$8,471,925.00 ",$0.00 ,$0.00 ,"$8,471,925.00 ",$0.00 
+40008,City of Charlotte North Carolina,Full Reporter,Urban,Funds Applied,"$11,627,727.00 ","$362,676.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,295,779.00 ","$13,286,182.00 ",$0.00 
+40008,City of Charlotte North Carolina,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$60,297,000.00 ",$0.00 ,"$192,139.00 ","$60,489,139.00 ",$0.00 
+40009,City of Fayetteville,Full Reporter,Urban,Funds Applied,$0.00 ,"$10,948.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$10,948.00 ",$0.00 
+40009,City of Fayetteville,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,529,795.00 ",$0.00 ,"$117,178.00 ","$1,646,973.00 ",$0.00 
+40012,City of Winston Salem,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$3,009,549.00 ",$0.00 ,$0.00 ,"$3,009,549.00 ",$0.00 
+40014,Ms Coast Transportation Authority,Full Reporter,Urban,Funds Applied,$0.00 ,"$229,600.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$29,260.00 ","$258,860.00 ",$0.00 
+40014,Ms Coast Transportation Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,430,000.00 ",$0.00 ,"$42,000.00 ","$1,472,000.00 ",$0.00 
+40015,"City of Jackson, MS",Full Reporter,Urban,Funds Applied,$0.00 ,"$5,230.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$5,230.00 ",$0.00 
+40015,"City of Jackson, MS",Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,650,125.00 ",$0.00 ,$0.00 ,"$1,650,125.00 ",$0.00 
+40017,Lexington Transit Authority,Full Reporter,Urban,Funds Applied,$0.00 ,"$222,022.00 ",$0.00 ,"$208,704.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$430,726.00 ",$0.00 
+40017,Lexington Transit Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$3,029,140.00 ",$0.00 ,$0.00 ,"$3,029,140.00 ",$0.00 
+40018,Transit Authority of River City,Full Reporter,Urban,Funds Applied,"$7,858.00 ","$811,382.00 ","$140,841.00 ",$0.00 ,$0.00 ,"$151,075.00 ",$0.00 ,$0.00 ,$0.00 ,"$1,111,156.00 ",$0.00 
+40018,Transit Authority of River City,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$11,961,040.00 ",$0.00 ,$0.00 ,"$11,961,040.00 ",$0.00 
+40019,Transit Authority of Northern Kentucky,Full Reporter,Urban,Funds Applied,$0.00 ,"$22,218.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$924,519.00 ","$946,737.00 ",$0.00 
+40019,Transit Authority of Northern Kentucky,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$5,421,871.00 ",$0.00 ,$0.00 ,"$5,421,871.00 ",$0.00 
+40021,City of Albany ,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$930,911.00 ",$0.00 ,$0.00 ,"$930,911.00 ",$0.00 
+40022,Metropolitan Atlanta Rapid Transit Authority,Full Reporter,Urban,Funds Applied,"$77,362,428.00 ","$78,654.00 ",$0.00 ,$0.00 ,$0.00 ,"$4,733,897.00 ",$0.00 ,$0.00 ,"$20,279,883.00 ","$102,454,862.00 ",$0.00 
+40022,Metropolitan Atlanta Rapid Transit Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$251,704,398.00 ","($5,454,500.00)",$0.00 ,"$246,249,898.00 ",$0.00 
+40025,Chatham Area Transit Authority,Full Reporter,Urban,Funds Applied,"$178,907.00 ","$6,420.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$185,327.00 ",$0.00 
+40025,Chatham Area Transit Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$5,624,575.00 ",$0.00 ,$0.00 ,"$5,624,575.00 ",$0.00 
+40026,Manatee County Board of County Commissioners,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$3,198,736.00 ",$0.00 ,"$953,975.00 ","$4,152,711.00 ",$0.00 
+40027,Pinellas Suncoast Transit Authority,Full Reporter,Urban,Funds Applied,$0.00 ,"$1,457,662.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$3,305,898.00 ","$4,763,560.00 ",$0.00 
+40027,Pinellas Suncoast Transit Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$9,354,510.00 ",$0.00 ,$0.00 ,"$9,354,510.00 ",$0.00 
+40028,Lee County Transit,Full Reporter,Urban,Funds Applied,$0.00 ,"$129,265.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$129,265.00 ",$0.00 
+40029,Broward County Board of County Commissioners,Full Reporter,Urban,Funds Applied,$0.00 ,"$1,134,303.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,134,303.00 ",$0.00 
+40029,Broward County Board of County Commissioners,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$51,859,918.00 ",$0.00 ,$0.00 ,"$51,859,918.00 ",$0.00 
+40030,"City of Gainesville, FL",Full Reporter,Urban,Funds Applied,$0.00 ,"$133,889.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,573,797.00 ","$2,707,686.00 ",$0.00 
+40030,"City of Gainesville, FL",Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$5,691,753.00 ",$0.00 ,$0.00 ,"$5,691,753.00 ",$0.00 
+40031,Lakeland Area Mass Transit District ,Full Reporter,Urban,Funds Applied,"$28,823.00 ","$273,912.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$302,735.00 ",$0.00 
+40031,Lakeland Area Mass Transit District ,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,827,453.00 ",$0.00 ,$0.00 ,"$1,827,453.00 ",$0.00 
+40032,County of Volusia,Full Reporter,Urban,Funds Applied,$0.00 ,"$164,135.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$164,135.00 ",$0.00 
+40032,County of Volusia,Full Reporter,Urban,Funds Not Applied,$0.00 ,"$102,000.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$4,727,725.00 ",$0.00 ,$0.00 ,"$4,829,725.00 ",$0.00 
+40034,County of Miami-Dade ,Full Reporter,Urban,Funds Applied,"$58,276,898.00 ","$3,712,638.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$4,795,907.00 ","$66,785,443.00 ",$0.00 
+40034,County of Miami-Dade ,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$103,817,526.00 ",$0.00 ,"$8,336,493.00 ","$112,154,019.00 ",$0.00 
+40035,Central Florida Regional Transportation Authority,Full Reporter,Urban,Funds Applied,"$67,285.00 ","$262,678.00 ","$2,043,721.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$30,477,486.00 ","$32,851,170.00 ",$0.00 
+40035,Central Florida Regional Transportation Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$25,524,482.00 ",$0.00 ,$0.00 ,"$25,524,482.00 ",$0.00 
+40036,City of Tallahassee,Full Reporter,Urban,Funds Applied,"$190,561.00 ","$56,186.00 ","$254,798.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,188,034.00 ","$1,689,579.00 ",$0.00 
+40037,"Board of County Commissioners, Palm Beach County",Full Reporter,Urban,Funds Applied,$0.00 ,"$1,023,026.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$38,000.00 ","$1,061,026.00 ",$0.00 
+40037,"Board of County Commissioners, Palm Beach County",Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$209,997.00 ","$209,997.00 ",$0.00 
+40040,Jacksonville Transportation Authority,Full Reporter,Urban,Funds Applied,$0.00 ,"$118,125.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$118,125.00 ",$0.00 
+40040,Jacksonville Transportation Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$17,557,797.00 ",$0.00 ,$0.00 ,"$17,557,797.00 ",$0.00 
+40041,Hillsborough Area Regional Transit Authority,Full Reporter,Urban,Funds Applied,$0.00 ,"$326,034.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$35,300.00 ","$361,334.00 ",$0.00 
+40041,Hillsborough Area Regional Transit Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$12,081,819.00 ",$0.00 ,"$220,285,461.00 ","$232,367,280.00 ",$0.00 
+40042,Birmingham-Jefferson County Transit Authority,Full Reporter,Urban,Funds Applied,$0.00 ,"$73,152.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$73,152.00 ",$0.00 
+40042,Birmingham-Jefferson County Transit Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$4,952,460.00 ",$0.00 ,$0.00 ,"$4,952,460.00 ",$0.00 
+40043,City of Mobile,Full Reporter,Urban,Funds Applied,$0.00 ,"$89,369.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$89,369.00 ",$0.00 
+40043,City of Mobile,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,862,089.00 ",$0.00 ,$0.00 ,"$1,862,089.00 ",$0.00 
+40046,Sarasota County ,Full Reporter,Urban,Funds Applied,$0.00 ,"$701,971.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$701,971.00 ",$0.00 
+40046,Sarasota County ,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$5,452,658.00 ",$0.00 ,$0.00 ,"$5,452,658.00 ",$0.00 
+40047,Athens-Clarke County Unified Government,Full Reporter,Urban,Funds Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$217,044.00 ",$0.00 ,$0.00 ,$0.00 ,"$217,044.00 ",$0.00 
+40047,Athens-Clarke County Unified Government,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$4,402,600.00 ",$0.00 ,$0.00 ,"$4,402,600.00 ",$0.00 
+40051,Town of Chapel Hill,Full Reporter,Urban,Funds Applied,$0.00 ,"$736,764.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$736,764.00 ",$0.00 
+40051,Town of Chapel Hill,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$4,216,474.00 ",$0.00 ,$0.00 ,"$4,216,474.00 ",$0.00 
+40053,Greenville Transit Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,822,323.00 ",$0.00 ,"($1,870,696.00)","($48,373.00)",$0.00 
+40057,Jackson Transit Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$563,675.00 ",$0.00 ,$0.00 ,"$563,675.00 ",$0.00 
+40058,City of Rome ,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$405,231.00 ",$0.00 ,$0.00 ,"$405,231.00 ",$0.00 
+40063,Brevard Board of County Commissioners,Full Reporter,Urban,Funds Applied,$0.00 ,"$47,250.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$47,250.00 ",$0.00 
+40063,Brevard Board of County Commissioners,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,758,556.00 ",$0.00 ,$0.00 ,"$1,758,556.00 ",$0.00 
+40068,Northwest Alabama Council of Local Governments,Full Reporter,Urban,Funds Applied,$0.00 ,"$50,800.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$50,800.00 ",$0.00 
+40074,Pasco County Board of County Commissioners,Full Reporter,Urban,Funds Applied,$0.00 ,"$20,775.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$20,775.00 ",$0.00 
+40077,South Florida Regional Transportation Authority,Full Reporter,Urban,Funds Applied,$0.00 ,"$354,709.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,667,890.00 ","$2,022,599.00 ",$0.00 
+40078,Cobb County,Full Reporter,Urban,Funds Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$385,861.00 ","$385,861.00 ",$0.00 
+40078,Cobb County,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$5,134,347.00 ",$0.00 ,$0.00 ,"$5,134,347.00 ",$0.00 
+40086,Metropolitan Bus Authority,Full Reporter,Urban,Funds Applied,"$25,200.00 ","$22,425.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$13,236,089.00 ","$13,283,714.00 ",$0.00 
+40086,Metropolitan Bus Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$3,960,000.00 ",$0.00 ,$0.00 ,"$3,960,000.00 ",$0.00 
+40087,City of Durham,Full Reporter,Urban,Funds Applied,"$417,126.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$4,660,116.00 ","$5,077,242.00 ",$0.00 
+40093,City of Greensboro ,Full Reporter,Urban,Funds Applied,$0.00 ,"$75,504.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$75,504.00 ",$0.00 
+40093,City of Greensboro ,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,816,454.00 ","$19,768.00 ","$237,449.00 ","$2,073,671.00 ",$0.00 
+40094,Alternativa de Transporte Integrado -ATI,Full Reporter,Urban,Funds Applied,$0.00 ,"$257,240.00 ",$0.00 ,$0.00 ,$0.00 ,"$1,555,768.00 ",$0.00 ,$0.00 ,$0.00 ,"$1,813,008.00 ",$355.00 
+40104,Indian River County,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$475,985.00 ",$0.00 ,$0.00 ,"$475,985.00 ",$0.00 
+40105,Puerto Rico Highway and Transportation Authority â€“ PÃºblico,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$105,447.00 ",$0.00 ,$0.00 ,"$105,447.00 ",$0.00 
+40108,Research Triangle Regional Public Transportation Authority,Full Reporter,Urban,Funds Applied,$0.00 ,"$263,375.00 ",$0.00 ,$0.00 ,$0.00 ,"$39,462.00 ",$0.00 ,$0.00 ,$0.00 ,"$302,837.00 ",$0.00 
+40108,Research Triangle Regional Public Transportation Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,597,742.00 ",$0.00 ,"$64,788,932.00 ","$67,386,674.00 ",$0.00 
+40110,Charleston Area Regional Transportation Authority,Full Reporter,Urban,Funds Applied,"$56,208.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$56,208.00 ",$0.00 
+40110,Charleston Area Regional Transportation Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$4,238,887.00 ",$0.00 ,$0.00 ,"$4,238,887.00 ",$0.00 
+40128,Okaloosa County Board of County Commissioners,Full Reporter,Urban,Funds Applied,$0.00 ,$64.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$64.00 ,$0.00 
+40129,Charlotte County Government,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$51,793.00 ","$51,793.00 ",$0.00 
+40138,Gwinnett County Board of Commissioners,Full Reporter,Urban,Funds Applied,$0.00 ,"$473,668.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$473,668.00 ",$0.00 
+40138,Gwinnett County Board of Commissioners,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,434,383.00 ",$0.00 ,"$9,129,181.00 ","$11,563,564.00 ",$0.00 
+40140,Collier County,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,161,842.00 ",$0.00 ,$0.00 ,"$2,161,842.00 ",$0.00 
+40141,Central Midlands Regional Transportation Authority,Full Reporter,Urban,Funds Applied,"$1,137.00 ","$110,029.00 ","$5,787.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$116,953.00 ",$0.00 
+40141,Central Midlands Regional Transportation Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$3,418,850.00 ",$0.00 ,$0.00 ,"$3,418,850.00 ",$0.00 
+40147,North Carolina State University,Full Reporter,Urban,Funds Applied,$0.00 ,"$4,264,437.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$4,264,437.00 ",$0.00 
+40158,Lake County Board of County Commissioners,Full Reporter,Urban,Funds Applied,$0.00 ,"$120,834.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$120,834.00 ",$0.00 
+40159,Regional Transportation Authority,Full Reporter,Urban,Funds Applied,$0.00 ,"$374,649.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$374,649.00 ",$0.00 
+40159,Regional Transportation Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$3,689,041.00 ",$0.00 ,$0.00 ,"$3,689,041.00 ",$0.00 
+40169,Regional Planning Commission of Greater Birmingham,Full Reporter,Urban,Funds Applied,$0.00 ,"$136,789.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$136,789.00 ",$0.00 
+40172,Western Piedmont Regional Transit Authority ,Full Reporter,Urban,Funds Applied,$0.00 ,"$104,989.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$104,989.00 ",$0.00 
+40172,Western Piedmont Regional Transit Authority ,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,752,706.00 ",$0.00 ,"$129,424.00 ","$2,882,130.00 ",$0.00 
+40173,Piedmont Authority for Regional Transportation,Full Reporter,Urban,Funds Applied,$0.00 ,"$14,832.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$14,832.00 ",$0.00 
+40173,Piedmont Authority for Regional Transportation,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,890,554.00 ",$0.00 ,$0.00 ,"$1,890,554.00 ",$0.00 
+40175,Puerto Rico Maritime Transport Authority ,Full Reporter,Urban,Funds Applied,$0.00 ,"$4,553,742.00 ",$0.00 ,"$368,745.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$4,922,487.00 ",$0.00 
+40175,Puerto Rico Maritime Transport Authority ,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$798,086.00 ",$0.00 ,$0.00 ,"$798,086.00 ",$0.00 
+40178,The Transportation Management Association Group,Full Reporter,Urban,Funds Applied,$0.00 ,"$32,196.00 ",$0.00 ,$0.00 ,$0.00 ,$847.00 ,$0.00 ,$0.00 ,"$569,960.00 ","$603,003.00 ",$0.00 
+40191,Transit Authority of Central Kentucky,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$577,730.00 ",$0.00 ,$0.00 ,"$577,730.00 ",$0.00 
+40192,Martin County,Full Reporter,Urban,Funds Applied,$0.00 ,"$103,452.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$103,452.00 ",$0.00 
+40196,Kentuckiana Regional Planning and Development Agency,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$56,087.00 ",$0.00 ,$0.00 ,"$56,087.00 ",$0.00 
+40200,Tampa Bay Area Regional Transit Authority,Full Reporter,Urban,Funds Applied,$0.00 ,"$1,217,512.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,217,512.00 ",$0.00 
+40200,Tampa Bay Area Regional Transit Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,134.00 ",$0.00 ,$0.00 ,"$1,134.00 ",$0.00 
+40208,City of Clemson,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,228,170.00 ",$0.00 ,$0.00 ,"$1,228,170.00 ",$0.00 
+40222,Wake County,Full Reporter,Urban,Funds Applied,$0.00 ,"$178,486.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$178,486.00 ",$0.00 
+40224,Buncombe County,Full Reporter,Urban,Funds Applied,$0.00 ,"$52,970.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$52,970.00 ","$17,890.00 "
+40228,Mecklenburg County ,Full Reporter,Urban,Funds Applied,$0.00 ,"$2,880,129.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$424,749.00 ","$3,304,878.00 ",$0.00 
+40232,Central Florida Commuter Rail,Full Reporter,Urban,Funds Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,372,057.00 ","$1,372,057.00 ",$0.00 
+41105,"Audubon Area Community Services, Inc.",Full Reporter,Urban,Funds Applied,$0.00 ,"$17,438.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$17,438.00 ",$0.00 
+41199,Board of County Commissioners of St. Lucie County,Full Reporter,Urban,Funds Applied,$0.00 ,"$224,889.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$224,889.00 ",$0.00 
+42000,Atlanta-Region Transit Link Authority,Full Reporter,Urban,Funds Applied,$0.00 ,"$3,042,497.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$3,042,497.00 ",$0.00 
+44929,City of Fort Lauderdale,Full Reporter,Urban,Funds Applied,$0.00 ,"$18,683.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$18,683.00 ",$0.00 
+50001,City of Appleton,Full Reporter,Urban,Funds Applied,$0.00 ,"$523,268.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$523,268.00 ",$0.00 
+50001,City of Appleton,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,465,735.00 ",$0.00 ,$0.00 ,"$1,465,735.00 ",$0.00 
+50002,City of Green Bay,Full Reporter,Urban,Funds Applied,"$4,604.00 ","$221,550.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$226,154.00 ",$0.00 
+50002,City of Green Bay,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,382,007.00 ",$0.00 ,$0.00 ,"$1,382,007.00 ",$0.00 
+50003,City of Kenosha,Full Reporter,Urban,Funds Applied,$0.00 ,"$163,522.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$163,522.00 ",$0.00 
+50003,City of Kenosha,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,240,217.00 ",$0.00 ,$0.00 ,"$1,240,217.00 ",$0.00 
+50004,City of La Crosse,Full Reporter,Urban,Funds Applied,$0.00 ,"$123,927.00 ",$0.00 ,$1.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"($4,218.00)","$119,710.00 ",$0.00 
+50004,City of La Crosse,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$831,719.00 ",$0.00 ,$0.00 ,"$831,719.00 ",$0.00 
+50005,City of Madison,Full Reporter,Urban,Funds Applied,"$275,009.00 ","$530,094.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,589,545.00 ","$2,394,648.00 ",$0.00 
+50005,City of Madison,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$7,578,159.00 ",$0.00 ,$0.00 ,"$7,578,159.00 ",$0.00 
+50006,"City of Racine, Wisconsin",Full Reporter,Urban,Funds Applied,$0.00 ,"$261,591.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$261,591.00 ",$0.00 
+50006,"City of Racine, Wisconsin",Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,742,611.00 ",$0.00 ,$0.00 ,"$1,742,611.00 ",$0.00 
+50008,Milwaukee County,Full Reporter,Urban,Funds Applied,"$949,623.00 ","$888,304.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,837,927.00 ",$0.00 
+50008,Milwaukee County,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$4,687,994.00 ",$0.00 ,$0.00 ,"$4,687,994.00 ",$0.00 
+50010,METRO Regional Transit Authority ,Full Reporter,Urban,Funds Applied,$409.00 ,"$321,042.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$366,435.00 ","$687,886.00 ",$0.00 
+50010,METRO Regional Transit Authority ,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$9,588,466.00 ",$0.00 ,$0.00 ,"$9,588,466.00 ",$0.00 
+50011,Stark Area Regional Transit Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$3,628,540.00 ","$22,308.00 ","$780,786.00 ","$4,431,634.00 ",$0.00 
+50012,Southwest Ohio Regional Transit Authority,Full Reporter,Urban,Funds Applied,$0.00 ,"$556,334.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$556,334.00 ",$0.00 
+50012,Southwest Ohio Regional Transit Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$15,467,167.00 ",$0.00 ,"($20,705,155.00)","($5,237,988.00)",$0.00 
+50015,The Greater Cleveland Regional Transit Authority,Full Reporter,Urban,Funds Applied,"$885,953.00 ","$806,792.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,692,745.00 ",$0.00 
+50015,The Greater Cleveland Regional Transit Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$40,232,135.00 ",$0.00 ,"($43,645,588.00)","($3,413,453.00)",$0.00 
+50016,Central Ohio Transit Authority,Full Reporter,Urban,Funds Applied,$0.00 ,"$121,540.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$11,173,161.00 ","$11,294,701.00 ",$0.00 
+50016,Central Ohio Transit Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$35,395,027.00 ","$416,416.00 ",$0.00 ,"$35,811,443.00 ",$0.00 
+50017,Greater Dayton Regional Transit Authority,Full Reporter,Urban,Funds Applied,$0.00 ,"$16,228.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$880,845.00 ","$897,073.00 ",$0.00 
+50017,Greater Dayton Regional Transit Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$16,845,157.00 ",$0.00 ,"$3,036,650.00 ","$19,881,807.00 ",$0.00 
+50021,Portage Area Regional Transportation Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$3,476,415.00 ",$0.00 ,$0.00 ,"$3,476,415.00 ",$0.00 
+50022,Toledo Area Regional Transit Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,397,661.00 ",$0.00 ,"($6,477,889.00)","($4,080,228.00)",$0.00 
+50024,Western Reserve Transit Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$3,100,642.00 ",$0.00 ,$0.00 ,"$3,100,642.00 ",$0.00 
+50025,Duluth Transit Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$6,331,188.00 ",$0.00 ,$0.00 ,"$6,331,188.00 ","$239,494.00 "
+50026,City of Moorhead,Full Reporter,Urban,Funds Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$3,414.00 ","$3,414.00 ",$0.00 
+50027,Metro Transit ,Full Reporter,Urban,Funds Applied,$0.00 ,"$1,299,356.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,299,356.00 ",$0.00 
+50027,Metro Transit ,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$131,418,918.00 ",$0.00 ,$0.00 ,"$131,418,918.00 ",$0.00 
+50028,St. Cloud Metropolitan Transit Commission,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$3,245,813.00 ",$0.00 ,$0.00 ,"$3,245,813.00 ",$0.00 
+50029,Bay Metropolitan Transit Authority,Full Reporter,Urban,Funds Applied,$0.00 ,"$6,138.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$6,138.00 ","$2,068.00 "
+50029,Bay Metropolitan Transit Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,023,465.00 ",$0.00 ,$0.00 ,"$1,023,465.00 ",$0.00 
+50031,Suburban Mobility Authority for Regional Transportation,Full Reporter,Urban,Funds Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$20,884,226.00 ","$20,884,226.00 ",$0.00 
+50031,Suburban Mobility Authority for Regional Transportation,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$22,062,034.00 ",$0.00 ,$0.00 ,"$22,062,034.00 ",$0.00 
+50032,Mass Transportation Authority ,Full Reporter,Urban,Funds Applied,"$24,463.00 ","$12,333.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$690,763.00 ","$727,559.00 ",$0.00 
+50032,Mass Transportation Authority ,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$8,476,329.00 ",$0.00 ,$0.00 ,"$8,476,329.00 ",$0.00 
+50033,Interurban Transit Partnership,Full Reporter,Urban,Funds Applied,$0.00 ,"$313,777.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$313,777.00 ",$0.00 
+50033,Interurban Transit Partnership,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$16,234,357.00 ",$0.00 ,"$664,673.00 ","$16,899,030.00 ",$0.00 
+50034,City of Jackson Transportation Authority,Full Reporter,Urban,Funds Applied,$0.00 ,$810.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$267,781.00 ","$268,591.00 ",$794.00 
+50034,City of Jackson Transportation Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$468,402.00 ",$0.00 ,"$229,543.00 ","$697,945.00 ",$0.00 
+50035,Central County Transportation Authority,Full Reporter,Urban,Funds Applied,"$164,251.00 ","$10,140.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$725,529.00 ","$899,920.00 ","$134,988.00 "
+50035,Central County Transportation Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$3,301,798.00 ",$0.00 ,"($9,937,454.00)","($6,635,656.00)","($995,348.00)"
+50036,Capital Area Transportation Authority,Full Reporter,Urban,Funds Applied,$0.00 ,"$1,253,363.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$3,342.00 ","$1,256,705.00 ",$0.00 
+50036,Capital Area Transportation Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$6,802,042.00 ",$0.00 ,"$1,325,332.00 ","$8,127,374.00 ",$0.00 
+50039,Saginaw Transit Authority Regional Service,Full Reporter,Urban,Funds Applied,"$10,563.00 ","$127,697.00 ","$4,107.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$142,367.00 ",$0.00 
+50039,Saginaw Transit Authority Regional Service,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$949,060.00 ",$0.00 ,$0.00 ,"$949,060.00 ",$0.00 
+50040,Ann Arbor Area Transportation Authority,Full Reporter,Urban,Funds Applied,$0.00 ,"$1,016,080.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,016,080.00 ",$0.00 
+50040,Ann Arbor Area Transportation Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$6,471,482.00 ",$0.00 ,$0.00 ,"$6,471,482.00 ",$0.00 
+50044,Fort Wayne Public Transportation Corporation,Full Reporter,Urban,Funds Applied,$0.00 ,"$55,429.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$55,429.00 ",$0.00 
+50044,Fort Wayne Public Transportation Corporation,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,771,351.00 ",$0.00 ,$0.00 ,"$1,771,351.00 ",$0.00 
+50047,Bloomington-Normal Public Transit System,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,283,913.00 ",$0.00 ,$0.00 ,"$2,283,913.00 ",$0.00 
+50050,Indianapolis and Marion County Public Transportation,Full Reporter,Urban,Funds Applied,"$2,894,838.00 ","$108,931.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$3,003,769.00 ",$0.00 
+50050,Indianapolis and Marion County Public Transportation,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$18,529,872.00 ",$0.00 ,$0.00 ,"$18,529,872.00 ",$0.00 
+50051,Greater Lafayette Public Transportation Corporation,Full Reporter,Urban,Funds Applied,"$28,567.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$28,567.00 ",$0.00 
+50051,Greater Lafayette Public Transportation Corporation,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$3,508,838.00 ",$0.00 ,$0.00 ,"$3,508,838.00 ",$0.00 
+50052,South Bend Public Transportation Corporation,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$3,180,750.00 ",$0.00 ,$0.00 ,"$3,180,750.00 ",$0.00 
+50054,Muncie Indiana Transit System,Full Reporter,Urban,Funds Applied,$397.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$397.00 ,$0.00 
+50054,Muncie Indiana Transit System,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,590,229.00 ",$0.00 ,$0.00 ,"$1,590,229.00 ",$0.00 
+50056,Greater Peoria Mass Transit District,Full Reporter,Urban,Funds Applied,$0.00 ,"$218,741.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$218,741.00 ",$0.00 
+50056,Greater Peoria Mass Transit District,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$3,409,939.00 ",$0.00 ,$0.00 ,"$3,409,939.00 ",$0.00 
+50057,Rock Island County Metropolitan Mass Transit District,Full Reporter,Urban,Funds Applied,"$21,520.00 ","$212,190.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$233,710.00 ",$0.00 
+50057,Rock Island County Metropolitan Mass Transit District,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$4,863,475.00 ",$0.00 ,$0.00 ,"$4,863,475.00 ",$0.00 
+50058,Rockford Mass Transit District,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,159,598.00 ",$0.00 ,$0.00 ,"$2,159,598.00 ",$0.00 
+50059,Springfield Mass Transit District,Full Reporter,Urban,Funds Applied,$0.00 ,"$3,833.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"($2,424,456.00)","($2,420,623.00)",$0.00 
+50059,Springfield Mass Transit District,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$3,275,400.00 ",$0.00 ,$0.00 ,"$3,275,400.00 ",$0.00 
+50060,Champaign-Urbana Mass Transit District,Full Reporter,Urban,Funds Applied,"$50,614.00 ","$607,457.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"($5,284,517.00)","($4,626,446.00)","$169,144.00 "
+50060,Champaign-Urbana Mass Transit District,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$7,724,796.00 ",$0.00 ,$0.00 ,"$7,724,796.00 ",$0.00 
+50061,"City of Decatur, Il",Full Reporter,Urban,Funds Applied,"$3,900.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$3,900.00 ",$0.00 
+50061,"City of Decatur, Il",Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$390,000.00 ",$0.00 ,"$72,000.00 ","$462,000.00 ",$0.00 
+50066,Chicago Transit Authority,Full Reporter,Urban,Funds Applied,"$70,318,018.00 ","$3,797,248.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$111,761,000.00 ","$185,876,266.00 ",$0.00 
+50066,Chicago Transit Authority,Full Reporter,Urban,Funds Not Applied,"$129,517,824.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$740,289,854.00 ",$0.00 ,"($111,761,000.00)","$758,046,678.00 ",$0.00 
+50092,"City of Rochester, Minnesota",Full Reporter,Urban,Funds Applied,$0.00 ,"$279,129.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$279,129.00 ",$0.00 
+50092,"City of Rochester, Minnesota",Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,560,239.00 ",$0.00 ,$0.00 ,"$1,560,239.00 ",$0.00 
+50096,City of Waukesha ,Full Reporter,Urban,Funds Applied,$0.00 ,"$240,039.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$240,039.00 ",$0.00 
+50099,City of Eau Claire,Full Reporter,Urban,Funds Applied,$0.00 ,"$59,908.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$59,908.00 ","$59,908.00 "
+50104,Northern Indiana Commuter Transportation District,Full Reporter,Urban,Funds Applied,"$2,957,344.00 ","$29,057.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,986,401.00 ",$0.00 
+50104,Northern Indiana Commuter Transportation District,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$31,354,613.00 ",$0.00 ,$0.00 ,"$31,354,613.00 ",$0.00 
+50110,Bloomington Public Transportation Corporation,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,551,098.00 ",$0.00 ,"($164,582.00)","$1,386,516.00 ",$0.00 
+50113,Pace - Suburban Bus Division,Full Reporter,Urban,Funds Applied,"$120,815.00 ","$870,571.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"($2,858,119.00)","($1,866,733.00)",$0.00 
+50113,Pace - Suburban Bus Division,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$50,044,345.00 ","$760,604.00 ",$0.00 ,"$50,804,949.00 ",$0.00 
+50117,Laketran,Full Reporter,Urban,Funds Applied,$0.00 ,"$410,309.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$410,309.00 ",$0.00 
+50117,Laketran,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$5,743,903.00 ",$0.00 ,"$3,114,034.00 ","$8,857,937.00 ",$0.00 
+50118,Northeast Illinois Regional Commuter Railroad Corporation,Full Reporter,Urban,Funds Applied,$0.00 ,"$18,188,606.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$3,810,738.00 ","$21,999,344.00 ",$0.00 
+50118,Northeast Illinois Regional Commuter Railroad Corporation,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$226,442,297.00 ","$1,418,655.00 ",$0.00 ,"$227,860,952.00 ",$0.00 
+50119,City of Detroit ,Full Reporter,Urban,Funds Applied,$0.00 ,"$2,844,327.00 ",$0.00 ,$0.00 ,$0.00 ,"$2,615,556.00 ",$0.00 ,$0.00 ,"$13,064,002.00 ","$18,523,885.00 ",$0.00 
+50119,City of Detroit ,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$15,447,848.00 ",$0.00 ,$0.00 ,"$15,447,848.00 ",$0.00 
+50141,Detroit Transportation Corporation,Full Reporter,Urban,Funds Applied,"$90,132.00 ","$366,225.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$456,357.00 ",$0.00 
+50141,Detroit Transportation Corporation,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,097,865.00 ",$0.00 ,$0.00 ,"$2,097,865.00 ",$0.00 
+50146,Madison County Transit District,Full Reporter,Urban,Funds Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$80,260.00 ","$80,260.00 ",$0.00 
+50148,Blue Water Area Transportation Commission,Full Reporter,Urban,Funds Applied,$0.00 ,"$280,559.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$280,559.00 ",$0.00 
+50148,Blue Water Area Transportation Commission,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$3,422,120.00 ",$0.00 ,$0.00 ,"$3,422,120.00 ",$0.00 
+50149,Michiana Area Council of Governments,Full Reporter,Urban,Funds Applied,$0.00 ,"$36,000.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$36,000.00 ",$0.00 
+50154,Metropolitan Council,Full Reporter,Urban,Funds Applied,$0.00 ,"$3,028,846.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$3,028,846.00 ","$1,203,705.00 "
+50157,Butler County Regional Transit Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,482,650.00 ",$0.00 ,"($1,208,292.00)","$274,358.00 ",$0.00 
+50158,University of Michigan Parking and Transportation Services,Full Reporter,Urban,Funds Applied,$0.00 ,"$106,330.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$106,330.00 ",$0.00 
+50159,River Valley Metro Mass Transit District,Full Reporter,Urban,Funds Applied,"$31,671.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$266,409.00 ","$298,080.00 ",$0.00 
+50159,River Valley Metro Mass Transit District,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$333,674.00 ",$0.00 ,$0.00 ,"$333,674.00 ",$0.00 
+50160,County of Washington,Full Reporter,Urban,Funds Applied,$0.00 ,"$193,291.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$193,291.00 ",$0.00 
+50161,Ozaukee County ,Full Reporter,Urban,Funds Applied,$0.00 ,"$80,835.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$80,835.00 ",$0.00 
+50163,"Licking County, Ohio",Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$214,641.00 ",$0.00 ,$0.00 ,"$214,641.00 ",$0.00 
+50165,Greene County Transit Board,Full Reporter,Urban,Funds Applied,$0.00 ,"$118,785.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$118,785.00 ",$0.00 
+50165,Greene County Transit Board,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$405,307.00 ",$0.00 ,"($156,003.00)","$249,304.00 ",$0.00 
+50166,Board of  Clermont County Commissioners,Full Reporter,Urban,Funds Applied,$0.00 ,"$123,727.00 ","$78,183.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$201,910.00 ",$0.00 
+50176,City of DeKalb,Full Reporter,Urban,Funds Applied,$0.00 ,"$511,350.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$511,350.00 ",$0.00 
+50182,"Pace-Suburban Bus Division, ADA Paratransit Services",Full Reporter,Urban,Funds Applied,"$17,064.00 ","$9,487,682.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$27,010,839.00 ","$36,515,585.00 ","$36,515,585.00 "
+50182,"Pace-Suburban Bus Division, ADA Paratransit Services",Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,540,750.00 ","$362,544.00 ",$0.00 ,"$1,903,294.00 ","$1,903,294.00 "
+50184,Macatawa Area Express Transportation Authority,Full Reporter,Urban,Funds Applied,"$56,123.00 ",$1.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$56,124.00 ",$0.00 
+50184,Macatawa Area Express Transportation Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$905,137.00 ",$0.00 ,$0.00 ,"$905,137.00 ",$0.00 
+50191,Mid-Ohio Regional Planning Commission,Full Reporter,Urban,Funds Applied,$0.00 ,"$104,969.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$104,969.00 ",$0.00 
+50193,Michigan Department of Transportation,Full Reporter,Urban,Funds Applied,$0.00 ,"$1,190,336.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,190,336.00 ",$0.00 
+50198,Medina County Public Transit,Full Reporter,Urban,Funds Applied,$0.00 ,"$7,348.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$7,348.00 ",$0.00 
+50198,Medina County Public Transit,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$218,735.00 ",$0.00 ,$0.00 ,"$218,735.00 ",$0.00 
+50199,Delaware County Transit Board,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$390,639.00 ",$0.00 ,"($546,632.00)","($155,993.00)",$0.00 
+50204,Jackson County Mass Transit District,Full Reporter,Urban,Funds Applied,$410.00 ,"$19,782.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$20,192.00 ",$0.00 
+50209,Central Indiana Regional Transportation Authority ,Full Reporter,Urban,Funds Applied,$0.00 ,"$345,107.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$345,107.00 ",$0.00 
+50211,Rides Mass Transit District,Full Reporter,Urban,Funds Applied,"$24,997.00 ","$202,579.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$227,576.00 ",$0.00 
+50212,Stateline Mass Transit District,Separate Service,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$127,975.00 ",$0.00 ,$0.00 ,"$127,975.00 ",$0.00 
+50213,M-1 Rail,Full Reporter,Urban,Funds Applied,"$254,312.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$4,574.00 ",$0.00 ,$0.00 ,$0.00 ,"$258,886.00 ",$0.00 
+50213,M-1 Rail,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$5,907,115.00 ","$150,395.00 ",$0.00 ,"$6,057,510.00 ",$0.00 
+50515,University of Minnesota Transit,Full Reporter,Urban,Funds Applied,$0.00 ,"$133,650.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$133,650.00 ",$0.00 
+50516,City of Plymouth,Full Reporter,Urban,Funds Applied,$0.00 ,"$559,447.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$559,447.00 ",$0.00 
+50517,City of Maple Grove,Full Reporter,Urban,Funds Applied,$0.00 ,"$10,484.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$10,484.00 ",$0.00 
+50518,SouthWest Transit,Full Reporter,Urban,Funds Applied,$0.00 ,"$12,153.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$12,153.00 ",$0.00 
+50519,Minnesota Valley Transit Authority,Full Reporter,Urban,Funds Applied,"$44,622.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$664,727.00 ","$709,349.00 ",$0.00 
+50519,Minnesota Valley Transit Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$3,732,234.00 ",$0.00 ,$0.00 ,"$3,732,234.00 ",$0.00 
+50521,Chicago Water Taxi (Wendella),Full Reporter,Urban,Funds Applied,$0.00 ,"$79,000.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$79,000.00 ",$0.00 
+50521,Chicago Water Taxi (Wendella),Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,300.00 ",$0.00 ,$0.00 ,"$2,300.00 ",$0.00 
+50522,Lake Erie Transportation Commission,Full Reporter,Urban,Funds Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$402,961.00 ","$402,961.00 ",$0.00 
+50522,Lake Erie Transportation Commission,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$55,380.00 ",$0.00 ,$0.00 ,"$55,380.00 ",$0.00 
+55312,City of Milwaukee,Full Reporter,Urban,Funds Applied,$0.00 ,"$30,078.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$30,078.00 ",$0.00 
+55312,City of Milwaukee,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$12,044.00 ",$0.00 ,$0.00 ,"$12,044.00 ",$0.00 
+60006,City of El Paso,Full Reporter,Urban,Funds Applied,"$1,479,316.00 ","$213,512.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,639,538.00 ","$3,332,366.00 ",$0.00 
+60006,City of El Paso,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$16,786,882.00 ",$0.00 ,$0.00 ,"$16,786,882.00 ",$0.00 
+60007,Fort Worth Transportation Authority,Full Reporter,Urban,Funds Applied,"$85,701.00 ","$989,840.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,773,027.00 ","$3,848,568.00 ",$0.00 
+60007,Fort Worth Transportation Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$51,488,425.00 ",$0.00 ,"($364,806.00)","$51,123,619.00 ",$0.00 
+60008,"Metropolitan Transit Authority of Harris County, Texas ",Full Reporter,Urban,Funds Applied,"$39,221,964.00 ","$14,298,449.00 ",$0.00 ,$0.00 ,$0.00 ,"$8,666,242.00 ",$0.00 ,$0.00 ,"$8,116,546.00 ","$70,303,201.00 ",$0.00 
+60008,"Metropolitan Transit Authority of Harris County, Texas ",Full Reporter,Urban,Funds Not Applied,"($9,744,346.00)",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$188,376,058.00 ","$160,990.00 ","($4,789,208.00)","$174,003,494.00 ",$0.00 
+60010,City of Lubbock,Full Reporter,Urban,Funds Applied,"$22,208.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$22,208.00 ",$0.00 
+60010,City of Lubbock,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,563,579.00 ",$0.00 ,$0.00 ,"$1,563,579.00 ",$0.00 
+60011,VIA Metropolitan Transit,Full Reporter,Urban,Funds Applied,"$3,500,049.00 ","$3,855,547.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$6,559,147.00 ","$13,914,743.00 ",$0.00 
+60011,VIA Metropolitan Transit,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$40,418,418.00 ",$0.00 ,$0.00 ,"$40,418,418.00 ",$0.00 
+60012,City of Waco,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$730,484.00 ",$0.00 ,$0.00 ,"$730,484.00 ",$0.00 
+60014,City of Brownsville ,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"($1,174,810.00)","$1,677,852.00 ",$0.00 ,$0.00 ,"$503,042.00 ",$0.00 
+60015,City of Galveston ,Full Reporter,Urban,Funds Applied,$0.00 ,"$16,947.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$16,947.00 ",$0.00 
+60017,Central Oklahoma Transportation and Parking Authority,Full Reporter,Urban,Funds Applied,$0.00 ,"$14,701.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$14,701.00 ",$0.00 
+60017,Central Oklahoma Transportation and Parking Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$3,035,857.00 ",$0.00 ,$0.00 ,"$3,035,857.00 ","$165,223.00 "
+60022,Capital Area Transit System,Full Reporter,Urban,Funds Applied,"$28,280.00 ","$722,117.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$89,970.00 ",$0.00 ,"$840,367.00 ",$0.00 
+60022,Capital Area Transit System,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$3,474,656.00 ",$0.00 ,$0.00 ,"$3,474,656.00 ",$0.00 
+60032,New Orleans Regional Transit Authority,Full Reporter,Urban,Funds Applied,"$2,016,174.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,016,174.00 ",$0.00 
+60032,New Orleans Regional Transit Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$21,440,644.00 ",$0.00 ,$0.00 ,"$21,440,644.00 ",$0.00 
+60033,Rock Region Metropolitan Transit Authority,Full Reporter,Urban,Funds Applied,$0.00 ,"$76,766.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$76,766.00 ",$0.00 
+60033,Rock Region Metropolitan Transit Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$18,226.00 ",$0.00 ,$0.00 ,"$18,226.00 ",$0.00 
+60038,Lafayette City-Parish Consolidated Government,Full Reporter,Urban,Funds Applied,$0.00 ,"$166,361.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$166,361.00 ",$0.00 
+60041,City of Arlington,Full Reporter,Urban,Funds Applied,$0.00 ,"$1,822,068.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,822,068.00 ",$0.00 
+60048,Capital Metropolitan Transportation Authority,Full Reporter,Urban,Funds Applied,"$172,881.00 ","$3,066,751.00 ",$0.00 ,$0.00 ,$0.00 ,"$667,926.00 ",$0.00 ,$0.00 ,"$30,727,356.00 ","$34,634,914.00 ","$25,315.00 "
+60048,Capital Metropolitan Transportation Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$51,563,549.00 ",$0.00 ,$0.00 ,"$51,563,549.00 ",$0.00 
+60051,Corpus Christi Regional Transportation Authority,Full Reporter,Urban,Funds Applied,"$530,455.00 ","$155,919.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$497,902.00 ","$1,184,276.00 ",$0.00 
+60051,Corpus Christi Regional Transportation Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$6,986,451.00 ",$0.00 ,"$3,129,527.00 ","$10,115,978.00 ",$0.00 
+60056,Dallas Area Rapid Transit,Full Reporter,Urban,Funds Applied,"$179,930,270.00 ","$1,084,444.00 ","$9,923,021.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$11,089,250.00 ","$202,026,985.00 ",$0.00 
+60056,Dallas Area Rapid Transit,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$255,610,606.00 ",$0.00 ,$0.00 ,"$255,610,606.00 ",$0.00 
+60070,City of Mesquite,Separate Service,Urban,Funds Applied,$0.00 ,"$659,976.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$659,976.00 ",$0.00 
+60088,Jefferson Parish,Full Reporter,Urban,Funds Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,046,832.00 ","$2,046,832.00 ",$0.00 
+60090,Lower Rio Grande Valley Development Council,Full Reporter,Urban,Funds Applied,$0.00 ,"$8,641.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$8,641.00 ",$0.00 
+60091,Hill Country Transit District,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,401,218.00 ",$0.00 ,$0.00 ,"$1,401,218.00 ",$0.00 
+60095,Golden Crescent Regional Planning Commission,Full Reporter,Urban,Funds Applied,$0.00 ,"$104,462.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,288,926.00 ","$1,393,388.00 ",$0.00 
+60101,Denton County Transportation Authority,Full Reporter,Urban,Funds Applied,"$233,827.00 ","$1,354,166.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$66,385.00 ","$1,654,378.00 ",$0.00 
+60101,Denton County Transportation Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$11,351,682.00 ",$0.00 ,$0.00 ,"$11,351,682.00 ",$0.00 
+60103,"Fort Bend County, Texas",Full Reporter,Urban,Funds Applied,$0.00 ,"$39,426.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$39,426.00 ",$0.00 
+60108,Harris County,Full Reporter,Urban,Funds Applied,$0.00 ,"$984,393.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$984,393.00 ",$0.00 
+60111,Rio Metro Regional Transit District,Full Reporter,Urban,Funds Applied,"$109,000.00 ","$285,000.00 ",$0.00 ,"$248,815.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,952,213.00 ","$2,595,028.00 ",$0.00 
+60114,STAR Transit,Full Reporter,Urban,Funds Applied,$0.00 ,"$169,931.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$169,931.00 ",$0.00 
+60114,STAR Transit,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$921,473.00 ",$0.00 ,$0.00 ,"$921,473.00 ",$0.00 
+60130,Alamo Area Council of Governments,Full Reporter,Urban,Funds Applied,$0.00 ,"$169,798.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$169,798.00 ",$0.00 
+60133,McKinney Avenue Transit Authority,Full Reporter,Urban,Funds Applied,$785.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$300.00 ,"$1,085.00 ",$0.00 
+60133,McKinney Avenue Transit Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$68,883.00 ",$0.00 ,"$74,316.00 ","$143,199.00 ",$0.00 
+60134,The Woodlands Township,Full Reporter,Urban,Funds Applied,$0.00 ,"$377,030.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$377,030.00 ",$0.00 
+60134,The Woodlands Township,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,197,006.00 ",$0.00 ,$0.00 ,"$1,197,006.00 ",$0.00 
+60269,Texas State University,Full Reporter,Urban,Funds Applied,$0.00 ,"$1,850,283.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,850,283.00 ",$0.00 
+60270,City of McKinney,Full Reporter,Urban,Funds Applied,$0.00 ,"$110,921.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$110,921.00 ",$0.00 
+66339,New Mexico Department of Transportation,Full Reporter,Urban,Funds Applied,$0.00 ,"$402,262.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$402,262.00 ",$0.00 
+70002,Transit Authority of Omaha,Full Reporter,Urban,Funds Applied,$0.00 ,"$3,400.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$3,400.00 ",$0.00 
+70002,Transit Authority of Omaha,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$13,184,991.00 ",$0.00 ,$0.00 ,"$13,184,991.00 ",$0.00 
+70003,City of Springfield,Full Reporter,Urban,Funds Applied,$0.00 ,"$1,988.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,988.00 ",$0.00 
+70003,City of Springfield,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,169,733.00 ",$0.00 ,$0.00 ,"$2,169,733.00 ",$0.00 
+70005,Kansas City Area Transportation Authority,Full Reporter,Urban,Funds Applied,$0.00 ,"$1,401,647.00 ","$58,834.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,460,481.00 ",$0.00 
+70005,Kansas City Area Transportation Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$14,386,905.00 ",$0.00 ,$0.00 ,"$14,386,905.00 ",$0.00 
+70006,Bi-State Development Agency of the Missouri-Illinois Metropolitan District,Full Reporter,Urban,Funds Applied,"$20,135,164.00 ","$1,425,226.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,673,644.00 ","$24,234,034.00 ",$0.00 
+70006,Bi-State Development Agency of the Missouri-Illinois Metropolitan District,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$84,644,963.00 ",$0.00 ,"$2,322,766.00 ","$86,967,729.00 ",$0.00 
+70008,City of Cedar Rapids,Full Reporter,Urban,Funds Applied,$0.00 ,"$31,500.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$408,554.00 ","$440,054.00 ",$0.00 
+70008,City of Cedar Rapids,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$699,047.00 ",$0.00 ,$0.00 ,"$699,047.00 ",$0.00 
+70010,Des Moines Area Regional Transit Authority,Full Reporter,Urban,Funds Applied,"$137,177.00 ","$54,944.00 ","$707,109.00 ",$0.00 ,$0.00 ,"$194,461.00 ",$0.00 ,$0.00 ,$0.00 ,"$1,093,691.00 ",$0.00 
+70010,Des Moines Area Regional Transit Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$6,615,789.00 ",$0.00 ,"$204,209.00 ","$6,819,998.00 ",$0.00 
+70012,City of Sioux City,Full Reporter,Urban,Funds Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$58,931.00 ","$58,931.00 ","$4,705.00 "
+70014,Topeka Metropolitan Transit Authority,Full Reporter,Urban,Funds Applied,$0.00 ,"$136,337.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$136,337.00 ",$0.00 
+70014,Topeka Metropolitan Transit Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,756,013.00 ",$0.00 ,$0.00 ,"$1,756,013.00 ",$0.00 
+70015,City of Wichita ,Full Reporter,Urban,Funds Applied,"$63,618.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$63,618.00 ",$0.00 
+70015,City of Wichita ,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,741,194.00 ",$0.00 ,$0.00 ,"$2,741,194.00 ",$0.00 
+70016,City of Columbia,Full Reporter,Urban,Funds Applied,$421.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$421.00 ,$0.00 
+70016,City of Columbia,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$762,742.00 ",$0.00 ,"($569,775.00)","$192,967.00 ",$0.00 
+70018,City of Iowa City,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,072,150.00 ",$0.00 ,"($489,935.00)","$582,215.00 ",$0.00 
+70019,University of Iowa,Full Reporter,Urban,Funds Applied,$0.00 ,"$10,148.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$10,148.00 ",$0.00 
+70030,City of Coralville,Full Reporter,Urban,Funds Applied,$0.00 ,"$12,859.00 ",$0.00 ,$0.00 ,$0.00 ,$863.00 ,$0.00 ,$0.00 ,$0.00 ,"$13,722.00 ",$0.00 
+70030,City of Coralville,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$620,110.00 ",$0.00 ,$0.00 ,"$620,110.00 ",$0.00 
+70035,Johnson County Kansas,Full Reporter,Urban,Funds Applied,$0.00 ,"$34,393.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$34,393.00 ",$0.00 
+70041,Ames Transit Agency,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,871,177.00 ",$0.00 ,$0.00 ,"$2,871,177.00 ",$0.00 
+70044,University of Kansas,Full Reporter,Urban,Funds Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$108,544.00 ","$108,544.00 ",$0.00 
+70048,City of Lawrence,Full Reporter,Urban,Funds Applied,$0.00 ,"$157,081.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$157,081.00 ",$0.00 
+70049,River Bend Transit,Full Reporter,Urban,Funds Applied,$0.00 ,"$36,320.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$36,320.00 ",$0.00 
+70049,River Bend Transit,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$789,706.00 ",$0.00 ,$0.00 ,"$789,706.00 ",$0.00 
+70057,Loop Trolley Transportation Development District,Full Reporter,Urban,Funds Applied,$0.00 ,"$5,084.00 ",$0.00 ,$0.00 ,$0.00 ,"$25,000.00 ",$0.00 ,$0.00 ,$0.00 ,"$30,084.00 ",$0.00 
+70066,Heart of Iowa Regional Transit Agency,Full Reporter,Urban,Funds Applied,$0.00 ,"$138,070.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$138,070.00 ",$0.00 
+70066,Heart of Iowa Regional Transit Agency,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$284,323.00 ",$0.00 ,$0.00 ,"$284,323.00 ",$0.00 
+70138,East Central Iowa Council of Governments,Full Reporter,Urban,Funds Applied,$0.00 ,"$509,583.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$509,583.00 ",$0.00 
+70275,Nebraska Department of Transportation ,Full Reporter,Urban,Funds Applied,$0.00 ,"$336,418.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$336,418.00 ",$0.00 
+80001,Utah Transit Authority,Full Reporter,Urban,Funds Applied,"$89,111,389.00 ","$179,127.00 ","$1,599,502.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$90,890,018.00 ",$0.00 
+80001,Utah Transit Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$129,602,113.00 ","$18,815,284.00 ",$0.00 ,"$148,417,397.00 ",$0.00 
+80004,City of Billings,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$180,455.00 ",$0.00 ,$0.00 ,"$180,455.00 ",$0.00 
+80005,City of Colorado Springs,Full Reporter,Urban,Funds Applied,$0.00 ,"$3,205.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$3,205.00 ",$0.00 
+80005,City of Colorado Springs,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$3,991,545.00 ",$0.00 ,$0.00 ,"$3,991,545.00 ",$0.00 
+80006,Denver Regional Transportation District,Full Reporter,Urban,Funds Applied,"$139,136,841.00 ","$4,738,407.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$165,665,494.00 ","$309,540,742.00 ","$1,002,338.00 "
+80006,Denver Regional Transportation District,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$358,206,982.00 ","$310,750.00 ","($139,408,257.00)","$219,109,475.00 ",$0.00 
+80009,Missoula Urban Transportation District,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,037,263.00 ",$0.00 ,$0.00 ,"$2,037,263.00 ",$0.00 
+80011,City of Fort Collins,Full Reporter,Urban,Funds Applied,$0.00 ,"$33,914.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$33,914.00 ",$0.00 
+80011,City of Fort Collins,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$3,194,714.00 ","$3,194,714.00 ",$0.00 
+80012,Great Falls Transit District,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$815,609.00 ",$0.00 ,"$8,371.00 ","$823,980.00 ","$4,421.00 "
+80025,"City of Loveland, Colorado",Full Reporter,Urban,Funds Applied,$0.00 ,"$11,889.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$11,889.00 ",$0.00 
+80025,"City of Loveland, Colorado",Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$246,108.00 ",$0.00 ,$0.00 ,"$246,108.00 ",$0.00 
+80028,Cache Valley Transit District,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,559,683.00 ",$0.00 ,"$71,000.00 ","$1,630,683.00 ",$0.00 
+80106,North Front Range Transportation and Air Quality Planning Council,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$207,551.00 ",$0.00 ,$0.00 ,"$207,551.00 ",$0.00 
+80107,University of Montana,Full Reporter,Urban,Funds Applied,$199.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$199.00 ,$0.00 
+80109,Denver Regional Council of Governments,Full Reporter,Urban,Funds Applied,$0.00 ,"$299,891.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$299,891.00 ",$0.00 
+90001,Regional Transportation Commission of Washoe County,Full Reporter,Urban,Funds Applied,$0.00 ,"$2,196,069.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,196,069.00 ",$0.00 
+90001,Regional Transportation Commission of Washoe County,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$8,649,769.00 ","$16,534.00 ","($2,729,512.00)","$5,936,791.00 ",$0.00 
+90002,City and County of Honolulu,Full Reporter,Urban,Funds Applied,$0.00 ,"$1,694,050.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,694,050.00 ",$0.00 
+90002,City and County of Honolulu,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$21,456,057.00 ",$0.00 ,"$22,092,889.00 ","$43,548,946.00 ",$0.00 
+90003,San Francisco Bay Area Rapid Transit District,Full Reporter,Urban,Funds Applied,"$75,807,985.00 ","$1,088,672.00 ",$0.00 ,$0.00 ,$0.00 ,"$8,514,815.00 ",$0.00 ,$0.00 ,"$127,833,546.00 ","$213,245,018.00 ",$0.00 
+90003,San Francisco Bay Area Rapid Transit District,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$337,539,558.00 ",$0.00 ,"($78,129,336.00)","$259,410,222.00 ",$0.00 
+90004,Golden Empire Transit District,Full Reporter,Urban,Funds Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,191,789.00 ","$2,191,789.00 ",$0.00 
+90006,Santa Cruz Metropolitan Transit District,Full Reporter,Urban,Funds Applied,"$523,059.00 ","$55,823.00 ","$267,172.00 ","$136,671.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$3,504,983.00 ","$4,487,708.00 ","$19,910.00 "
+90006,Santa Cruz Metropolitan Transit District,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$5,421,450.00 ",$0.00 ,"($3,136,463.00)","$2,284,987.00 ","$233,190.00 "
+90008,City of Santa Monica,Full Reporter,Urban,Funds Applied,$0.00 ,"$9,251.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$9,251.00 ",$0.00 
+90008,City of Santa Monica,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$16,432,830.00 ",$0.00 ,"($8,578,018.00)","$7,854,812.00 ",$0.00 
+90009,San Mateo County Transit District,Full Reporter,Urban,Funds Applied,"$8,456,326.00 ","$1,904,223.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"($17,206,805.00)","($6,846,256.00)",$0.00 
+90009,San Mateo County Transit District,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$18,704,427.00 ",$0.00 ,"$4,554,551.00 ","$23,258,978.00 ",$0.00 
+90010,City of Torrance,Full Reporter,Urban,Funds Applied,$0.00 ,"$235,823.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$235,823.00 ",$0.00 
+90010,City of Torrance,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$3,897,647.00 ",$0.00 ,"$331,659.00 ","$4,229,306.00 ",$0.00 
+90012,San Joaquin Regional Transit District,Full Reporter,Urban,Funds Applied,"$219,406.00 ","$783,754.00 ",$0.00 ,$0.00 ,$0.00 ,"$34,235.00 ",$0.00 ,$0.00 ,"$133,322.00 ","$1,170,717.00 ",$0.00 
+90012,San Joaquin Regional Transit District,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$12,522,286.00 ",$0.00 ,$0.00 ,"$12,522,286.00 ",$0.00 
+90013,Santa Clara Valley Transportation Authority,Full Reporter,Urban,Funds Applied,"$3,693,994.00 ","$1,326,278.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$42,052,730.00 ","$47,073,002.00 ",$0.00 
+90013,Santa Clara Valley Transportation Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$85,525,799.00 ",$0.00 ,$0.00 ,"$85,525,799.00 ",$0.00 
+90014,Alameda-Contra Costa Transit District,Full Reporter,Urban,Funds Applied,"$614,247.00 ","$4,599,419.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$6,607,714.00 ","$11,821,380.00 ",$0.00 
+90014,Alameda-Contra Costa Transit District,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$54,128,527.00 ",$0.00 ,$0.00 ,"$54,128,527.00 ",$0.00 
+90015,City and County of San Francisco,Full Reporter,Urban,Funds Applied,"$12,992,307.00 ","$24,374,273.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"($270,402,111.00)","($233,035,531.00)","$3,772,981.00 "
+90015,City and County of San Francisco,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$197,010,733.00 ",$0.00 ,$0.00 ,"$197,010,733.00 ",$0.00 
+90016,"Golden Gate Bridge, Highway and Transportation District",Full Reporter,Urban,Funds Applied,$0.00 ,"$179,905.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$10,763,134.00 ","$10,943,039.00 ",$0.00 
+90016,"Golden Gate Bridge, Highway and Transportation District",Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$31,671,546.00 ",$0.00 ,$0.00 ,"$31,671,546.00 ",$0.00 
+90017,City of Santa Rosa,Full Reporter,Urban,Funds Applied,"$82,391.00 ","$76,286.00 ",$0.00 ,$0.00 ,$0.00 ,"$26,779.00 ",$0.00 ,$0.00 ,$0.00 ,"$185,456.00 ","$64,082.00 "
+90017,City of Santa Rosa,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,233,392.00 ",$0.00 ,$0.00 ,"$1,233,392.00 ",$0.00 
+90019,Sacramento Regional Transit District,Full Reporter,Urban,Funds Applied,"$2,055,397.00 ","$416,816.00 ","$2,616,864.00 ",$0.00 ,$0.00 ,"$284,952.00 ","$499,022.00 ",$0.00 ,$0.00 ,"$5,873,051.00 ",$0.00 
+90019,Sacramento Regional Transit District,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$46,124,415.00 ",$0.00 ,"($9,149,678.00)","$36,974,737.00 ",$0.00 
+90020,Santa Barbara Metropolitan Transit District,Full Reporter,Urban,Funds Applied,$0.00 ,$0.00 ,"$127,157.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,410,274.00 ","$1,537,431.00 ","$1,010,274.00 "
+90020,Santa Barbara Metropolitan Transit District,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$4,092,104.00 ","$271,781.00 ",$0.00 ,"$4,363,885.00 ",$0.00 
+90022,City of Norwalk ,Full Reporter,Urban,Funds Applied,$0.00 ,"$6,053.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$6,053.00 ",$0.00 
+90023,Long Beach Transit,Full Reporter,Urban,Funds Applied,$0.00 ,"$9,999.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$836,046.00 ","$846,045.00 ",$0.00 
+90023,Long Beach Transit,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$14,782,362.00 ",$0.00 ,"($1,968,621.00)","$12,813,741.00 ",$0.00 
+90024,City of La Mirada ,Full Reporter,Urban,Funds Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$563.00 ,$0.00 ,$0.00 ,$0.00 ,$563.00 ,$0.00 
+90026,San Diego Metropolitan Transit System,Full Reporter,Urban,Funds Applied,"$311,927.00 ","$747,711.00 ","$532,309.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"($422,033.00)","$1,169,914.00 ",$0.00 
+90026,San Diego Metropolitan Transit System,Full Reporter,Urban,Funds Not Applied,"$11,261.00 ",$0.00 ,"$128,379.00 ",$0.00 ,$0.00 ,$0.00 ,"$166,466,275.00 ",$0.00 ,"$422,039.00 ","$167,027,954.00 ",$0.00 
+90027,City of Fresno,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$7,461,742.00 ",$0.00 ,$0.00 ,"$7,461,742.00 ",$0.00 
+90029,Omnitrans,Full Reporter,Urban,Funds Applied,$0.00 ,"$62,600.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$62,600.00 ",$0.00 
+90029,Omnitrans,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$22,836,728.00 ",$0.00 ,"($6,532,560.00)","$16,304,168.00 ",$0.00 
+90030,North County Transit District,Full Reporter,Urban,Funds Applied,"$729,170.00 ","$311,619.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$327,351.00 ","$1,368,140.00 ","$30,088.00 "
+90030,North County Transit District,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$37,698,579.00 ",$0.00 ,"$19,620,515.00 ",$0.00 ,"($5,412,653.00)","$51,906,441.00 ","$412,394.00 "
+90031,Riverside Transit Agency,Full Reporter,Urban,Funds Applied,$0.00 ,"$360,338.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$360,338.00 ",$0.00 
+90031,Riverside Transit Agency,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$16,513,597.00 ",$0.00 ,"($185,036.00)","$16,328,561.00 ",$0.00 
+90032,City of Phoenix Public Transit Department ,Full Reporter,Urban,Funds Applied,$0.00 ,"$247,920.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,236,334.00 ","$2,484,254.00 ",$0.00 
+90032,City of Phoenix Public Transit Department ,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$38,091,724.00 ",$0.00 ,$0.00 ,"$38,091,724.00 ",$0.00 
+90033,City of Tucson,Full Reporter,Urban,Funds Applied,"$644,524.00 ",$0.00 ,"$865,000.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,509,524.00 ",$0.00 
+90033,City of Tucson,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$6,238,165.00 ",$0.00 ,$0.00 ,"$6,238,165.00 ",$0.00 
+90034,City of Glendale ,Full Reporter,Urban,Funds Applied,"$197,540.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$839,922.00 ","$1,037,462.00 ",$0.00 
+90035,Gold Coast Transit District,Full Reporter,Urban,Funds Applied,"$910,160.00 ","$162,104.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,399,163.00 ","$2,471,427.00 ",$0.00 
+90035,Gold Coast Transit District,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$100,436.00 ",$0.00 ,"$702,224.00 ","$802,660.00 ",$0.00 
+90036,Orange County Transportation Authority,Full Reporter,Urban,Funds Applied,"$1,037.00 ","$3,755,871.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"($8,016,406.00)","($4,259,498.00)","($5,737,053.00)"
+90036,Orange County Transportation Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$29,735,504.00 ",$0.00 ,$0.00 ,"$29,735,504.00 ","$7,477,734.00 "
+90039,City of Culver City,Full Reporter,Urban,Funds Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,466,242.00 ","$2,466,242.00 ",$0.00 
+90039,City of Culver City,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$3,985,138.00 ",$0.00 ,$0.00 ,"$3,985,138.00 ",$0.00 
+90041,City of Montebello,Full Reporter,Urban,Funds Applied,"$1,432,677.00 ","$405,755.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"($101,914.00)","$1,736,518.00 ",$0.00 
+90041,City of Montebello,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$4,330,533.00 ",$0.00 ,"($3,552,669.00)","$777,864.00 ",$0.00 
+90042,City of Gardena,Full Reporter,Urban,Funds Applied,"$623,996.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$623,996.00 ",$0.00 
+90042,City of Gardena,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$4,603,923.00 ",$0.00 ,"($1,870,674.00)","$2,733,249.00 ",$0.00 
+90045,Regional Transportation Commission of Southern Nevada,Full Reporter,Urban,Funds Applied,$0.00 ,"$282,166.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$282,166.00 ",$0.00 
+90045,Regional Transportation Commission of Southern Nevada,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$48,270,559.00 ",$0.00 ,$0.00 ,"$48,270,559.00 ","$8,073,135.00 "
+90061,Yuba-Sutter Transit Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,790,045.00 ",$0.00 ,"($512,206.00)","$1,277,839.00 ",$0.00 
+90062,Monterey-Salinas Transit,Full Reporter,Urban,Funds Applied,"$140,733.00 ","$543,348.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$683,555.00 ","$1,367,636.00 ",$0.00 
+90062,Monterey-Salinas Transit,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$8,623,085.00 ",$0.00 ,"($3,277,327.00)","$5,345,758.00 ",$0.00 
+90078,Central Contra Costa Transit Authority,Full Reporter,Urban,Funds Applied,$0.00 ,"$143,550.00 ",$0.00 ,$0.00 ,$0.00 ,"$237,528.00 ",$0.00 ,$0.00 ,$0.00 ,"$381,078.00 ",$0.00 
+90078,Central Contra Costa Transit Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$7,123,208.00 ",$0.00 ,"($3,859,122.00)","$3,264,086.00 ",$0.00 
+90079,SunLine Transit Agency,Full Reporter,Urban,Funds Applied,$0.00 ,"$60,722.00 ","$96,975.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$157,697.00 ",$0.00 
+90079,SunLine Transit Agency,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$8,775,705.00 ",$0.00 ,"($4,052,476.00)","$4,723,229.00 ",$0.00 
+90086,City of Riverside,Full Reporter,Urban,Funds Applied,"$74,459.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$74,459.00 ",$0.00 
+90086,City of Riverside,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$216,519.00 ",$0.00 ,$0.00 ,"$216,519.00 ",$0.00 
+90087,City of Santa Maria,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,460,280.00 ",$0.00 ,$0.00 ,"$1,460,280.00 ",$0.00 
+90088,Napa Valley Transportation Authority,Full Reporter,Urban,Funds Applied,$0.00 ,$0.00 ,$1.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$1.00 ,$0.00 
+90088,Napa Valley Transportation Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,725,069.00 ",$0.00 ,$0.00 ,"$1,725,069.00 ",$0.00 
+90089,County of Sonoma ,Full Reporter,Urban,Funds Applied,$0.00 ,"$13,223.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$175,378.00 ","$188,601.00 ",$0.00 
+90089,County of Sonoma ,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$3,129,927.00 ","$421,576.00 ",$0.00 ,"$3,551,503.00 ",$0.00 
+90090,Yolo County Transportation District,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,425,605.00 ",$0.00 ,"$24,000.00 ","$2,449,605.00 ",$0.00 
+90091,City of Visalia  ,Full Reporter,Urban,Funds Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$613,307.00 ","$613,307.00 ",$0.00 
+90092,"City of Fairfield, California",Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,144,833.00 ",$0.00 ,$0.00 ,"$1,144,833.00 ","$69,523.00 "
+90093,Redding Area Bus Authority,Full Reporter,Urban,Funds Applied,"$1,126.00 ","$16,111.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$17,237.00 ",$0.00 
+90093,Redding Area Bus Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,496,477.00 ",$0.00 ,$0.00 ,"$1,496,477.00 ",$0.00 
+90094,Metropolitan Transportation Commission,Full Reporter,Urban,Funds Applied,$0.00 ,"$2,569,837.00 ",$0.00 ,$0.00 ,$0.00 ,$350.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,570,187.00 ",$0.00 
+90095,San Diego Association of Governments,Full Reporter,Urban,Funds Applied,$0.00 ,"$2,813,612.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,813,612.00 ",$0.00 
+90121,Antelope Valley Transit Authority,Full Reporter,Urban,Funds Applied,$0.00 ,"$1,409,000.00 ",$0.00 ,$0.00 ,$0.00 ,"$100,349.00 ",$0.00 ,$0.00 ,$0.00 ,"$1,509,349.00 ",$0.00 
+90121,Antelope Valley Transit Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$10,594,600.00 ",$0.00 ,$0.00 ,"$10,594,600.00 ",$0.00 
+90131,City of Scottsdale ,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,117,621.00 ",$0.00 ,"$257,034.00 ","$1,374,655.00 ",$0.00 
+90134,Peninsula Corridor Joint Powers Board,Full Reporter,Urban,Funds Applied,"$2,200,519.00 ","$82,785.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$7,300,042.00 ","$9,583,346.00 ",$0.00 
+90134,Peninsula Corridor Joint Powers Board,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$65,655,834.00 ",$0.00 ,$0.00 ,"$65,655,834.00 ",$0.00 
+90136,Regional Public Transportation Authority,Full Reporter,Urban,Funds Applied,"$3,384,413.00 ","$1,648,889.00 ","$536,262.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$30,324,801.00 ","$35,894,365.00 ",$0.00 
+90136,Regional Public Transportation Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$13,591,844.00 ","$3,071.00 ","$7,721,237.00 ","$21,316,152.00 ",$0.00 
+90140,City of Peoria ,Full Reporter,Urban,Funds Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$897,799.00 ","$897,799.00 ",$0.00 
+90142,"University of California, Davis",Full Reporter,Urban,Funds Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$36,866.00 ",$0.00 ,$0.00 ,$0.00 ,"$36,866.00 ",$0.00 
+90142,"University of California, Davis",Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,476,259.00 ",$0.00 ,$0.00 ,"$2,476,259.00 ",$0.00 
+90144,Livermore / Amador Valley Transit Authority,Full Reporter,Urban,Funds Applied,$0.00 ,"$86,218.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$86,218.00 ",$0.00 
+90144,Livermore / Amador Valley Transit Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$16,485.00 ","$16,485.00 ",$0.00 
+90146,Foothill Transit,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$31,926,283.00 ","$174,846.00 ","$3,096,708.00 ","$35,197,837.00 ",$0.00 
+90147,City of Los Angeles,Full Reporter,Urban,Funds Applied,$0.00 ,"$1,600,895.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,600,895.00 ",$0.00 
+90147,City of Los Angeles,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$19,172,847.00 ",$0.00 ,$0.00 ,"$19,172,847.00 ",$0.00 
+90148,Victor Valley Transit Authority,Full Reporter,Urban,Funds Applied,"$1,211,583.00 ","$1,341,932.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,553,515.00 ",$0.00 
+90148,Victor Valley Transit Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$6,368,786.00 ",$0.00 ,$0.00 ,"$6,368,786.00 ",$0.00 
+90151,Southern California Regional Rail Authority,Full Reporter,Urban,Funds Applied,$0.00 ,$0.00 ,"$5,055,439.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$5,055,439.00 ",$0.00 
+90151,Southern California Regional Rail Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$42,735,054.00 ",$0.00 ,"($7,005,207.00)","$35,729,847.00 ",$0.00 
+90154,Los Angeles County Metropolitan Transportation Authority ,Full Reporter,Urban,Funds Applied,"$2,355,630.00 ","$7,221,745.00 ",$0.00 ,$0.00 ,$0.00 ,"$44,710,327.00 ",$0.00 ,$0.00 ,"$14,520,258.00 ","$68,807,960.00 ",$0.00 
+90154,Los Angeles County Metropolitan Transportation Authority ,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$602,501,557.00 ","$5,693,498.00 ",$0.00 ,"$608,195,055.00 ",$0.00 
+90156,City of San Luis Obispo,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$348,497.00 ",$0.00 ,$0.00 ,"$348,497.00 ",$0.00 
+90157,Access Services  ,Full Reporter,Urban,Funds Applied,$0.00 ,"$2,940,035.00 ",$0.00 ,$0.00 ,$0.00 ,"$2,858,182.00 ",$0.00 ,$0.00 ,"($1,361,655.00)","$4,436,562.00 ",$0.00 
+90157,Access Services  ,Full Reporter,Urban,Funds Not Applied,$0.00 ,"($4,854.00)",$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$5,440,699.00 ",$0.00 ,$0.00 ,"$5,435,845.00 ",$0.00 
+90159,Western Contra Costa Transit Authority,Full Reporter,Urban,Funds Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"($263,109.00)","($263,109.00)",$0.00 
+90162,The Eastern Contra Costa Transit Authority,Full Reporter,Urban,Funds Applied,$0.00 ,"$315,927.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$315,927.00 ",$0.00 
+90162,The Eastern Contra Costa Transit Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$3,958,615.00 ",$0.00 ,$0.00 ,"$3,958,615.00 ",$0.00 
+90164,Ventura County Transportation Commission,Full Reporter,Urban,Funds Applied,$0.00 ,"$303,865.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$10,564.00 ","$314,429.00 ",$0.00 
+90164,Ventura County Transportation Commission,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,814,281.00 ",$0.00 ,$0.00 ,"$1,814,281.00 ",$0.00 
+90171,City of Santa Clarita,Full Reporter,Urban,Funds Applied,$0.00 ,$0.00 ,$0.00 ,$132.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"($186,135.00)","($186,003.00)",$0.00 
+90171,City of Santa Clarita,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$6,230,648.00 ",$0.00 ,$0.00 ,"$6,230,648.00 ",$0.00 
+90173,Transit Joint Powers Authority for Merced County,Full Reporter,Urban,Funds Applied,$0.00 ,"$50,491.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$50,491.00 ",$0.00 
+90173,Transit Joint Powers Authority for Merced County,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,531,735.00 ",$0.00 ,$0.00 ,"$1,531,735.00 ",$0.00 
+90182,Altamont Corridor Express,Full Reporter,Urban,Funds Applied,"$1,194,231.00 ",$0.00 ,$0.00 ,$0.00 ,"$16,832,821.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$18,027,052.00 ",$0.00 
+90182,Altamont Corridor Express,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$7,548,628.00 ",$0.00 ,$0.00 ,"$7,548,628.00 ",$0.00 
+90196,County of Placer,Full Reporter,Urban,Funds Applied,$0.00 ,"$598,597.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$195,979.00 ","$794,576.00 ",$0.00 
+90196,County of Placer,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,445,031.00 ",$0.00 ,$0.00 ,"$1,445,031.00 ",$0.00 
+90200,Kings County Area Public Transit Agency,Full Reporter,Urban,Funds Applied,$153.00 ,"$196,774.00 ",$0.00 ,$0.00 ,$0.00 ,"$2,487.00 ",$0.00 ,$0.00 ,$0.00 ,"$199,414.00 ",$0.00 
+90200,Kings County Area Public Transit Agency,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,692,810.00 ",$0.00 ,$0.00 ,"$1,692,810.00 ",$0.00 
+90206,San Luis Obispo Regional Transit Authority,Full Reporter,Urban,Funds Applied,"$94,523.00 ","$1,250,748.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$216,313.00 ","$1,561,584.00 ",$0.00 
+90206,San Luis Obispo Regional Transit Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$12,204,468.00 ",$0.00 ,$0.00 ,"$12,204,468.00 ",$0.00 
+90208,Butte County Association of Governments,Full Reporter,Urban,Funds Applied,$0.00 ,"$26,821.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$26,821.00 ",$0.00 
+90208,Butte County Association of Governments,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,499,295.00 ",$0.00 ,$0.00 ,"$1,499,295.00 ",$0.00 
+90209,"Valley Metro Rail, Inc.",Full Reporter,Urban,Funds Not Applied,"$62,095.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$56,264,911.00 ","$470,754.00 ","($1,690,070.00)","$55,107,690.00 ",$0.00 
+90211,Anaheim Transportation Network,Full Reporter,Urban,Funds Applied,"$538,560.00 ","$102,394.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$372,573.00 ","$1,013,527.00 ",$0.00 
+90211,Anaheim Transportation Network,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,284,089.00 ",$0.00 ,$0.00 ,"$2,284,089.00 ",$0.00 
+90213,City of Petaluma,Full Reporter,Urban,Funds Applied,$0.00 ,"$6,631.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$6,631.00 ","$1,199.00 "
+90213,City of Petaluma,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$592,540.00 ",$0.00 ,"($473,688.00)","$118,852.00 ",$0.00 
+90214,City of Redondo Beach,Full Reporter,Urban,Funds Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$16,692.00 ","$16,692.00 ",$0.00 
+90218,Riverside County Transportation Commission,Full Reporter,Urban,Funds Applied,$0.00 ,"$230,187.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$230,187.00 ",$0.00 
+90219,Northern Arizona Intergovernmental Public Transportation Authority,Full Reporter,Urban,Funds Applied,$0.00 ,"$40,111.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$83,697.00 ","$123,808.00 ",$0.00 
+90222,Pima Association of Governments,Full Reporter,Urban,Funds Applied,$0.00 ,"$114,394.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$114,394.00 ",$0.00 
+90223,"Paratransit, Inc.",Full Reporter,Urban,Funds Applied,"$44,805.00 ","$42,265.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$87,070.00 ",$0.00 
+90223,"Paratransit, Inc.",Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,158,289.00 ",$0.00 ,$0.00 ,"$1,158,289.00 ",$0.00 
+90225,San Francisco Bay Area Water Emergency Transportation Authority,Full Reporter,Urban,Funds Applied,$0.00 ,"$335,035.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$335,035.00 ",$0.00 
+90225,San Francisco Bay Area Water Emergency Transportation Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$18,174,558.00 ","$66,545.00 ",$0.00 ,"$18,241,103.00 ",$0.00 
+90226,Imperial County Transportation Commission,Full Reporter,Urban,Funds Applied,$0.00 ,"$125,413.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$838,539.00 ","$963,952.00 ",$0.00 
+90226,Imperial County Transportation Commission,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$838,539.00 ",$0.00 ,$0.00 ,"$838,539.00 ",$0.00 
+90230,California Vanpool Authority,Full Reporter,Urban,Funds Applied,$0.00 ,$0.00 ,"$147,828.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$147,828.00 ",$0.00 
+90232,Solano County Transit,Full Reporter,Urban,Funds Applied,$0.00 ,$1.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$1.00 ,$0.00 
+90232,Solano County Transit,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$4,764,545.00 ",$0.00 ,"$67,294.00 ","$4,831,839.00 ",$0.00 
+90233,Yuma County Intergovernmental Public Transportation Authority,Full Reporter,Urban,Funds Applied,"$25,692.00 ","$243,768.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$269,460.00 ",$0.00 
+90233,Yuma County Intergovernmental Public Transportation Authority,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$678,528.00 ",$0.00 ,$0.00 ,"$678,528.00 ",$0.00 
+90234,Marin County Transit District,Full Reporter,Urban,Funds Applied,$0.00 ,"$602,473.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$1,253,959.00 ","$1,856,432.00 ",$0.00 
+90234,Marin County Transit District,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$4,754,285.00 ",$0.00 ,$0.00 ,"$4,754,285.00 ",$0.00 
+90241,County of Maui,Full Reporter,Urban,Funds Applied,$0.00 ,"$923,943.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$923,943.00 ",$0.00 
+90241,County of Maui,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$17,036,347.00 ",$0.00 ,$0.00 ,"$17,036,347.00 ",$0.00 
+90299,Sonoma-Marin Area Rail Transit District,Full Reporter,Urban,Funds Applied,"$1,653,081.00 ","$19,647.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$15,204.00 ","$1,687,932.00 ",$0.00 
+90299,Sonoma-Marin Area Rail Transit District,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$20,352,749.00 ","$524,535.00 ","($2,416,772.00)","$18,460,512.00 ",$0.00 
+90302,San Bernardino County Transportation Authority,Full Reporter,Urban,Funds Applied,$0.00 ,"$409,284.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$409,284.00 ",$0.00 
+90306,Stanislaus Regional Transit Authority,Full Reporter,Urban,Funds Applied,$0.00 ,"$227,000.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$227,000.00 ",$0.00 
+91092,Tahoe Transportation District,Full Reporter,Urban,Funds Applied,$0.00 ,"$155,149.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$155,149.00 ",$0.00 
+91092,Tahoe Transportation District,Full Reporter,Urban,Funds Not Applied,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$516,726.00 ",$0.00 ,$0.00 ,"$516,726.00 ",$0.00 
+99422,San Joaquin Council,Full Reporter,Urban,Funds Applied,$0.00 ,"$2,400,094.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$2,400,094.00 ",$0.00 
+99424,City of Pasadena,Full Reporter,Urban,Funds Applied,$0.00 ,"$171,913.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$171,913.00 ",$0.00 
+99425,Pomona Valley Transportation Authority,Full Reporter,Urban,Funds Applied,$0.00 ,"$243,094.00 ",$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,$0.00 ,"$243,094.00 ",$0.00 
